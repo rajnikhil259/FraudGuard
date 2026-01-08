@@ -15,7 +15,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name='HRlytics',
+    name='FraudGuard',
     version='0.0.1',
     author='Nikhil Raj',
     author_email='vishvajeet259@gmail.com',
