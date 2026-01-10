@@ -9,6 +9,9 @@ from dataclasses import dataclass
 from fraudsecurity.components.data_transformation import DataTransformation
 from fraudsecurity.components.data_transformation import DataTransformationConfig
 
+from fraudsecurity.components.model_trainer import ModelTrainerConfig
+from fraudsecurity.components.model_trainer import ModelTrainer
+
 @dataclass
 class DataIngestionConfig:
     train_data_path: str=os.path.join('artifacts','train.csv')
@@ -56,5 +59,9 @@ if __name__=="__main__":
 
     data_transformation=DataTransformation()
     train_arr,test_arr,_=data_transformation.initiate_data_transformation(train_data,test_data)
+
+    modeltrainer=ModelTrainer()
+    best_model_name, best_model_roc, best_model_recall=modeltrainer.initiate_model_trainer(train_arr,test_arr)
+    print(f"Best Model: {best_model_name} with ROC_AUC: {best_model_roc:.4f} and Recall: {best_model_recall:.4f}")
 
           
