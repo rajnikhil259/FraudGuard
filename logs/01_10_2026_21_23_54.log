@@ -1,0 +1,12 @@
+[ 2026-01-10 21:23:59,864 ] 23 root - INFO - Entered the data ingestion method
+[ 2026-01-10 21:23:59,903 ] 32 root - INFO - Read the dataset as dataframe
+[ 2026-01-10 21:23:59,967 ] 38 root - INFO - Train test split initiated
+[ 2026-01-10 21:24:00,042 ] 44 root - INFO - Ingestion of the data is completed
+[ 2026-01-10 21:24:00,042 ] 90 root - INFO - Reading train and test datasets
+[ 2026-01-10 21:24:00,134 ] 103 root - INFO - Loading frequency maps
+[ 2026-01-10 21:24:00,172 ] 110 root - INFO - Applying frequency encoding
+[ 2026-01-10 21:24:00,190 ] 128 root - INFO - Obtaining preprocessing object
+[ 2026-01-10 21:24:00,190 ] 73 root - INFO - Numerical columns: ['amt', 'city_pop', 'age', 'hour', 'merchant_freq', 'zip_freq']
+[ 2026-01-10 21:24:00,190 ] 74 root - INFO - Categorical columns: ['category', 'gender', 'is_weekend']
+[ 2026-01-10 21:24:00,190 ] 132 root - INFO - Applying preprocessing on train and test data
+[ 2026-01-10 21:24:00,230 ] 140 root - INFO - Saving preprocessing object
