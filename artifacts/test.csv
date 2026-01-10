@@ -1,0 +1,2001 @@
+merchant,category,amt,gender,zip,city_pop,is_fraud,age,hour,is_weekend
+fraud_Kihn-Fritsch,food_dining,238.89,M,26237,571,0,21300,12,weekday
+fraud_Fisher Inc,shopping_net,9.9,M,31771,5666,0,8153,21,weekend
+"fraud_Welch, Rath and Koepp",entertainment,30.22,F,82227,241,0,16460,18,weekday
+fraud_Goyette-Gerhold,kids_pets,17.55,F,72042,5161,0,11964,14,weekend
+fraud_Barton LLC,kids_pets,22.72,F,21872,718,0,14906,20,weekday
+fraud_Frami Group,entertainment,55.33,M,78214,1595797,0,11042,21,weekend
+fraud_Kutch LLC,gas_transport,77.83,F,97492,597,0,23611,7,weekday
+"fraud_Armstrong, Walter and Gottlieb",food_dining,66.22,M,23303,741,0,14390,20,weekend
+fraud_Corwin-Gorczany,misc_net,795.22,F,15665,1472,1,30989,15,weekday
+"fraud_Casper, Hand and Zulauf",grocery_pos,56.88,M,15217,687276,0,19075,5,weekday
+fraud_Mraz-Herzog,gas_transport,58.19,F,68638,1749,0,19240,9,weekday
+fraud_Price Inc,shopping_net,8.26,M,37754,4729,0,15971,17,weekday
+fraud_VonRueden Group,grocery_net,53.38,M,35022,71463,0,13484,10,weekday
+fraud_Jaskolski-Vandervort,misc_net,3.41,F,30009,165556,0,10240,16,weekday
+fraud_Mraz-Herzog,gas_transport,80.88,F,91321,34882,0,19983,11,weekday
+fraud_Kozey-Kuhlman,personal_care,108.09,M,49705,937,0,24750,20,weekday
+fraud_Hudson-Ratke,grocery_pos,123.2,F,38315,3876,0,23792,7,weekday
+"fraud_Johnson, Runolfsdottir and Mayer",misc_net,130.28,M,21524,626,0,23768,0,weekend
+fraud_Friesen Inc,shopping_pos,5.6,F,76578,1766,0,18270,15,weekend
+"fraud_Hayes, Marquardt and Dibbert",misc_net,5.25,F,56548,771,0,19567,2,weekday
+fraud_Wilkinson LLC,personal_care,105.91,F,98233,14871,0,18933,14,weekend
+fraud_Connelly-Carter,home,3.99,F,74131,413574,0,19854,22,weekday
+fraud_Bernhard-Lesch,food_dining,56.55,M,5654,970,0,11790,22,weekday
+"fraud_Bahringer, Bergnaum and Quitzon",home,85.44,F,95567,1930,0,15551,17,weekend
+fraud_McKenzie-Huels,food_dining,28.58,M,55403,1022298,0,17999,19,weekday
+"fraud_Schultz, Simonis and Little",grocery_pos,84.16,F,84540,46,0,14141,1,weekend
+"fraud_Konopelski, Schneider and Hartmann",food_dining,4.76,M,40077,564,0,10866,20,weekday
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,3.26,F,32442,3699,0,28248,8,weekend
+fraud_Miller-Harris,misc_net,6.14,M,90650,105549,0,19102,7,weekend
+fraud_Champlin and Sons,home,106.66,F,58579,1190,0,28317,15,weekend
+fraud_Mayert Group,shopping_pos,5.15,F,34112,276002,0,33438,4,weekday
+fraud_Bednar Group,misc_net,785.98,F,60913,1617,0,13043,7,weekday
+"fraud_Ferry, Lynch and Kautzer",misc_net,3.07,F,6024,647,0,13985,8,weekend
+fraud_Cole PLC,grocery_pos,192.33,M,52576,568,0,20623,2,weekday
+fraud_Bernier and Sons,kids_pets,55.04,M,3601,477,0,13783,20,weekend
+fraud_Harris Group,food_dining,51.86,M,73754,1078,0,13244,20,weekday
+fraud_Schmidt-Larkin,home,71.67,F,10962,5950,0,19915,13,weekday
+"fraud_Stanton, Jakubowski and Baumbach",shopping_net,8.65,F,15449,184,0,29286,3,weekday
+fraud_Bartoletti-Wunsch,gas_transport,38.42,F,7980,2307,0,20574,11,weekday
+fraud_Kulas Group,health_fitness,66.72,F,18103,166081,0,9962,19,weekend
+fraud_Hamill-Daugherty,misc_net,18.43,F,20036,601723,0,14546,11,weekend
+fraud_Hudson-Ratke,grocery_pos,99.0,M,40914,467,0,15194,0,weekday
+"fraud_Towne, Walker and Borer",grocery_net,31.23,M,48174,31515,0,19789,10,weekend
+"fraud_Armstrong, Walter and Gottlieb",food_dining,14.37,F,36749,1089,0,19792,16,weekday
+fraud_Kessler Inc,travel,3.65,F,16114,606,0,10336,13,weekend
+"fraud_Mosciski, Gislason and Mertz",grocery_pos,221.81,F,11955,3285,0,13771,0,weekday
+"fraud_Lang, Towne and Schuppe",kids_pets,126.83,F,94558,94014,0,14751,23,weekday
+fraud_Eichmann-Russel,misc_pos,7.32,F,75490,2211,0,14197,22,weekday
+"fraud_Fadel, Mertz and Rippin",entertainment,124.42,F,32323,217,0,13134,18,weekday
+"fraud_Welch, Rath and Koepp",entertainment,75.07,M,50073,1195,0,18930,23,weekday
+"fraud_Stroman, Hudson and Erdman",gas_transport,51.38,F,36758,1412,0,20139,4,weekday
+fraud_Bartoletti and Sons,personal_care,85.49,F,31046,3343,0,12999,14,weekday
+fraud_Murray-Smitham,grocery_pos,167.57,M,96037,308,0,24583,5,weekday
+fraud_Volkman Ltd,misc_net,9.01,M,1843,76383,0,14890,6,weekend
+fraud_Jast Ltd,shopping_net,4.49,M,10604,11250,0,17678,15,weekday
+"fraud_Goldner, Kovacek and Abbott",grocery_pos,91.23,M,24433,99,0,14532,4,weekend
+"fraud_Koss, McLaughlin and Mayer",food_dining,14.14,F,52535,888,0,13804,15,weekday
+fraud_Kassulke Inc,entertainment,68.66,F,11710,34496,0,20169,12,weekend
+fraud_Kerluke Inc,misc_net,9.37,F,13342,165,0,29331,3,weekday
+fraud_Jaskolski-Vandervort,misc_net,7.89,M,44702,192805,0,22839,5,weekday
+fraud_Flatley Group,misc_pos,6.76,F,82221,635,0,19173,14,weekday
+fraud_Roob-Okuneva,health_fitness,64.42,M,14733,3833,0,20181,12,weekday
+fraud_Reichert-Weissnat,travel,4.02,M,74633,471,0,30966,21,weekday
+fraud_Kuhn LLC,misc_net,6.36,F,7711,1533,0,33142,1,weekday
+fraud_Predovic Inc,shopping_net,6.5,F,14816,520,0,12507,15,weekday
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,58.33,M,28423,2290,0,29253,23,weekday
+fraud_Bauch-Raynor,grocery_pos,188.18,F,36617,270712,0,19728,9,weekday
+fraud_Donnelly LLC,entertainment,9.17,M,52576,568,0,20623,0,weekday
+fraud_Zboncak Ltd,food_dining,84.9,F,16839,489,0,25318,15,weekend
+fraud_Crona and Sons,kids_pets,37.6,F,12419,722,0,12866,12,weekday
+fraud_Ullrich Ltd,kids_pets,24.8,F,32960,105638,0,14492,16,weekend
+fraud_Kerluke PLC,misc_net,1.63,M,84532,9772,0,13195,10,weekday
+"fraud_Tillman, Dickinson and Labadie",gas_transport,72.95,M,93627,123,0,19329,0,weekday
+fraud_Weimann-Lockman,kids_pets,127.79,M,11957,743,0,20931,12,weekday
+fraud_Abbott-Rogahn,entertainment,82.37,F,10039,1577385,0,16204,13,weekday
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,6.08,M,7747,30770,0,11943,21,weekend
+fraud_Pollich LLC,home,50.76,F,26292,836,0,16204,12,weekday
+fraud_Bauch-Raynor,grocery_pos,133.12,F,39769,1923,0,24100,10,weekend
+fraud_Cruickshank-Mills,entertainment,177.2,M,33981,79008,0,15106,13,weekend
+fraud_Jast and Sons,food_dining,7.96,M,77566,28739,0,9510,20,weekday
+"fraud_Kuhic, Bins and Pfeffer",shopping_net,15.65,F,55128,753116,0,19880,17,weekend
+fraud_Maggio-Fahey,misc_pos,31.46,F,26041,16183,0,17682,12,weekday
+"fraud_Nienow, Barrows and Romaguera",personal_care,5.27,M,13484,176,0,22658,12,weekday
+fraud_Bradtke PLC,grocery_pos,73.2,F,84002,302,0,13141,8,weekday
+fraud_Pollich LLC,home,2.39,F,33872,50835,0,14589,19,weekday
+fraud_Windler LLC,kids_pets,22.45,F,15377,724,0,11090,17,weekday
+fraud_Goyette-Gerhold,kids_pets,10.57,M,4047,1892,0,25515,20,weekday
+fraud_Nolan-Williamson,kids_pets,17.25,F,7060,71485,0,18802,14,weekday
+fraud_Macejkovic-Lesch,shopping_pos,8.89,F,91321,34882,0,19983,21,weekend
+"fraud_Schroeder, Wolff and Hermiston",travel,3.64,M,70466,8512,0,27157,16,weekend
+fraud_Boyer-Reichert,shopping_net,607.66,F,33967,224256,0,14743,13,weekend
+"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,135.16,M,57756,1126,0,16580,20,weekend
+fraud_Medhurst Inc,home,38.82,F,31632,10295,0,10241,19,weekend
+fraud_Veum-Koelpin,travel,2.28,M,59714,18182,0,18457,13,weekday
+fraud_Reichel Inc,entertainment,193.5,F,27522,12335,0,13992,17,weekday
+"fraud_Fadel, Mertz and Rippin",entertainment,302.11,F,13316,6460,0,24211,6,weekday
+fraud_Hirthe-Beier,health_fitness,75.65,M,32044,2060,0,15401,13,weekday
+fraud_Schamberger-O'Keefe,grocery_pos,75.88,F,57036,811,0,19645,4,weekend
+fraud_Mayert Group,shopping_pos,9.81,F,20687,313,0,18186,22,weekend
+fraud_Skiles LLC,home,183.74,F,95567,1930,0,15551,15,weekend
+fraud_Metz-Boehm,shopping_pos,658.55,M,44223,47772,0,21920,9,weekday
+"fraud_Cremin, Hamill and Reichel",misc_pos,7.61,F,85173,2872,0,13953,5,weekday
+fraud_Dare-Marvin,entertainment,44.68,M,75238,1263321,0,24302,3,weekday
+"fraud_Rohan, White and Aufderhar",misc_net,132.84,F,10962,5950,0,19915,10,weekend
+fraud_Weimann-Lockman,kids_pets,55.6,M,49775,95,0,11657,12,weekend
+"fraud_Watsica, Haag and Considine",shopping_pos,4.25,F,29939,302,0,19243,21,weekday
+fraud_Connelly-Carter,home,49.89,M,13811,4354,0,11650,19,weekday
+"fraud_Reilly, Heaney and Cole",gas_transport,72.08,M,58015,291,0,12672,3,weekday
+fraud_Champlin-Casper,home,127.34,M,33981,79008,0,15106,16,weekend
+"fraud_Douglas, DuBuque and McKenzie",travel,2.98,M,4210,23045,0,24601,23,weekday
+"fraud_Greenfelder, Bartoletti and Davis",misc_net,1.81,F,15449,184,0,29286,0,weekend
+fraud_Fadel Inc,health_fitness,7.65,F,73559,540,0,15430,13,weekday
+fraud_Haag-Blanda,food_dining,99.21,F,92637,45303,0,20472,12,weekday
+"fraud_Berge, Kautzer and Harris",personal_care,73.32,M,82514,1645,0,18215,13,weekday
+fraud_Bogisich-Weimann,kids_pets,21.77,M,22213,207410,0,15165,13,weekday
+fraud_Brown PLC,misc_net,75.24,M,21750,3766,0,15305,12,weekday
+fraud_Zboncak Ltd,food_dining,32.22,M,29455,20478,0,10446,23,weekend
+"fraud_Huel, Hammes and Witting",grocery_pos,91.19,F,23850,1051,0,17946,9,weekday
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,150.1,F,75092,46563,0,20209,23,weekday
+fraud_Mohr-Bayer,shopping_net,1.22,F,15484,328,0,15509,13,weekday
+"fraud_Morissette, Weber and Wiegand",grocery_net,113.63,M,87533,18408,0,19533,6,weekday
+fraud_Berge-Ullrich,home,75.34,M,4616,824,0,18696,15,weekday
+fraud_Fritsch and Sons,health_fitness,36.62,M,16858,3688,0,19220,20,weekend
+"fraud_Gutmann, McLaughlin and Wiza",home,29.38,M,54654,153,0,23340,20,weekday
+"fraud_Berge, Kautzer and Harris",personal_care,9.84,F,70808,378909,0,17853,21,weekday
+fraud_Kihn-Fritsch,food_dining,58.69,M,33844,33804,0,12792,22,weekday
+fraud_Cartwright PLC,kids_pets,51.86,F,73559,540,0,15430,21,weekday
+fraud_Frami Group,entertainment,76.06,M,16362,1102,0,13334,13,weekday
+fraud_Schumm PLC,health_fitness,70.93,M,47470,1735,0,12994,15,weekend
+fraud_Cormier LLC,shopping_net,3.73,M,35131,4159,0,10202,14,weekday
+fraud_Fisher-Schowalter,shopping_net,1.84,F,12910,2148,0,26529,1,weekend
+"fraud_Feil, Hilpert and Koss",food_dining,12.67,F,76665,2526,0,20147,16,weekday
+"fraud_Moen, Reinger and Murphy",grocery_pos,127.55,M,24927,365,0,20390,6,weekday
+fraud_Auer-Mosciski,grocery_pos,171.56,F,83646,84106,0,20056,4,weekend
+fraud_Spencer PLC,entertainment,112.34,F,72513,2856,0,36295,7,weekend
+"fraud_Reichert, Rowe and Mraz",shopping_net,383.54,M,99746,277,0,21979,5,weekday
+fraud_Huels-Nolan,gas_transport,50.61,M,52768,1426,0,25146,1,weekday
+"fraud_Tillman, Dickinson and Labadie",gas_transport,50.15,M,16878,1762,0,23261,0,weekday
+fraud_Heathcote LLC,shopping_net,411.05,F,80120,320420,0,18425,16,weekday
+"fraud_Osinski, Ledner and Leuschke",grocery_pos,125.43,F,76631,522,0,29149,5,weekend
+fraud_Bernhard Inc,gas_transport,61.0,F,13342,165,0,29331,1,weekday
+fraud_Grimes LLC,entertainment,37.32,F,72059,37,0,24845,17,weekend
+fraud_Bernhard Inc,gas_transport,72.57,F,21102,11751,0,22609,5,weekend
+fraud_Balistreri-Nader,misc_pos,25.58,F,70808,378909,0,17853,0,weekday
+fraud_Schamberger-O'Keefe,grocery_pos,77.49,F,98238,85,0,15105,0,weekend
+fraud_Price Inc,shopping_net,6.52,F,40820,581,0,21524,0,weekday
+fraud_Romaguera and Sons,travel,7.13,F,61530,6713,0,29363,17,weekend
+"fraud_Mante, Luettgen and Hackett",health_fitness,74.06,M,15077,198,0,17242,13,weekday
+fraud_Jast Ltd,shopping_net,4.65,F,32960,105638,0,14492,15,weekday
+"fraud_Fadel, Mertz and Rippin",entertainment,79.15,M,58769,229,0,15636,21,weekday
+"fraud_Streich, Dietrich and Barton",shopping_net,3.68,M,78040,248858,0,20070,21,weekday
+fraud_Marvin-Lind,personal_care,2.41,M,87533,18408,0,19533,18,weekend
+fraud_Brekke and Sons,gas_transport,67.46,F,82901,27971,0,15136,7,weekday
+"fraud_Feil, Hilpert and Koss",food_dining,55.58,M,20012,601723,0,20262,0,weekday
+fraud_Heathcote LLC,shopping_net,2.16,F,14537,207,0,23115,10,weekday
+fraud_Reichel Inc,entertainment,38.91,M,48174,31515,0,19789,13,weekend
+fraud_Friesen-D'Amore,gas_transport,64.33,F,76050,5875,0,12222,11,weekday
+"fraud_Heller, Gutmann and Zieme",grocery_pos,82.8,F,38079,5577,0,22290,0,weekday
+fraud_Corwin-Collins,gas_transport,71.44,M,10604,11250,0,17678,9,weekend
+"fraud_Gutmann, McLaughlin and Wiza",home,4.33,M,66070,2661,0,28180,18,weekday
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,4.02,M,69201,4005,0,29520,0,weekday
+"fraud_Turner, Ruecker and Parisian",misc_pos,6.8,F,68859,509,0,16552,14,weekday
+"fraud_Hagenes, Kohler and Hoppe",food_dining,141.26,F,67545,215,0,20867,22,weekend
+fraud_Brekke and Sons,gas_transport,79.12,M,87540,923,0,22481,9,weekday
+fraud_Bednar Inc,travel,5.03,M,1843,76383,0,14890,21,weekday
+fraud_Erdman-Kertzmann,gas_transport,80.36,F,56548,771,0,19567,1,weekday
+"fraud_Swaniawski, Nitzsche and Welch",health_fitness,65.88,M,26237,571,0,21300,20,weekend
+fraud_White and Sons,home,73.69,M,56152,1507,0,11777,16,weekend
+"fraud_Eichmann, Bogan and Rodriguez",gas_transport,75.91,F,13342,165,0,29331,6,weekend
+"fraud_Schoen, Nienow and Bauch",personal_care,140.29,F,76050,5875,0,12222,22,weekday
+fraud_O'Hara-Wilderman,food_dining,105.47,M,53061,5196,0,17519,12,weekday
+fraud_Balistreri-Nader,misc_pos,2.0,F,56546,346,0,17923,21,weekend
+fraud_Stamm-Witting,shopping_net,5.36,F,53801,878,0,18678,19,weekend
+fraud_Predovic Inc,shopping_net,2.42,M,24927,365,0,20390,7,weekend
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,60.2,F,79842,498,0,12831,4,weekday
+"fraud_Ruecker, Beer and Collier",shopping_net,87.91,M,61477,631,0,19322,3,weekday
+fraud_Gislason Group,misc_pos,263.68,F,98027,50489,0,15290,5,weekday
+fraud_Watsica LLC,personal_care,31.67,F,15484,328,0,15509,17,weekend
+fraud_Champlin-Casper,home,23.86,F,95528,1139,0,27388,20,weekday
+fraud_Volkman-Predovic,shopping_net,5.92,F,11710,34496,0,20169,19,weekday
+fraud_Dare-Marvin,entertainment,80.94,M,77971,911,0,20445,16,weekend
+"fraud_Gutmann, McLaughlin and Wiza",home,21.5,F,12910,2148,0,26529,16,weekday
+fraud_O'Connell-Ullrich,home,50.35,F,65072,1847,0,13589,17,weekday
+fraud_McDermott-Weimann,grocery_pos,42.85,M,78248,1595797,0,18275,9,weekday
+"fraud_Zieme, Bode and Dooley",gas_transport,85.25,F,56592,516,0,21766,2,weekend
+fraud_McCullough Group,grocery_net,32.2,M,48088,134056,0,16672,0,weekday
+"fraud_Tillman, Dickinson and Labadie",gas_transport,60.17,F,68881,73,0,33206,8,weekday
+fraud_Wilkinson Ltd,entertainment,30.14,F,68859,509,0,16552,18,weekend
+fraud_Bartoletti-Wunsch,gas_transport,55.12,M,49632,1126,0,25755,2,weekday
+"fraud_Koss, McLaughlin and Mayer",food_dining,37.28,F,39897,3430,0,27684,9,weekday
+fraud_Cummings LLC,gas_transport,91.57,F,72341,222,0,22881,11,weekend
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,8.9,M,4287,3224,0,10367,12,weekday
+fraud_Veum-Koelpin,travel,5.14,F,79842,498,0,12831,15,weekday
+fraud_Haag-Blanda,food_dining,46.14,M,77417,2457,0,16382,13,weekday
+fraud_Schamberger-O'Keefe,grocery_pos,122.15,F,41254,571,0,34642,3,weekday
+fraud_Gleason-Macejkovic,shopping_net,5.63,F,73669,1675,0,14498,20,weekday
+"fraud_Goyette, Howell and Collier",shopping_pos,7.91,F,5733,5895,0,18443,14,weekday
+fraud_Gulgowski LLC,home,82.85,M,57756,1126,0,16580,17,weekday
+"fraud_Cormier, Stracke and Thiel",entertainment,37.23,M,51453,695,0,26111,12,weekday
+fraud_Wolf Inc,grocery_pos,114.9,M,51453,695,0,26111,9,weekday
+"fraud_Yost, Block and Koepp",misc_pos,1.16,F,97034,42817,0,15932,9,weekday
+"fraud_Hahn, Douglas and Schowalter",travel,5.93,F,55080,2607,0,10994,15,weekend
+fraud_Christiansen-Gusikowski,misc_pos,464.74,M,12575,2258,0,32440,3,weekday
+fraud_Conroy-Cruickshank,gas_transport,72.66,F,64630,602,0,26112,6,weekday
+"fraud_Labadie, Treutel and Bode",shopping_net,105.6,M,11964,1858,0,15287,1,weekday
+fraud_Corwin-Collins,gas_transport,79.27,F,25049,630,0,24270,6,weekday
+fraud_Ziemann-Waters,health_fitness,27.92,F,21102,11751,0,22609,14,weekend
+fraud_Parisian and Sons,gas_transport,69.77,M,12534,17867,0,10026,6,weekday
+fraud_Friesen-Stamm,gas_transport,43.16,F,95528,1139,0,27388,2,weekend
+fraud_Kutch LLC,gas_transport,46.24,F,71232,6581,0,22611,4,weekday
+fraud_Turner LLC,travel,45.97,F,70003,137067,0,27065,19,weekday
+fraud_Hudson-Ratke,grocery_pos,57.28,M,25213,5512,0,16727,0,weekday
+"fraud_Kling, Howe and Schneider",home,88.19,M,24983,2443,0,30766,21,weekend
+fraud_Dooley Inc,shopping_pos,45.37,M,72354,2470,0,20914,1,weekday
+fraud_Heaney-Marquardt,entertainment,65.87,F,25442,1925,0,21879,21,weekday
+"fraud_Raynor, Feest and Miller",gas_transport,57.84,M,28117,69793,0,26330,6,weekend
+fraud_Stracke-Lemke,grocery_pos,47.42,M,25213,5512,0,16727,6,weekend
+fraud_Kihn Inc,shopping_pos,15.83,F,24070,1363,0,31185,11,weekend
+fraud_Schmidt-Larkin,home,81.34,M,55771,1680,0,17927,21,weekday
+"fraud_Christiansen, Goyette and Schamberger",gas_transport,75.49,M,77971,911,0,20445,9,weekday
+fraud_Kassulke PLC,shopping_net,171.14,F,32725,88735,0,13789,13,weekend
+fraud_McDermott-Weimann,grocery_pos,134.29,M,21865,470,0,22192,0,weekend
+fraud_Schamberger-O'Keefe,grocery_pos,52.26,M,37132,158701,0,17476,1,weekend
+"fraud_Schneider, Hayes and Nikolaus",food_dining,36.6,M,84532,9772,0,13195,14,weekday
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,66.74,F,90014,2383912,0,24331,18,weekend
+fraud_Graham and Sons,health_fitness,50.99,F,73754,1078,0,26850,14,weekday
+fraud_Corwin-Collins,gas_transport,72.56,M,19017,348,0,29469,5,weekend
+"fraud_Hoppe, Harris and Bednar",entertainment,37.1,M,33844,33804,0,12792,20,weekend
+fraud_Dibbert-Green,entertainment,14.04,M,42701,48194,0,13035,22,weekday
+fraud_Turner and Sons,shopping_pos,9.52,M,48221,673342,0,21389,2,weekend
+"fraud_Langworth, Boehm and Gulgowski",shopping_net,7.61,F,66941,242,0,14055,12,weekday
+"fraud_Streich, Hansen and Veum",gas_transport,68.38,M,78631,2395,0,11741,5,weekday
+fraud_Kling Inc,gas_transport,40.87,M,38761,2870,0,9807,2,weekday
+fraud_Spencer PLC,entertainment,5.68,F,21102,11751,0,22609,10,weekend
+fraud_Wiza LLC,misc_pos,1.2,M,33040,32891,0,14210,18,weekday
+fraud_Zboncak Ltd,food_dining,15.91,M,53120,9679,0,12692,22,weekend
+"fraud_Reichert, Huels and Hoppe",shopping_net,1.97,M,3818,3807,0,9573,13,weekday
+"fraud_Adams, Kovacek and Kuhlman",grocery_net,39.69,F,36749,1089,0,19792,7,weekday
+fraud_Hermann and Sons,shopping_pos,1.06,M,68438,142,0,21323,9,weekend
+fraud_Harris Group,food_dining,50.09,M,59014,1446,0,17526,22,weekend
+"fraud_Mosciski, Gislason and Mertz",grocery_pos,65.79,M,35229,493806,0,16617,3,weekday
+"fraud_Armstrong, Walter and Gottlieb",food_dining,17.09,F,20036,601723,0,14546,22,weekday
+fraud_Harris Inc,gas_transport,48.68,F,16048,139,0,26162,0,weekday
+fraud_Kutch LLC,gas_transport,49.81,F,53801,878,0,18678,10,weekend
+fraud_Pollich LLC,home,80.42,F,75662,24536,0,15428,15,weekday
+fraud_Effertz LLC,entertainment,91.99,M,30803,741,0,14501,16,weekday
+fraud_Kub-Heaney,health_fitness,12.32,M,45638,21635,0,8949,22,weekend
+fraud_Thiel Ltd,travel,3.15,F,84002,302,0,13141,16,weekday
+fraud_Windler LLC,kids_pets,45.03,F,73559,540,0,15430,14,weekday
+fraud_Dare-Marvin,entertainment,41.78,F,95528,1139,0,27388,23,weekend
+fraud_Pouros-Conroy,shopping_pos,7.38,M,22151,104396,0,27444,2,weekend
+fraud_Padberg-Welch,grocery_pos,50.57,M,20895,19054,0,18020,1,weekday
+fraud_Hoppe-Parisian,kids_pets,13.07,F,5733,5895,0,18443,21,weekend
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,55.62,M,1843,76383,0,14890,5,weekend
+"fraud_Jones, Sawayn and Romaguera",misc_net,95.19,F,82227,241,0,16460,19,weekday
+fraud_Boyer PLC,shopping_net,4.09,M,55046,5211,0,14227,23,weekend
+"fraud_Boehm, Predovic and Reinger",misc_pos,4.03,F,34112,276002,0,33438,7,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,51.17,F,35903,67082,0,20455,0,weekday
+"fraud_Kling, Howe and Schneider",home,9.32,M,53926,1628,0,21286,16,weekday
+"fraud_Swaniawski, Lowe and Robel",shopping_pos,4.63,F,33872,50835,0,14589,21,weekday
+fraud_Breitenberg LLC,travel,6.97,F,49854,6469,0,17074,23,weekday
+fraud_Kassulke Inc,entertainment,33.19,F,44902,92985,0,21044,8,weekend
+fraud_Stiedemann Ltd,food_dining,57.04,F,47451,1228,0,12721,19,weekend
+fraud_Spencer PLC,entertainment,73.4,M,82936,49,0,16259,23,weekday
+fraud_Kirlin and Sons,personal_care,51.74,F,82901,27971,0,15136,13,weekday
+"fraud_Mosciski, Ziemann and Farrell",shopping_net,1.68,F,97377,917,0,11143,16,weekday
+"fraud_Koss, McLaughlin and Mayer",food_dining,277.02,F,97014,1288,0,32760,15,weekend
+"fraud_Lehner, Reichert and Mills",misc_pos,7.21,F,94015,107941,0,12516,1,weekend
+"fraud_Schumm, Bauch and Ondricka",grocery_pos,87.13,M,62571,1532,0,16802,3,weekday
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,55.07,M,57756,1126,0,16580,16,weekday
+fraud_Connelly PLC,food_dining,3.15,F,29438,2408,0,10415,13,weekday
+fraud_Schmeler-Howe,personal_care,12.96,M,99746,277,0,21979,17,weekend
+fraud_Bruen-Yost,misc_pos,30.76,F,95537,276,0,35312,0,weekend
+fraud_Yost-Rogahn,personal_care,121.79,M,95827,757530,0,17056,12,weekend
+fraud_McDermott-Weimann,grocery_pos,97.45,F,65072,1847,0,13589,10,weekday
+fraud_Thiel Ltd,travel,1.48,F,79548,932,0,25963,19,weekday
+"fraud_Brown, Homenick and Lesch",health_fitness,95.22,F,79237,513,0,18127,16,weekend
+fraud_Bednar PLC,kids_pets,89.61,M,4047,1892,0,25515,17,weekday
+fraud_Schaefer Ltd,kids_pets,51.89,M,59014,1446,0,17526,20,weekend
+fraud_Deckow-O'Conner,grocery_pos,145.67,F,13316,6460,0,24211,10,weekday
+"fraud_Conroy, Balistreri and Gorczany",health_fitness,83.95,M,66616,163415,0,18461,22,weekday
+"fraud_Morissette, Weber and Wiegand",grocery_net,63.58,F,44412,2644,0,15478,1,weekday
+fraud_Kassulke PLC,shopping_net,232.56,M,53186,95015,0,29227,0,weekend
+"fraud_Nicolas, Hills and McGlynn",entertainment,74.25,F,67556,320,0,23638,13,weekend
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,41.08,F,55128,753116,0,19880,21,weekend
+fraud_Haley Group,misc_pos,293.38,F,70774,10076,0,17556,10,weekend
+fraud_Skiles LLC,home,79.91,M,57756,1126,0,16580,23,weekday
+"fraud_Kihn, Abernathy and Douglas",shopping_net,9.95,M,84532,9772,0,13195,22,weekday
+fraud_Koepp-Witting,grocery_pos,118.66,M,39113,595,0,16930,10,weekday
+fraud_Abshire PLC,entertainment,102.89,M,89319,450,0,28993,18,weekday
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,28.69,M,67584,269,0,23070,7,weekend
+"fraud_Casper, Hand and Zulauf",grocery_pos,119.81,F,77358,4993,0,28164,7,weekend
+"fraud_Denesik, Powlowski and Pouros",home,26.15,F,74131,413574,0,19854,19,weekend
+fraud_Schaefer Ltd,kids_pets,12.19,F,64874,760,0,14741,21,weekday
+fraud_Kerluke PLC,misc_net,19.13,F,56546,346,0,17923,7,weekend
+fraud_Medhurst PLC,shopping_net,88.55,M,15077,198,0,17242,7,weekend
+"fraud_Douglas, Schneider and Turner",shopping_pos,5.79,M,90650,105549,0,19102,23,weekend
+"fraud_Fadel, Mertz and Rippin",entertainment,3.81,F,16839,489,0,25318,20,weekday
+fraud_Rolfson-Kunde,personal_care,17.21,F,92637,45303,0,20472,16,weekday
+fraud_Sawayn PLC,shopping_pos,153.59,M,80436,565,0,17302,0,weekend
+"fraud_Koss, McLaughlin and Mayer",food_dining,1.36,F,17041,213,0,19687,16,weekend
+fraud_Jacobi Inc,health_fitness,186.19,F,39769,1923,0,24100,15,weekday
+fraud_Kemmer-Buckridge,misc_pos,35.96,M,15077,198,0,17242,9,weekend
+"fraud_Okuneva, Schneider and Rau",shopping_pos,430.82,M,67232,409656,0,14623,21,weekday
+fraud_Fisher-Schowalter,shopping_net,226.33,M,93529,633,0,35917,1,weekday
+fraud_Lesch Ltd,shopping_pos,1.01,F,72513,2856,0,36295,1,weekend
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,52.87,F,51521,2036,0,19866,12,weekend
+"fraud_Raynor, Feest and Miller",gas_transport,79.5,M,52572,1132,0,23705,3,weekday
+"fraud_Hartmann, Rowe and Hermann",travel,6.0,M,22968,9815,0,18449,13,weekday
+"fraud_Swaniawski, Nitzsche and Welch",health_fitness,2.46,F,68859,509,0,16552,23,weekday
+"fraud_Nienow, Ankunding and Collier",misc_pos,57.33,F,55128,753116,0,19880,0,weekday
+fraud_Kutch-Hegmann,grocery_net,75.1,F,17060,1334,0,14268,7,weekend
+fraud_Thiel-Thiel,entertainment,38.08,F,72059,37,0,24845,21,weekend
+fraud_Roob LLC,grocery_net,59.43,M,33956,3776,0,18016,4,weekday
+fraud_Metz-Boehm,shopping_pos,3.54,F,95148,973849,0,25779,8,weekday
+fraud_Friesen Inc,shopping_pos,141.01,M,35776,3395,0,17155,13,weekend
+fraud_Lemke-Gutmann,shopping_net,5.94,F,85253,17047,0,33218,1,weekday
+fraud_Bradtke PLC,grocery_pos,80.66,M,71762,2501,0,14457,6,weekend
+fraud_Bechtelar-Rippin,food_dining,67.82,M,12460,277,0,19752,22,weekend
+fraud_Cummerata-Hilpert,entertainment,160.28,F,92585,54287,0,19467,18,weekday
+fraud_Botsford Ltd,shopping_pos,138.76,M,55606,272,0,8954,21,weekend
+fraud_Tillman LLC,travel,2.2,F,87116,641349,0,21535,15,weekday
+fraud_Fisher-Schowalter,shopping_net,3.15,F,99160,149,0,17369,23,weekday
+fraud_Kris-Padberg,shopping_pos,272.33,F,14816,520,0,12507,12,weekday
+fraud_Balistreri-Nader,misc_pos,351.28,F,29809,2206,0,14254,17,weekday
+fraud_Lynch-Wisozk,home,36.25,M,7747,30770,0,11943,12,weekend
+fraud_Kling-Ernser,entertainment,8.4,F,47110,350,0,25937,13,weekday
+fraud_Bailey-Morar,grocery_pos,109.76,M,68403,206,0,21282,7,weekend
+fraud_Rutherford-Mertz,grocery_pos,83.83,M,94619,381459,0,18999,0,weekend
+fraud_Grimes LLC,entertainment,118.99,M,22968,9815,0,18449,23,weekday
+fraud_Reilly LLC,home,300.25,M,62668,1512,0,8283,17,weekday
+fraud_Bednar PLC,kids_pets,6.63,F,40820,581,0,21524,14,weekday
+fraud_Hudson-Grady,shopping_pos,9.07,F,99160,149,0,17369,17,weekday
+fraud_Lemke and Sons,travel,542.74,M,55771,1680,0,17927,20,weekday
+fraud_Morar Inc,grocery_net,46.64,M,4616,824,0,18696,5,weekend
+fraud_Simonis-Prohaska,misc_pos,7.92,M,28314,238602,0,11928,21,weekday
+fraud_Maggio-Fahey,misc_pos,10.9,F,76050,5875,0,12222,11,weekday
+"fraud_Greenholt, O'Hara and Balistreri",shopping_net,8.66,F,66618,163415,0,7680,20,weekday
+fraud_Thompson-Gleason,health_fitness,77.75,F,13647,69,0,12637,22,weekday
+fraud_Fisher Inc,shopping_net,6.1,F,1257,2121,0,19080,23,weekday
+"fraud_Larson, Quitzon and Spencer",travel,1.64,F,29320,530,0,13389,18,weekend
+fraud_Kutch and Sons,grocery_pos,97.39,M,31042,1841,0,18485,8,weekend
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,9.32,F,55128,753116,0,19880,23,weekday
+"fraud_Bahringer, Schoen and Corkery",shopping_pos,9.23,M,12534,17867,0,10026,22,weekend
+fraud_Kemmer-Reinger,grocery_net,82.59,M,36775,800,0,34082,3,weekday
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,8.7,M,22311,321490,0,12516,17,weekday
+fraud_Christiansen-Gusikowski,misc_pos,120.71,F,64470,1631,0,26652,0,weekday
+fraud_Hermann and Sons,shopping_pos,3.2,M,3753,2971,0,28397,6,weekend
+fraud_O'Keefe-Hudson,grocery_pos,114.02,F,56549,4508,0,28019,3,weekend
+fraud_Gleason and Sons,kids_pets,218.57,F,32960,105638,0,14492,21,weekday
+fraud_Bogisich-Homenick,misc_net,44.14,F,96776,1490,0,12690,0,weekend
+fraud_Conroy Ltd,shopping_pos,2.87,F,14537,207,0,23115,0,weekday
+fraud_Funk Group,grocery_net,27.02,M,20634,5927,0,19207,5,weekday
+fraud_Schumm PLC,shopping_net,1.15,F,75218,1263321,0,18531,18,weekday
+fraud_Champlin-Casper,home,34.68,F,67851,2691,0,11834,14,weekend
+fraud_Pacocha-O'Reilly,grocery_pos,248.41,F,94558,94014,0,14751,3,weekday
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,22.17,F,37932,391389,0,11585,17,weekend
+"fraud_Kohler, Lindgren and Koelpin",grocery_net,76.27,F,76857,1791,0,22082,8,weekday
+fraud_Denesik and Sons,shopping_pos,512.29,F,84003,42384,0,12064,22,weekday
+fraud_Lynch-Wisozk,home,16.82,M,20012,601723,0,20262,22,weekday
+fraud_Parker-Kunde,personal_care,21.05,F,54896,1478,0,22172,22,weekday
+"fraud_Douglas, DuBuque and McKenzie",travel,3.14,M,46290,910148,0,13989,13,weekday
+fraud_Kris-Padberg,shopping_pos,6.63,F,49854,6469,0,17074,13,weekend
+"fraud_Connelly, Reichert and Fritsch",gas_transport,89.75,M,37849,25459,0,20775,2,weekend
+fraud_Barton Inc,grocery_pos,74.06,F,10548,3487,0,24103,0,weekday
+fraud_Wuckert-Goldner,home,45.07,M,73134,640470,0,21749,20,weekend
+"fraud_Schaefer, McGlynn and Bosco",gas_transport,70.96,F,98238,85,0,15105,1,weekend
+"fraud_Hintz, Bauch and Smith",health_fitness,65.24,M,10604,11250,0,17678,16,weekday
+fraud_Koepp-Witting,grocery_pos,109.8,M,28117,69793,0,26330,2,weekday
+fraud_Donnelly LLC,entertainment,49.0,F,33967,224256,0,14743,20,weekday
+fraud_Dibbert-Green,entertainment,10.29,F,85253,17047,0,33218,5,weekday
+fraud_Kilback LLC,food_dining,56.16,F,70808,378909,0,17853,20,weekend
+fraud_Hoppe-Parisian,kids_pets,91.41,M,1843,76383,0,14890,13,weekday
+"fraud_Hettinger, McCullough and Fay",home,20.86,M,35811,190178,0,19276,13,weekday
+fraud_Swift PLC,kids_pets,49.43,M,49775,95,0,11657,13,weekday
+fraud_White and Sons,home,42.12,F,83646,84106,0,20056,18,weekday
+fraud_Cummerata-Hilpert,entertainment,60.79,M,71277,1758,0,24991,20,weekend
+"fraud_Turcotte, McKenzie and Koss",entertainment,14.54,F,61454,725,0,19400,23,weekday
+fraud_Huels-Nolan,gas_transport,70.17,M,45698,341,0,17189,10,weekday
+"fraud_Wiza, Schaden and Stark",misc_pos,2.18,F,6782,2376,0,19271,16,weekday
+fraud_Conroy-Emard,food_dining,87.73,F,76665,2526,0,20147,23,weekday
+"fraud_Heathcote, Yost and Kertzmann",shopping_net,205.35,M,7764,8097,0,22606,1,weekend
+fraud_Schmitt Ltd,misc_net,2.91,F,64726,467,0,27621,1,weekday
+fraud_Pouros-Conroy,shopping_pos,128.54,M,12460,277,0,19752,20,weekday
+fraud_Breitenberg-Hermiston,kids_pets,29.35,M,49440,128715,0,11187,14,weekday
+fraud_Leannon-Ward,food_dining,53.41,M,47470,1735,0,12994,22,weekend
+fraud_Kessler Group,travel,8.39,F,17929,1606,0,21794,12,weekday
+fraud_Doyle Ltd,grocery_pos,114.8,F,98836,584,0,20749,7,weekday
+fraud_Langworth LLC,personal_care,26.37,M,59542,192,0,22651,18,weekday
+fraud_Emard Inc,gas_transport,58.35,F,74130,413574,0,21024,1,weekday
+fraud_Kozey-Boehm,shopping_net,2.91,F,12910,2148,0,26529,8,weekend
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,207.21,M,33710,341043,0,13464,12,weekday
+"fraud_Gottlieb, Considine and Schultz",shopping_net,704.59,M,77566,28739,0,9510,21,weekday
+fraud_Predovic Inc,shopping_net,1.43,F,36869,59744,0,15312,19,weekday
+"fraud_Wuckert, Wintheiser and Friesen",home,17.34,M,22968,9815,0,18449,13,weekday
+fraud_Gerhold LLC,home,5.58,F,6441,5438,0,22333,19,weekend
+fraud_Reilly LLC,home,74.78,F,75452,4090,0,17824,20,weekday
+fraud_Hermann and Sons,shopping_pos,5.96,F,55128,753116,0,19880,20,weekday
+fraud_Medhurst Inc,home,28.52,M,50421,3032,0,22434,16,weekday
+fraud_Beier-Hyatt,shopping_pos,7.77,M,88325,899,0,21317,0,weekday
+fraud_Dach-Nader,misc_net,7.61,F,73669,1675,0,14498,6,weekday
+"fraud_Rodriguez, Yost and Jenkins",misc_net,8.66,F,13647,69,0,12637,3,weekday
+fraud_Auer-Mosciski,grocery_pos,81.65,M,38761,2870,0,9807,5,weekend
+fraud_Howe Ltd,misc_pos,4.63,F,85020,1312922,0,16148,6,weekend
+fraud_Kutch-Wilderman,home,63.02,M,7208,124967,0,16455,13,weekend
+"fraud_Medhurst, Labadie and Gottlieb",travel,9.47,F,40202,736284,0,26945,13,weekday
+fraud_Abernathy and Sons,food_dining,122.32,M,60193,92294,0,20707,4,weekday
+fraud_Turner LLC,travel,512.02,M,49775,95,0,11657,20,weekend
+fraud_Collier LLC,home,60.75,M,19017,348,0,29469,12,weekday
+fraud_Hermann-Gaylord,misc_pos,56.98,F,24266,9521,0,17614,4,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,72.72,F,40820,581,0,21524,4,weekend
+"fraud_Ritchie, Bradtke and Stiedemann",travel,4.32,F,39769,1923,0,24100,17,weekday
+fraud_Shields-Wunsch,health_fitness,65.84,M,14707,239,0,25454,16,weekday
+fraud_Little-Gleichner,travel,4.61,M,89084,214518,0,24100,17,weekend
+"fraud_Tillman, Dickinson and Labadie",gas_transport,67.78,M,5084,140,0,13222,2,weekday
+"fraud_Zboncak, Rowe and Murazik",shopping_net,1.06,M,29455,20478,0,10446,23,weekend
+"fraud_Jenkins, Hauck and Friesen",gas_transport,44.68,F,95528,1139,0,27388,3,weekday
+fraud_Conroy-Emard,food_dining,8.43,F,82514,1645,0,14571,17,weekday
+fraud_Weber and Sons,food_dining,103.51,F,80951,525713,0,12298,16,weekend
+fraud_Bradtke PLC,grocery_pos,81.39,M,13811,4354,0,11650,9,weekend
+"fraud_Pouros, Walker and Spencer",kids_pets,47.31,M,15077,198,0,17242,19,weekday
+fraud_McDermott-Rice,misc_pos,8.71,M,21208,33917,0,17743,16,weekday
+fraud_Klein Group,entertainment,16.19,F,79237,513,0,18127,14,weekday
+"fraud_Koss, Hansen and Lueilwitz",home,134.1,M,48221,673342,0,21389,21,weekday
+"fraud_Kling, Howe and Schneider",home,40.75,M,87313,5662,0,13425,19,weekday
+"fraud_Kihn, Brakus and Goyette",personal_care,3.2,M,46322,23727,0,16041,20,weekend
+fraud_Breitenberg-Hermiston,kids_pets,97.79,F,19007,21125,0,14839,23,weekend
+fraud_Huels-Nolan,gas_transport,53.33,F,13647,69,0,12637,6,weekday
+fraud_Erdman-Kertzmann,gas_transport,71.84,M,38060,9496,0,11980,0,weekend
+"fraud_Streich, Rolfson and Wilderman",kids_pets,2.91,M,35764,653,0,21754,21,weekend
+fraud_Kozey-McDermott,travel,4.7,M,21524,626,0,23768,16,weekday
+"fraud_Streich, Dietrich and Barton",shopping_net,6.79,M,38060,9496,0,11980,21,weekday
+"fraud_Streich, Dietrich and Barton",shopping_net,9.34,F,15449,184,0,29286,4,weekday
+fraud_Lynch-Wisozk,home,65.23,M,68641,1063,0,35711,12,weekday
+fraud_Wisozk and Sons,misc_pos,16.85,M,33710,341043,0,13464,12,weekend
+fraud_Lind-Buckridge,entertainment,78.2,M,61335,532,0,25568,21,weekday
+"fraud_Crist, Jakubowski and Littel",home,60.97,M,22311,321490,0,12516,21,weekday
+fraud_Barton Inc,grocery_pos,43.34,M,33956,3776,0,18016,6,weekday
+fraud_Gottlieb-Hansen,personal_care,3.65,F,87558,606,0,13639,12,weekday
+fraud_Erdman-Durgan,health_fitness,25.37,M,76566,258,0,29976,13,weekend
+fraud_Cummerata-Jones,gas_transport,91.02,F,52760,533,0,13145,6,weekday
+fraud_Kiehn-Emmerich,grocery_pos,103.11,F,94971,337,0,26121,5,weekend
+"fraud_Rippin, Kub and Mann",misc_net,2.05,M,70726,71335,0,11546,0,weekday
+fraud_Hammes-Beatty,kids_pets,7.14,F,46346,1423,0,9956,18,weekday
+"fraud_Huel, Hammes and Witting",grocery_pos,101.95,M,7640,4664,0,22108,8,weekday
+"fraud_Cremin, Hamill and Reichel",misc_pos,7.17,F,35903,67082,0,20455,4,weekend
+"fraud_Wiza, Schaden and Stark",misc_pos,3.64,F,64874,760,0,14741,16,weekday
+fraud_Mraz-Herzog,gas_transport,43.93,F,51521,2036,0,19866,6,weekday
+fraud_Lockman Ltd,grocery_pos,133.75,M,52572,1132,0,23705,9,weekday
+"fraud_Wuckert, Wintheiser and Friesen",home,43.96,F,61530,6713,0,29363,23,weekday
+"fraud_Casper, Hand and Zulauf",grocery_pos,194.98,F,28405,186140,0,15676,7,weekday
+fraud_Barton LLC,kids_pets,13.17,F,95148,973849,0,10583,19,weekend
+"fraud_Bradtke, Torp and Bahringer",personal_care,28.31,F,10548,3487,0,24103,13,weekday
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,5.67,M,48206,673342,0,28924,3,weekend
+fraud_Kulas Group,health_fitness,21.41,F,41056,14228,0,20013,16,weekday
+"fraud_Mosciski, Gislason and Mertz",grocery_pos,92.99,M,15324,632,0,13425,1,weekday
+fraud_Hills-Witting,shopping_net,1.1,M,73034,116001,0,11932,14,weekday
+"fraud_Lang, Towne and Schuppe",kids_pets,13.84,M,22968,9815,0,18449,17,weekend
+"fraud_Stanton, Jakubowski and Baumbach",shopping_net,2.87,M,75236,1263321,0,26767,3,weekday
+fraud_Ankunding LLC,shopping_net,94.53,M,22719,395,0,16073,0,weekday
+fraud_Abshire PLC,entertainment,181.69,F,97375,1252,0,32479,10,weekend
+"fraud_Zemlak, Tillman and Cremin",personal_care,35.3,F,66941,242,0,14055,13,weekend
+fraud_Kuhn LLC,misc_net,130.9,F,60958,2135,0,7916,14,weekday
+"fraud_Roob, Conn and Tremblay",shopping_pos,1101.55,M,91206,172817,0,15869,22,weekend
+fraud_Streich Ltd,home,96.86,F,32442,3699,0,28248,13,weekend
+fraud_Watsica LLC,personal_care,64.57,F,94015,107941,0,12516,18,weekend
+fraud_Homenick LLC,personal_care,14.6,F,51006,1075,0,10599,23,weekend
+fraud_Fahey Inc,kids_pets,29.8,M,29455,20478,0,10446,18,weekday
+fraud_Bode-Schuster,kids_pets,44.6,M,15324,632,0,13425,23,weekday
+fraud_Pouros-Haag,shopping_pos,8.75,M,74074,55345,0,28377,6,weekday
+"fraud_Dare, Fritsch and Zboncak",health_fitness,29.05,F,11217,2504700,0,9627,22,weekday
+fraud_Dibbert and Sons,entertainment,16.71,M,28117,69793,0,26330,4,weekday
+fraud_O'Keefe-Wisoky,food_dining,65.32,F,53129,13973,0,16319,15,weekend
+"fraud_Okuneva, Schneider and Rau",shopping_pos,9.73,M,55046,5211,0,14227,22,weekend
+fraud_Donnelly LLC,entertainment,170.12,F,46346,1423,0,9956,16,weekday
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,2.83,F,25442,1925,0,21879,9,weekend
+fraud_Cartwright-Harris,grocery_pos,125.23,F,87117,310,0,17268,8,weekend
+fraud_Beier LLC,entertainment,85.45,M,70056,55581,0,19477,21,weekday
+"fraud_Johnson, Runolfsdottir and Mayer",misc_net,9.41,F,81642,61,0,31478,9,weekday
+fraud_Erdman-Kertzmann,gas_transport,49.19,M,27258,6006,0,15148,10,weekend
+"fraud_Casper, Hand and Zulauf",grocery_pos,102.09,F,25442,1925,0,21879,5,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,45.0,M,59632,1939,0,21547,0,weekday
+fraud_Bogisich-Weimann,kids_pets,5.75,F,74536,1760,0,19713,22,weekday
+fraud_Smitham-Schiller,grocery_net,78.03,F,64058,123373,0,12096,1,weekday
+fraud_Dickinson Ltd,misc_pos,4.64,M,39665,1196,0,24684,10,weekday
+fraud_Sporer Inc,gas_transport,94.05,M,66070,2661,0,28180,4,weekend
+fraud_Bernier and Sons,kids_pets,10.14,F,57340,355,0,25765,19,weekday
+fraud_Rau and Sons,grocery_pos,185.1,F,33872,50835,0,14589,8,weekday
+fraud_Kilback LLC,grocery_pos,68.96,F,68638,1749,0,19240,3,weekday
+fraud_Morissette PLC,shopping_pos,9.43,M,46322,23727,0,16041,20,weekday
+fraud_Kuvalis Ltd,gas_transport,74.4,F,92561,1661,0,13626,8,weekday
+fraud_Schiller Ltd,personal_care,1.74,F,46254,910148,0,18303,16,weekend
+fraud_Corwin-Collins,gas_transport,46.54,F,12419,722,0,12866,8,weekend
+fraud_Nader-Heller,misc_net,58.05,F,84540,46,0,14141,0,weekday
+fraud_White and Sons,home,32.38,F,26041,16183,0,17682,17,weekday
+fraud_Bradtke PLC,grocery_pos,45.88,M,20634,5927,0,19207,8,weekday
+fraud_Tillman LLC,travel,8.14,F,39769,1923,0,24100,17,weekend
+fraud_Emard Inc,gas_transport,35.27,F,69165,1789,0,16038,3,weekday
+fraud_Brown Inc,kids_pets,1.45,F,29438,2408,0,10415,22,weekday
+"fraud_Yost, Schamberger and Windler",kids_pets,2.54,M,82501,19408,0,11808,14,weekend
+fraud_Padberg-Sauer,home,98.02,M,38039,1804,0,18714,23,weekday
+"fraud_Turcotte, McKenzie and Koss",entertainment,74.13,M,4047,1892,0,25515,15,weekend
+"fraud_Tillman, Dickinson and Labadie",gas_transport,42.37,F,67020,1689,0,10279,6,weekend
+fraud_Kutch-Wilderman,home,52.25,F,68950,331,0,27537,17,weekend
+fraud_Nader-Maggio,personal_care,31.69,M,71960,1383,0,21704,13,weekday
+"fraud_Adams, Kovacek and Kuhlman",grocery_net,74.85,F,94015,107941,0,12516,5,weekday
+"fraud_Gutmann, McLaughlin and Wiza",home,76.87,F,33811,237282,0,16992,13,weekday
+fraud_Abbott-Steuber,personal_care,52.33,M,38761,2870,0,9807,15,weekday
+fraud_DuBuque LLC,grocery_pos,113.19,F,13615,1271,0,24620,1,weekday
+"fraud_O'Reilly, Mohr and Purdy",home,16.71,F,62661,1213,0,12681,18,weekday
+fraud_Larkin Ltd,kids_pets,9.13,M,35049,3996,0,17741,21,weekday
+"fraud_Labadie, Treutel and Bode",shopping_net,19.93,F,44233,7646,0,13630,13,weekday
+fraud_Kutch-Hegmann,grocery_net,20.32,M,38761,2870,0,9807,9,weekend
+fraud_Altenwerth-Kilback,home,60.05,F,58651,475,0,25628,13,weekend
+"fraud_Rippin, Kub and Mann",misc_net,170.76,F,26292,836,0,16204,1,weekend
+fraud_Howe PLC,entertainment,78.05,M,76566,258,0,29976,19,weekday
+"fraud_Champlin, Rolfson and Connelly",travel,3.0,M,8323,804,0,22205,22,weekend
+"fraud_Lind, Huel and McClure",gas_transport,84.51,F,39653,2799,0,23729,9,weekday
+fraud_Bogisich-Weimann,kids_pets,81.24,F,40820,581,0,21524,13,weekday
+"fraud_Schiller, Blanda and Johnson",home,6.27,M,63453,519,0,21880,15,weekend
+fraud_Mraz-Herzog,gas_transport,50.98,M,28423,2290,0,29253,8,weekday
+fraud_Corwin-Gorczany,misc_net,3.89,F,33872,50835,0,14589,9,weekday
+fraud_Cummings LLC,gas_transport,56.5,F,15484,328,0,15509,6,weekday
+fraud_Vandervort-Funk,grocery_pos,251.98,F,75703,144160,0,15225,1,weekday
+fraud_Pouros-Conroy,shopping_pos,129.57,M,10604,11250,0,17678,12,weekday
+fraud_Volkman PLC,food_dining,25.39,F,61830,478,0,24103,13,weekday
+fraud_Gottlieb Group,kids_pets,132.12,M,22853,4367,0,23283,18,weekday
+fraud_Leffler-Goldner,personal_care,44.29,F,32725,88735,0,13789,16,weekend
+"fraud_Greenfelder, Bartoletti and Davis",misc_net,4.86,M,56019,914,0,29752,4,weekday
+fraud_Mayert Group,shopping_pos,187.37,M,99033,895,0,9720,21,weekday
+fraud_Roob-Okuneva,health_fitness,82.06,M,16858,3688,0,19220,15,weekday
+"fraud_Stehr, Jewess and Schimmel",misc_net,3.85,M,76008,13602,0,15163,4,weekday
+fraud_Cartwright PLC,kids_pets,38.77,M,21750,3766,0,15305,17,weekday
+fraud_Torp-Labadie,gas_transport,53.52,F,15484,328,0,15509,7,weekday
+fraud_Block-Parisian,misc_net,2.27,F,69165,1789,0,16038,1,weekday
+fraud_Balistreri-Nader,misc_pos,7.73,F,15829,1274,0,28054,4,weekday
+"fraud_Metz, Russel and Metz",kids_pets,54.02,M,73754,1078,0,13244,21,weekend
+fraud_Kerluke Inc,misc_net,9.21,F,13367,8830,0,12705,7,weekday
+"fraud_Schultz, Simonis and Little",grocery_pos,201.12,F,33967,224256,0,14743,8,weekday
+fraud_Bins-Rice,gas_transport,50.73,M,51453,695,0,26111,11,weekend
+"fraud_Ferry, Lynch and Kautzer",misc_net,448.65,F,20036,601723,0,14546,4,weekend
+"fraud_Raynor, Feest and Miller",gas_transport,70.91,M,19017,348,0,29469,6,weekday
+"fraud_Johnson, Runolfsdottir and Mayer",misc_net,121.92,M,59871,218,0,11104,17,weekend
+"fraud_Monahan, Bogisich and Ledner",misc_pos,4.29,M,10504,7987,0,22579,7,weekday
+fraud_Klein Group,entertainment,29.06,M,14425,10717,0,26751,3,weekend
+fraud_Kutch LLC,gas_transport,45.67,F,29127,8333,0,11507,8,weekend
+"fraud_Metz, Russel and Metz",kids_pets,5.4,F,11217,2504700,0,9627,15,weekday
+fraud_Haag-Blanda,food_dining,18.22,F,11217,2504700,0,9627,15,weekend
+"fraud_Moen, Reinger and Murphy",grocery_pos,183.84,F,79772,12747,0,14129,2,weekday
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,4.65,F,65072,1847,0,13589,18,weekday
+"fraud_Bernier, Volkman and Hoeger",misc_net,98.94,M,54418,1080,0,17168,4,weekday
+fraud_Padberg-Welch,grocery_pos,108.04,F,49628,372,0,11139,10,weekend
+fraud_Zboncak LLC,food_dining,35.75,F,72476,7155,0,17824,23,weekday
+"fraud_Metz, Russel and Metz",kids_pets,24.7,F,75092,46563,0,20209,14,weekday
+"fraud_Boehm, Block and Jakubowski",misc_pos,6.23,F,39769,1923,0,24100,1,weekday
+"fraud_Cole, Hills and Jewess",home,53.71,F,49854,6469,0,17074,16,weekend
+"fraud_Witting, Beer and Ernser",home,1.27,M,97210,841711,0,22926,14,weekend
+"fraud_Lind, Huel and McClure",gas_transport,74.02,F,76578,1766,0,18270,11,weekend
+fraud_Schumm PLC,shopping_net,1.88,M,52768,1426,0,25146,11,weekend
+fraud_Terry Ltd,home,40.29,M,54154,5548,0,18383,23,weekday
+fraud_Bahringer Group,health_fitness,75.59,F,58569,77,0,13172,20,weekday
+fraud_Kuhn LLC,shopping_pos,8.83,M,79252,3202,0,10159,17,weekend
+"fraud_Schoen, Nienow and Bauch",personal_care,44.64,F,29127,8333,0,11507,13,weekday
+fraud_Torphy-Goyette,shopping_pos,1.31,F,55080,2607,0,10994,18,weekend
+fraud_Nader-Heller,misc_net,188.45,M,76566,258,0,29976,2,weekday
+fraud_Friesen Inc,shopping_pos,12.23,F,57036,811,0,19645,21,weekday
+fraud_Nader-Maggio,personal_care,90.08,F,20687,313,0,18186,16,weekday
+fraud_Kiehn Inc,grocery_pos,149.95,M,52572,1132,0,23705,10,weekday
+"fraud_Okuneva, Schneider and Rau",shopping_pos,3.59,M,49621,3096,0,18353,21,weekday
+fraud_Fisher Inc,shopping_net,5.61,F,79548,932,0,25963,1,weekday
+fraud_Effertz LLC,entertainment,108.29,M,77971,911,0,20445,14,weekend
+fraud_Bogisich-Homenick,misc_net,7.06,M,67635,169,0,26461,7,weekend
+fraud_Jakubowski Inc,home,124.23,M,40056,3263,0,35014,17,weekend
+fraud_Fritsch LLC,travel,3.84,M,94569,198,0,24391,17,weekend
+"fraud_O'Connell, Botsford and Hand",home,58.89,F,13615,1271,0,24620,23,weekend
+fraud_Gerlach Inc,shopping_net,6.79,F,58579,1190,0,28317,1,weekend
+fraud_Erdman-Kertzmann,gas_transport,75.44,M,67584,269,0,23070,1,weekday
+fraud_Zulauf LLC,personal_care,8.99,M,7005,15269,0,11876,19,weekend
+fraud_Frami Group,entertainment,79.0,F,38079,5577,0,22290,9,weekend
+fraud_Hoppe-Parisian,kids_pets,20.06,M,21750,3766,0,15305,13,weekend
+"fraud_Jenkins, Hauck and Friesen",gas_transport,73.88,F,18103,166081,0,9962,3,weekend
+fraud_Kutch-Wilderman,home,80.55,M,54726,1690,0,18279,20,weekday
+fraud_Predovic Inc,shopping_net,3.78,F,49895,765,0,19569,16,weekday
+fraud_Metz-Boehm,shopping_pos,33.84,F,76050,5875,0,12222,15,weekday
+fraud_Kilback LLC,food_dining,22.83,F,53153,2328,0,30684,15,weekday
+fraud_Fahey Inc,kids_pets,55.25,F,12910,2148,0,26529,20,weekday
+fraud_Larson-Moen,entertainment,187.47,M,63021,92608,0,8933,14,weekday
+fraud_Boyer-Reichert,shopping_net,6.32,F,79548,932,0,25963,8,weekend
+fraud_Morissette-Schaefer,personal_care,11.35,F,98238,85,0,15105,19,weekday
+fraud_Turner and Sons,shopping_pos,137.93,M,17088,823,0,15897,18,weekday
+fraud_Deckow-Dare,food_dining,112.61,F,70808,378909,0,17853,18,weekday
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,6.53,M,22015,43102,0,27437,8,weekend
+fraud_Deckow-Dare,food_dining,3.6,M,55606,272,0,8954,17,weekend
+fraud_Flatley Group,misc_pos,30.11,M,57756,1126,0,16580,2,weekday
+"fraud_Durgan, Gislason and Spencer",home,111.4,M,29436,4471,0,19085,13,weekday
+fraud_Kulas Group,health_fitness,27.03,M,33710,341043,0,13464,23,weekend
+fraud_Cormier LLC,health_fitness,140.17,F,29127,8333,0,11507,19,weekend
+"fraud_Rippin, Kub and Mann",misc_net,4.97,F,28654,3495,0,13820,0,weekday
+fraud_Pacocha-Weissnat,kids_pets,49.98,F,75661,2807,0,34682,19,weekday
+fraud_Bednar Group,misc_net,5.78,F,61530,6713,0,29363,7,weekday
+"fraud_Lind, Huel and McClure",gas_transport,63.89,M,78248,1595797,0,18275,4,weekday
+"fraud_Kuhic, Bins and Pfeffer",shopping_net,4.44,F,33967,224256,0,14743,22,weekend
+"fraud_Huel, Hammes and Witting",grocery_pos,182.57,F,20036,601723,0,14546,1,weekday
+fraud_Goodwin-Nitzsche,grocery_pos,276.31,F,78208,1595797,1,23814,3,weekday
+fraud_Abernathy and Sons,food_dining,1.19,F,15920,922,0,19455,22,weekday
+fraud_DuBuque LLC,grocery_pos,110.63,F,29320,530,0,13389,5,weekday
+fraud_Kutch-Ferry,home,17.69,F,70808,378909,0,17853,15,weekday
+"fraud_Lubowitz, Terry and Stracke",personal_care,24.76,M,75236,1263321,0,26767,21,weekday
+fraud_Abbott-Rogahn,entertainment,41.33,M,96037,308,0,24583,16,weekend
+fraud_Macejkovic-Lesch,shopping_pos,7.08,F,8830,18459,0,35360,10,weekend
+"fraud_Dare, Fritsch and Zboncak",health_fitness,32.97,M,77566,28739,0,9510,13,weekend
+fraud_Grimes LLC,entertainment,186.49,M,70466,8512,0,27157,3,weekday
+"fraud_Swaniawski, Lowe and Robel",shopping_pos,3.74,F,33417,459921,0,23950,1,weekday
+fraud_Kling Inc,gas_transport,60.1,F,87543,247,0,23453,4,weekday
+fraud_Beier and Sons,home,26.82,F,69165,1789,0,16038,15,weekday
+"fraud_Lesch, D'Amore and Brown",food_dining,58.19,F,72529,4726,0,17748,23,weekday
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,116.75,F,37932,391389,0,11585,18,weekend
+fraud_Nader-Heller,misc_net,9.82,F,85020,1312922,0,16148,7,weekend
+"fraud_Kihn, Brakus and Goyette",personal_care,67.86,F,28659,21134,0,15284,14,weekend
+fraud_Kautzer and Sons,personal_care,4.19,F,13304,1684,0,11637,15,weekday
+fraud_Schiller Ltd,personal_care,32.36,M,28423,2290,0,29253,13,weekday
+"fraud_Reilly, Heaney and Cole",gas_transport,57.4,F,35901,67082,0,22980,8,weekday
+fraud_Jacobi and Sons,shopping_pos,3.8,F,77412,106,0,15510,16,weekend
+"fraud_Okuneva, Schneider and Rau",shopping_pos,99.91,F,39073,19685,0,14991,13,weekday
+fraud_McDermott-Weimann,grocery_pos,150.82,M,93529,633,0,35917,7,weekday
+fraud_Pouros-Haag,shopping_pos,6.63,M,13811,4354,0,11650,14,weekend
+"fraud_Quitzon, Green and Bashirian",shopping_pos,3.43,F,68859,509,0,16552,16,weekday
+fraud_Connelly-Carter,home,35.79,F,39157,24645,0,21775,15,weekday
+"fraud_Ferry, Reichel and DuBuque",grocery_net,37.03,M,33956,3776,0,18016,8,weekday
+fraud_Block Group,misc_pos,446.91,M,39439,4573,0,13843,20,weekday
+fraud_Hoppe-Parisian,kids_pets,49.47,M,14711,1766,0,23230,22,weekday
+fraud_Schoen Ltd,kids_pets,96.82,F,32565,5719,0,11388,21,weekday
+"fraud_Bins, Balistreri and Beatty",shopping_pos,1.47,F,27522,12335,0,13992,15,weekend
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,2.83,F,79772,12747,0,14129,16,weekday
+"fraud_Streich, Hansen and Veum",gas_transport,49.56,F,97492,597,0,23611,5,weekend
+fraud_Botsford PLC,home,83.87,M,14778,1453,0,18956,18,weekend
+fraud_Berge LLC,gas_transport,82.91,F,53801,878,0,18678,9,weekday
+"fraud_Streich, Rolfson and Wilderman",kids_pets,161.64,M,34112,276002,0,17174,22,weekend
+fraud_Simonis-Prohaska,misc_pos,36.39,M,55771,1680,0,17927,3,weekend
+"fraud_Dare, Casper and Bartoletti",kids_pets,56.44,F,72513,2856,0,36295,18,weekday
+fraud_Cummerata-Jones,gas_transport,69.3,M,63021,92608,0,8933,3,weekday
+fraud_Kutch LLC,gas_transport,91.2,F,56546,346,0,17923,8,weekday
+fraud_Beier LLC,entertainment,15.75,M,59542,192,0,22651,16,weekend
+fraud_Goyette Inc,shopping_net,4.73,M,22015,43102,0,27437,10,weekday
+"fraud_Schaefer, McGlynn and Bosco",gas_transport,66.26,M,12455,1988,0,17398,9,weekday
+fraud_Friesen-Ortiz,personal_care,43.4,M,68641,1063,0,35711,18,weekend
+fraud_Sawayn PLC,shopping_pos,9.11,F,64470,1631,0,26652,11,weekend
+"fraud_Ledner, Hartmann and Feest",health_fitness,8.67,F,82227,241,0,16460,19,weekday
+"fraud_Pouros, Walker and Spencer",kids_pets,38.76,F,57340,355,0,25765,17,weekday
+"fraud_McCullough, Hudson and Schuster",food_dining,55.76,M,35049,3996,0,17741,17,weekday
+"fraud_Romaguera, Cruickshank and Greenholt",shopping_net,494.44,F,36507,19090,0,35288,4,weekday
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,3.13,F,56549,4508,0,28019,6,weekend
+fraud_Leffler-Goldner,personal_care,100.08,F,17041,213,0,19687,19,weekday
+fraud_Thiel PLC,misc_pos,30.62,F,99323,3684,0,16112,2,weekday
+fraud_Macejkovic-Lesch,shopping_pos,7.37,M,46366,5791,0,24201,2,weekday
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,57.23,M,91206,172817,0,15869,22,weekend
+fraud_Kautzer and Sons,personal_care,8.2,M,83643,129,0,21940,13,weekday
+fraud_Spencer-Runolfsson,misc_pos,9.57,F,4680,1131,0,24351,0,weekend
+fraud_Schuppe LLC,entertainment,44.27,F,19149,1526206,0,14983,23,weekend
+"fraud_McDermott, Osinski and Morar",home,125.02,F,90403,92043,0,23635,13,weekday
+"fraud_Schaefer, McGlynn and Bosco",gas_transport,51.33,F,82227,241,0,16460,1,weekday
+fraud_Rutherford-Mertz,grocery_pos,32.71,M,90650,105549,0,19102,9,weekend
+fraud_Volkman PLC,food_dining,19.06,M,13811,4354,0,11650,15,weekday
+fraud_White and Sons,home,18.1,F,42273,443,0,28668,17,weekday
+fraud_Rau-Robel,kids_pets,45.95,M,63388,710,0,20193,18,weekend
+fraud_Botsford PLC,home,19.16,F,57340,355,0,25765,13,weekday
+"fraud_Labadie, Treutel and Bode",shopping_net,469.72,F,46346,1423,0,9956,17,weekend
+fraud_Schimmel-Olson,kids_pets,48.3,M,62360,1656,0,20612,16,weekday
+fraud_Kling-Ernser,entertainment,38.52,F,15920,922,0,19455,13,weekday
+fraud_Waelchi Inc,kids_pets,6.12,M,97132,28278,0,17708,21,weekday
+fraud_Treutel-King,travel,3.87,F,13755,1228,0,13102,14,weekend
+fraud_Veum-Koelpin,travel,2.07,F,77412,106,0,15510,15,weekend
+fraud_Murray-Smitham,grocery_pos,132.27,F,35581,5778,0,26698,1,weekend
+fraud_Kub PLC,personal_care,27.04,F,87558,606,0,13639,21,weekday
+fraud_Schmeler-Howe,personal_care,1.94,F,75662,24536,0,15428,15,weekend
+fraud_Huels-Nolan,gas_transport,51.85,M,99033,895,0,9720,8,weekend
+fraud_Baumbach Ltd,personal_care,1.94,F,68950,331,0,27537,18,weekday
+"fraud_Altenwerth, Cartwright and Koss",shopping_net,4.81,M,37132,158701,0,17476,14,weekday
+fraud_Kutch-Wilderman,home,35.23,F,98238,85,0,15105,21,weekday
+"fraud_Morissette, Weber and Wiegand",grocery_net,66.06,F,97403,191096,0,22558,2,weekday
+fraud_Morissette-Schaefer,personal_care,149.54,F,75703,144160,0,15225,17,weekday
+fraud_Herzog Ltd,misc_pos,4.27,F,15665,1472,0,30989,0,weekday
+fraud_Weimann-Lockman,kids_pets,84.22,F,52535,888,0,13804,21,weekday
+fraud_Kovacek Ltd,travel,5.9,F,28659,21134,0,15284,23,weekday
+"fraud_Nienow, Barrows and Romaguera",personal_care,36.48,M,37849,25459,0,20775,13,weekday
+fraud_Kling-Ernser,entertainment,196.56,F,72042,5161,0,11964,14,weekend
+fraud_Mraz-Herzog,gas_transport,64.35,F,32442,3699,0,28248,3,weekend
+fraud_Brekke and Sons,gas_transport,55.68,M,55403,1022298,0,17999,7,weekday
+fraud_Torphy-Kertzmann,health_fitness,6.49,F,77412,106,0,15510,18,weekend
+fraud_Feil-Morar,health_fitness,56.25,M,75980,2836,0,14647,18,weekday
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,2.48,F,13647,69,0,12637,12,weekend
+fraud_Cole PLC,grocery_pos,111.21,M,56152,1507,0,11777,3,weekday
+"fraud_Koss, Hansen and Lueilwitz",home,33.14,F,33967,224256,0,14743,17,weekday
+fraud_Mohr Inc,shopping_pos,5.05,M,27311,3402,0,35872,4,weekend
+fraud_Romaguera and Sons,travel,4.98,F,98304,759,0,25319,22,weekend
+"fraud_Bernier, Volkman and Hoeger",misc_net,5.23,F,75703,144160,0,15225,11,weekday
+"fraud_Mosciski, Gislason and Mertz",grocery_pos,113.47,F,68932,493,0,31164,9,weekday
+fraud_Erdman-Ebert,personal_care,60.13,F,50535,885,0,27907,23,weekday
+fraud_Kirlin and Sons,personal_care,77.1,M,30803,741,0,14501,14,weekend
+fraud_Kuphal-Toy,food_dining,53.57,M,50073,1195,0,18930,13,weekday
+fraud_Schmeler Inc,misc_pos,117.06,M,48174,31515,0,19789,16,weekday
+fraud_Gulgowski LLC,home,31.83,M,35049,3996,0,17741,19,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,64.38,F,54487,9594,0,10274,6,weekend
+fraud_Goyette Inc,shopping_net,1.9,M,67635,169,0,26461,1,weekday
+fraud_Mohr-Bayer,shopping_net,6.92,M,78248,1595797,0,18275,20,weekday
+fraud_Crona and Sons,kids_pets,161.05,F,76578,1766,0,18270,18,weekend
+fraud_Doyle Ltd,grocery_pos,111.24,M,95629,832,0,14115,5,weekend
+fraud_Ernser-Feest,home,57.32,M,70062,68211,0,30942,18,weekday
+fraud_Beier-Hyatt,shopping_pos,5.18,M,46322,23727,0,16041,14,weekday
+"fraud_Mueller, Gerhold and Mueller",health_fitness,76.86,M,55771,1680,0,17927,21,weekend
+"fraud_Heller, Gutmann and Zieme",grocery_pos,131.92,F,58765,248,0,21060,5,weekend
+fraud_Padberg-Rogahn,entertainment,36.38,M,35776,3395,0,17155,12,weekday
+fraud_Kutch and Sons,grocery_pos,145.0,M,12466,2471,0,21903,2,weekend
+fraud_Heidenreich PLC,grocery_pos,207.36,F,11710,34496,0,20169,0,weekday
+fraud_Friesen-Ortiz,personal_care,9.15,F,38778,1686,0,14309,17,weekend
+"fraud_O'Reilly, Mohr and Purdy",home,150.14,M,70726,71335,0,11546,16,weekend
+"fraud_Weber, Thiel and Hammes",kids_pets,59.38,F,87109,641349,0,18170,18,weekday
+fraud_Kutch LLC,gas_transport,52.76,F,29911,1725,0,18663,10,weekend
+"fraud_Lockman, West and Runte",grocery_pos,231.81,F,48438,6951,0,14815,1,weekend
+fraud_Nolan-Williamson,kids_pets,33.12,F,91702,59705,0,15541,23,weekend
+fraud_Kilback and Sons,entertainment,67.57,M,68403,206,0,21282,18,weekend
+fraud_Koepp-Parker,grocery_pos,168.89,F,13615,1271,0,24620,5,weekend
+"fraud_O'Connell, Botsford and Hand",home,65.44,M,93627,123,0,19329,16,weekend
+fraud_Mante Group,misc_net,3.68,M,49705,937,0,24750,7,weekday
+fraud_Lockman Ltd,grocery_pos,54.95,M,62668,1512,0,8283,1,weekday
+fraud_Pollich LLC,home,24.86,F,49854,6469,0,17074,13,weekday
+fraud_Stark-Koss,home,88.19,M,73754,1078,0,13244,22,weekend
+"fraud_Schiller, Blanda and Johnson",home,102.6,F,76905,103927,0,23207,14,weekday
+fraud_Bartoletti and Sons,personal_care,27.26,F,76050,5875,0,12222,17,weekday
+fraud_Lemke-Gutmann,shopping_net,108.81,M,61477,631,0,19322,2,weekday
+fraud_Kling Inc,gas_transport,76.22,M,48088,134056,0,16672,10,weekend
+fraud_Kulas Group,health_fitness,77.04,M,16362,1102,0,13334,21,weekend
+fraud_Heathcote LLC,shopping_net,3.94,M,37132,158701,0,17476,19,weekday
+fraud_Kutch-Wilderman,home,17.88,F,99160,149,0,17369,18,weekend
+"fraud_Casper, Hand and Zulauf",grocery_pos,108.49,M,5486,1654,0,12762,2,weekday
+fraud_Pfeffer and Sons,shopping_pos,144.9,M,5654,970,0,11790,22,weekday
+"fraud_Runte, Green and Emard",health_fitness,14.74,M,21524,626,0,23768,15,weekday
+fraud_Kling Inc,gas_transport,57.54,M,38761,2870,0,9807,9,weekday
+fraud_Auer-Mosciski,grocery_pos,127.2,M,14707,239,0,25454,3,weekday
+fraud_Vandervort-Funk,grocery_pos,111.19,M,35651,1312,0,25910,11,weekend
+fraud_Halvorson Group,misc_pos,127.7,M,49621,3096,0,18353,15,weekend
+fraud_Kilback Group,food_dining,14.85,F,21405,92106,0,30177,8,weekday
+fraud_Stracke-Lemke,grocery_pos,83.07,F,98238,85,0,15105,0,weekday
+fraud_Christiansen-Gusikowski,misc_pos,1.48,F,43160,22305,0,31718,5,weekday
+fraud_Kris-Padberg,shopping_pos,4.26,F,82901,27971,0,15136,20,weekday
+fraud_Bednar Inc,travel,487.8,M,5084,140,0,13222,21,weekday
+fraud_Hintz-Bruen,grocery_net,45.84,M,90250,93193,0,11223,6,weekday
+fraud_Abbott-Steuber,personal_care,61.47,F,4555,1643,0,18169,20,weekday
+fraud_Auer-West,shopping_net,3.46,M,53061,5196,0,17519,15,weekday
+fraud_Mohr-Bayer,shopping_net,1254.27,M,28611,885,1,13630,23,weekday
+fraud_Osinski Inc,personal_care,36.13,F,21405,92106,0,30177,19,weekend
+fraud_Predovic Inc,shopping_net,4.1,F,31046,3343,0,12999,15,weekday
+fraud_Herman Inc,misc_pos,6.01,F,15484,328,0,15509,15,weekend
+fraud_Nader-Maggio,personal_care,61.91,F,73559,540,0,15430,21,weekend
+fraud_Kuhn LLC,misc_net,188.83,F,60958,2135,0,7916,19,weekday
+"fraud_Daugherty, Pouros and Beahan",shopping_pos,9.62,F,48438,6951,0,14815,17,weekend
+"fraud_Weber, Thiel and Hammes",kids_pets,24.01,M,60091,27020,0,14415,22,weekday
+fraud_Gislason Group,misc_pos,3.92,F,59448,743,0,19608,18,weekend
+fraud_Dare-Marvin,entertainment,91.81,M,21750,3766,0,15305,14,weekday
+"fraud_Zboncak, Rowe and Murazik",shopping_net,84.59,F,36758,1412,0,20139,15,weekday
+fraud_Torphy-Goyette,shopping_pos,3.97,F,99160,149,0,17369,19,weekday
+"fraud_Becker, Harris and Harvey",personal_care,109.09,F,99323,3684,0,16112,14,weekday
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,32.61,F,85020,1312922,0,16148,21,weekday
+fraud_Douglas-White,entertainment,36.06,F,72047,969,0,26302,20,weekend
+"fraud_Berge, Kautzer and Harris",personal_care,5.97,M,33809,237282,0,27847,12,weekday
+fraud_Nolan-Williamson,kids_pets,2.9,F,55080,2607,0,10994,13,weekend
+"fraud_Rippin, Kub and Mann",misc_net,126.43,F,28659,21134,0,15284,9,weekday
+fraud_Bahringer Group,health_fitness,17.56,F,37932,391389,0,11585,21,weekday
+fraud_Gerlach Inc,shopping_net,8.8,F,84002,302,0,13141,20,weekday
+fraud_Connelly-Carter,home,57.79,F,19149,1526206,0,14983,16,weekday
+fraud_Brown Inc,kids_pets,11.48,F,85086,1312922,0,9537,17,weekend
+fraud_Kutch-Ferry,home,5.24,M,15686,972,0,10305,22,weekday
+fraud_Fritsch and Sons,health_fitness,24.19,F,94558,94014,0,14751,13,weekend
+"fraud_Denesik, Powlowski and Pouros",home,14.78,F,24266,9521,0,17614,14,weekday
+fraud_Bechtelar-Rippin,food_dining,38.45,M,99783,145,0,31473,18,weekday
+fraud_Hyatt-Blick,travel,6.71,M,59871,218,0,11104,21,weekday
+"fraud_Mosciski, Ziemann and Farrell",shopping_net,86.02,M,78631,2395,0,11741,5,weekday
+fraud_Prohaska-Murray,gas_transport,66.03,F,72513,2856,0,36295,5,weekday
+fraud_Dicki Ltd,grocery_net,36.29,M,26237,571,0,21300,11,weekday
+"fraud_Wintheiser, Dietrich and Schimmel",misc_pos,10.47,M,34668,42619,0,18357,19,weekday
+fraud_Leffler-Goldner,personal_care,12.15,F,56592,516,0,21766,21,weekday
+fraud_Friesen-Stamm,gas_transport,65.54,F,44902,92985,0,21044,5,weekday
+fraud_Kozey-Boehm,shopping_net,103.15,M,16362,1102,0,13334,4,weekday
+fraud_Friesen Ltd,health_fitness,12.45,F,49259,2523,0,13808,21,weekday
+fraud_Conroy-Emard,food_dining,31.93,F,32442,3699,0,28248,1,weekday
+"fraud_Tillman, Fritsch and Schmitt",misc_net,1.12,M,37754,4729,0,15971,10,weekend
+fraud_Jakubowski Inc,home,186.18,F,67545,215,0,20867,13,weekend
+"fraud_Watsica, Haag and Considine",shopping_pos,134.14,M,55771,1680,0,17927,12,weekend
+"fraud_Moore, Williamson and Emmerich",home,40.46,M,62888,2135,0,23719,16,weekday
+fraud_Baumbach Ltd,personal_care,9.08,F,28654,3495,0,13820,14,weekday
+"fraud_Mueller, Gerhold and Mueller",health_fitness,60.18,F,44412,2644,0,15478,23,weekend
+fraud_Homenick LLC,personal_care,103.87,M,71277,1758,0,24991,15,weekday
+"fraud_Schoen, Nienow and Bauch",personal_care,23.3,F,97441,260,0,25332,14,weekend
+fraud_Altenwerth-Kilback,home,35.82,F,62856,324,0,18105,23,weekday
+fraud_Kiehn Inc,grocery_pos,78.8,M,73624,2142,0,18090,7,weekday
+"fraud_Quitzon, Green and Bashirian",shopping_pos,3.4,M,16858,3688,0,19220,23,weekday
+fraud_Boyer PLC,misc_pos,364.94,F,72042,5161,0,11964,0,weekend
+fraud_Collier LLC,home,153.7,M,21090,9784,0,36961,20,weekday
+fraud_Cummerata-Jones,gas_transport,72.28,M,80138,84861,0,34273,10,weekday
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,81.72,M,39439,4573,0,13843,4,weekday
+fraud_Kris-Padberg,shopping_pos,2.74,F,84002,302,0,13141,17,weekday
+fraud_Stiedemann Ltd,food_dining,67.09,M,83120,471,0,21345,16,weekend
+"fraud_Jones, Sawayn and Romaguera",misc_net,3.23,F,74536,1760,0,19713,11,weekday
+fraud_Waters-Cruickshank,health_fitness,72.1,M,61477,631,0,19322,12,weekday
+fraud_Klein Group,entertainment,145.3,F,29170,52126,0,35203,2,weekday
+fraud_Beier-Hyatt,shopping_pos,159.42,M,14778,1453,0,18956,0,weekday
+fraud_Pagac LLC,shopping_pos,7.21,F,20776,3289,0,33903,8,weekday
+fraud_Hilpert-Conroy,kids_pets,83.39,F,39897,3430,0,27684,16,weekday
+fraud_Will Ltd,food_dining,5.69,F,82221,635,0,19173,14,weekend
+fraud_Pacocha-Bauch,shopping_pos,9.55,F,76857,1791,0,22082,0,weekday
+fraud_Weimann-Lockman,kids_pets,177.11,F,33967,224256,0,14743,16,weekday
+"fraud_Nienow, Ankunding and Collier",misc_pos,99.24,M,33710,341043,0,13464,17,weekday
+fraud_Koepp-Parker,grocery_pos,50.26,M,55606,272,0,8954,23,weekday
+fraud_Dach-Nader,misc_net,8.43,M,67584,269,0,23070,2,weekday
+"fraud_Ruecker, Beer and Collier",shopping_net,325.12,F,48438,6951,0,14815,21,weekend
+"fraud_Bernier, Streich and Jewess",grocery_net,49.54,F,78584,18128,0,12847,5,weekday
+fraud_Osinski Inc,personal_care,36.86,M,62424,2092,0,23265,18,weekday
+fraud_Keeling-Crist,misc_pos,2.56,F,56548,771,0,19567,15,weekday
+fraud_Block-Hauck,travel,450.6,M,49775,95,0,11657,22,weekday
+fraud_Berge-Hills,kids_pets,66.94,M,67584,269,0,23070,17,weekday
+"fraud_Greenholt, Jacobi and Gleason",gas_transport,73.11,F,95537,276,0,35312,10,weekday
+fraud_Dare-Gibson,health_fitness,10.16,M,83252,4154,0,23366,17,weekday
+fraud_Homenick LLC,personal_care,73.02,M,54499,3223,0,26126,14,weekend
+"fraud_Romaguera, Cruickshank and Greenholt",shopping_net,5.97,M,48088,134056,0,16672,19,weekday
+"fraud_Lubowitz, Terry and Stracke",personal_care,102.98,F,40336,13061,0,24312,15,weekday
+fraud_Terry-Huel,shopping_net,67.48,F,80951,525713,0,12298,20,weekend
+fraud_Crona and Sons,kids_pets,34.43,F,7060,71485,0,18802,19,weekend
+"fraud_Larson, Quitzon and Spencer",travel,2.24,F,84540,46,0,14141,23,weekday
+fraud_Goyette-Gerhold,kids_pets,31.25,M,28314,238602,0,11928,22,weekday
+"fraud_Reichert, Shanahan and Hayes",shopping_net,4.23,F,98836,584,0,20749,3,weekday
+"fraud_O'Connell, Botsford and Hand",home,86.87,M,5654,970,0,11790,18,weekend
+fraud_Cartwright PLC,kids_pets,14.69,F,58531,307,0,34848,14,weekday
+fraud_Beier LLC,entertainment,178.12,M,72524,376,0,31900,20,weekday
+"fraud_Schumm, Bauch and Ondricka",grocery_pos,103.95,F,3452,5457,0,27661,9,weekday
+"fraud_Rutherford, Homenick and Bergstrom",grocery_net,68.31,F,88355,8874,0,9277,2,weekday
+fraud_Torphy-Goyette,shopping_pos,4.24,F,84002,302,0,13141,13,weekday
+"fraud_Swaniawski, Nitzsche and Welch",health_fitness,4.58,F,16034,2054,0,22804,20,weekday
+fraud_Connelly PLC,food_dining,4.11,F,26339,255,0,19754,16,weekend
+fraud_Tillman LLC,travel,6.45,M,33710,341043,0,13464,21,weekday
+fraud_Abernathy and Sons,food_dining,4.35,M,73034,116001,0,11932,22,weekend
+fraud_Schmidt-Larkin,home,41.13,M,46765,5341,0,11369,20,weekday
+fraud_Bahringer-Larson,grocery_net,62.0,F,13755,1228,0,13102,0,weekend
+fraud_Dare-Marvin,entertainment,27.91,F,13755,1228,0,13102,20,weekday
+"fraud_Yost, Schamberger and Windler",kids_pets,73.93,F,29939,302,0,19243,14,weekday
+fraud_Deckow-Dare,food_dining,62.08,M,55388,5619,0,24466,8,weekend
+fraud_Cormier LLC,shopping_net,6.52,F,18917,2158,0,23580,9,weekend
+fraud_Doyle Ltd,grocery_pos,103.66,M,29209,333497,0,21115,10,weekday
+"fraud_Moen, Reinger and Murphy",grocery_pos,140.77,M,59542,192,0,22651,3,weekday
+"fraud_Larkin, Stracke and Greenfelder",entertainment,5.49,F,72042,5161,0,11964,20,weekend
+fraud_Bahringer-Larson,grocery_net,49.0,M,55046,5211,0,14227,7,weekend
+fraud_Botsford Ltd,shopping_pos,7.66,M,99746,277,0,21979,11,weekday
+"fraud_Monahan, Bogisich and Ledner",misc_pos,40.56,M,61477,631,0,19322,6,weekend
+fraud_Ernser-Feest,home,73.88,M,70531,1261,0,19550,22,weekday
+fraud_Deckow-Dare,food_dining,7.96,F,74720,608,0,11915,22,weekday
+fraud_Gislason Group,travel,470.23,M,15923,1770,0,11355,21,weekday
+fraud_Skiles-Ankunding,grocery_net,36.52,M,72165,111,0,9341,10,weekday
+"fraud_Roob, Conn and Tremblay",shopping_pos,1.6,M,39825,1461,0,32996,11,weekday
+fraud_Turner and Sons,shopping_pos,1.11,F,94015,107941,0,12516,23,weekday
+fraud_Schoen-Quigley,kids_pets,44.1,F,49259,2523,0,13808,23,weekday
+"fraud_Wuckert, Wintheiser and Friesen",home,22.62,F,99160,149,0,17369,20,weekend
+fraud_Kunze Inc,grocery_pos,151.03,F,76678,263,0,25426,3,weekend
+fraud_Bahringer-Streich,food_dining,8.74,F,26292,836,0,16204,13,weekday
+fraud_Kunze Inc,grocery_pos,121.81,F,15484,328,0,15509,6,weekend
+fraud_Douglas-White,entertainment,89.09,F,5733,5895,0,18443,18,weekday
+fraud_Runte-Mohr,food_dining,56.35,M,24927,365,0,20390,22,weekend
+fraud_Gleason and Sons,kids_pets,43.48,F,75703,144160,0,15225,20,weekday
+"fraud_Bernhard, Grant and Langworth",shopping_pos,135.13,M,54441,828,0,12562,7,weekday
+fraud_Carroll PLC,health_fitness,12.7,M,33710,341043,0,13464,18,weekday
+fraud_Pfeffer LLC,grocery_net,49.75,F,47451,1228,0,12721,2,weekday
+fraud_Schmidt and Sons,shopping_net,32.62,F,94971,337,0,26121,4,weekday
+fraud_Howe Ltd,misc_pos,22.3,M,93529,633,0,35917,3,weekday
+"fraud_Romaguera, Cruickshank and Greenholt",shopping_net,511.09,M,96038,589,0,29239,3,weekday
+"fraud_Kling, Howe and Schneider",home,36.07,M,79252,3202,0,10159,17,weekday
+fraud_Thiel Ltd,travel,3.9,M,39665,1196,0,24684,18,weekend
+fraud_Kihn-Fritsch,food_dining,63.28,F,64019,2368,0,13325,15,weekend
+fraud_Windler LLC,kids_pets,83.46,M,37754,4729,0,15971,17,weekday
+fraud_Gerlach Inc,shopping_net,8.34,F,74536,1760,0,19713,22,weekday
+fraud_Carroll PLC,health_fitness,50.93,F,82063,100,0,18896,20,weekend
+fraud_Jast and Sons,food_dining,50.23,F,39073,19685,0,14991,12,weekend
+fraud_Nienow PLC,entertainment,20.76,M,11957,743,0,20931,19,weekday
+fraud_Crona and Sons,kids_pets,104.51,M,30257,4138,0,20692,20,weekend
+fraud_Champlin-Casper,home,83.63,M,5084,140,0,13222,22,weekday
+"fraud_Lockman, West and Runte",grocery_pos,99.92,F,26339,255,0,19754,7,weekday
+fraud_Cartwright-Harris,grocery_pos,62.03,M,22968,9815,0,18449,3,weekday
+fraud_Beier LLC,entertainment,16.58,F,25106,642,0,28987,23,weekday
+"fraud_Osinski, Ledner and Leuschke",grocery_pos,86.75,F,72959,2786,0,22019,0,weekend
+"fraud_Daugherty, Pouros and Beahan",shopping_pos,7.26,M,35776,3395,0,17155,19,weekday
+fraud_Rodriguez Group,gas_transport,56.34,F,75662,24536,0,15428,2,weekday
+fraud_Prohaska-Murray,gas_transport,71.06,F,50312,222785,0,25553,3,weekday
+fraud_Leannon-Ward,food_dining,10.09,M,90650,105549,0,19102,13,weekday
+fraud_Larkin Ltd,kids_pets,74.74,M,20895,19054,0,18020,20,weekday
+fraud_Pfeffer and Sons,shopping_pos,69.48,F,98233,14871,0,18933,21,weekday
+fraud_Dach-Borer,grocery_net,55.49,M,49621,3096,0,18353,9,weekend
+"fraud_Towne, Walker and Borer",grocery_net,68.07,F,44412,2644,0,15478,4,weekday
+"fraud_Turcotte, Batz and Buckridge",health_fitness,79.18,M,14778,1453,0,18956,22,weekday
+fraud_Reichel LLC,personal_care,6.87,F,51521,2036,0,19866,22,weekend
+"fraud_Hintz, Bauch and Smith",health_fitness,133.34,M,22853,4367,0,23283,13,weekday
+fraud_Miller-Hauck,grocery_pos,202.71,F,98233,14871,0,18933,3,weekday
+"fraud_Rohan, White and Aufderhar",misc_net,8.68,M,96037,308,0,24583,3,weekday
+fraud_Yost-Rogahn,personal_care,4.66,F,97107,1530,0,14291,13,weekday
+"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,7.71,F,97452,1420,0,21974,0,weekday
+"fraud_Witting, Beer and Ernser",home,13.59,F,82063,100,0,18896,18,weekday
+fraud_Pacocha-O'Reilly,grocery_pos,103.0,F,72047,969,0,26302,0,weekday
+"fraud_Witting, Beer and Ernser",home,50.33,M,51453,695,0,26111,19,weekday
+"fraud_Terry, Johns and Bins",misc_pos,12.54,F,92882,233717,0,21782,3,weekend
+fraud_Stoltenberg-Beatty,shopping_pos,9.49,M,27258,6006,0,15148,21,weekday
+fraud_Gottlieb Group,kids_pets,30.55,F,58579,1190,0,28317,15,weekend
+fraud_Morissette LLC,entertainment,35.53,F,62262,1810,0,18644,16,weekday
+fraud_Mraz-Herzog,gas_transport,62.6,M,44857,23805,0,20410,11,weekday
+fraud_O'Hara-Wilderman,food_dining,57.44,M,59710,286,0,13455,14,weekday
+fraud_Block Group,misc_pos,32.66,M,28611,885,0,13630,4,weekday
+fraud_Koepp-Parker,grocery_pos,99.37,M,7022,13835,0,21411,0,weekend
+"fraud_Brown, Homenick and Lesch",health_fitness,124.25,F,72583,1679,0,14497,20,weekend
+"fraud_Lehner, Reichert and Mills",misc_pos,4.59,F,33417,459921,0,23950,6,weekend
+"fraud_Kihn, Brakus and Goyette",personal_care,4.44,M,4287,3224,0,10367,21,weekday
+fraud_Champlin-Casper,home,66.99,F,44265,51,0,23898,13,weekend
+fraud_Kuvalis Ltd,gas_transport,75.73,M,14778,1453,0,18956,3,weekday
+fraud_Doyle Ltd,grocery_pos,126.14,F,59448,743,0,19608,6,weekend
+fraud_Kerluke-Abshire,shopping_net,7.84,M,7750,3279,0,17263,15,weekday
+fraud_Medhurst Inc,home,92.53,M,82514,1645,0,18215,15,weekend
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,25.43,F,67545,215,0,20867,21,weekday
+fraud_Sporer-Keebler,personal_care,2.38,M,87540,923,0,22481,16,weekday
+fraud_Kuhic LLC,shopping_net,3.25,F,66618,163415,0,7680,18,weekday
+"fraud_Reilly, Heaney and Cole",gas_transport,73.53,M,38761,2870,0,9807,10,weekend
+fraud_Schmidt and Sons,shopping_net,898.81,F,15665,1472,1,30989,22,weekday
+fraud_Schuppe-Schuppe,food_dining,51.27,F,56138,899,0,11317,18,weekday
+fraud_Bailey-Morar,grocery_pos,104.18,F,66941,242,0,14055,0,weekday
+fraud_Jast and Sons,food_dining,8.07,M,22311,321490,0,12516,15,weekday
+fraud_Upton PLC,entertainment,43.64,M,84735,258,0,23422,14,weekday
+"fraud_Greenholt, Jacobi and Gleason",gas_transport,48.95,F,65072,1847,0,13589,4,weekday
+"fraud_Schiller, Blanda and Johnson",home,56.48,M,49705,937,0,24750,14,weekend
+"fraud_Schroeder, Wolff and Hermiston",travel,5.82,M,99033,895,0,9720,20,weekend
+fraud_Ledner-Pfannerstill,gas_transport,67.76,M,38922,3451,0,15210,1,weekday
+fraud_Emard Inc,gas_transport,42.79,M,54654,153,0,23340,5,weekday
+fraud_Donnelly LLC,entertainment,4.91,F,75661,2807,0,34682,3,weekend
+fraud_Waelchi Inc,kids_pets,37.32,F,27807,6629,0,23160,15,weekend
+"fraud_Kling, Howe and Schneider",home,258.54,M,35049,3996,0,17741,22,weekend
+"fraud_Windler, Goodwin and Kovacek",home,19.04,F,20687,313,0,18186,18,weekday
+fraud_Murray Ltd,grocery_net,86.77,F,11796,4056,0,12982,8,weekend
+fraud_Pacocha-Bauch,shopping_pos,148.02,M,64659,964,0,18645,11,weekend
+fraud_Pouros-Conroy,shopping_pos,134.24,M,18246,143,0,16030,8,weekday
+"fraud_Gutmann, McLaughlin and Wiza",home,58.85,F,72341,222,0,22881,17,weekday
+fraud_Medhurst Inc,home,24.78,F,82901,27971,0,15136,18,weekday
+fraud_Dickinson Ltd,misc_pos,68.37,F,71854,36438,0,14879,8,weekday
+fraud_Bauch-Blanda,entertainment,94.63,F,26292,836,0,16204,14,weekday
+fraud_Monahan-Morar,personal_care,174.19,F,98233,14871,0,18933,19,weekday
+fraud_Prohaska-Murray,gas_transport,68.47,F,59448,743,0,19608,6,weekday
+fraud_Kertzmann LLC,health_fitness,66.03,M,7208,124967,0,16455,17,weekday
+fraud_Pouros-Haag,shopping_pos,8.71,F,63665,241,0,18702,13,weekend
+fraud_Dooley Inc,shopping_pos,7.1,M,4287,3224,0,10367,19,weekday
+fraud_Bahringer-Streich,food_dining,80.52,F,74130,413574,0,21024,0,weekend
+fraud_Terry-Huel,shopping_net,9.52,F,64470,1631,0,26652,4,weekday
+fraud_Abbott-Steuber,personal_care,30.11,F,71854,36438,0,14879,13,weekday
+"fraud_Windler, Goodwin and Kovacek",home,50.16,M,21087,5451,0,23411,14,weekend
+fraud_Pagac LLC,shopping_pos,9.56,M,87533,18408,0,19533,15,weekday
+"fraud_Ferry, Lynch and Kautzer",misc_net,174.82,F,95528,1139,0,27388,8,weekend
+fraud_Crooks and Sons,personal_care,12.73,M,12534,17867,0,10026,16,weekday
+fraud_Barton Inc,grocery_pos,128.52,F,96103,1725,0,21412,3,weekend
+"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,101.82,M,56152,1507,0,11777,4,weekday
+fraud_McGlynn-Jaskolski,misc_pos,209.53,F,49854,6469,0,17074,5,weekday
+fraud_Harris Group,food_dining,20.2,F,80120,320420,0,18425,17,weekday
+"fraud_Hagenes, Hermann and Stroman",travel,2.81,F,76857,1791,0,22082,17,weekday
+fraud_Berge-Hills,kids_pets,51.55,M,68869,2202,0,18830,17,weekday
+"fraud_Metz, Russel and Metz",kids_pets,10.1,F,68881,73,0,33206,15,weekday
+"fraud_Mante, Luettgen and Hackett",health_fitness,22.01,M,46723,7692,0,14272,12,weekend
+fraud_Harris Inc,gas_transport,81.85,M,83252,4154,0,23366,3,weekend
+fraud_Rempel Inc,shopping_net,31.81,F,61530,6713,0,29363,3,weekday
+fraud_Hudson-Grady,shopping_pos,273.57,F,11796,4056,0,12982,15,weekend
+fraud_Eichmann-Kilback,home,1.8,M,27311,3402,0,35872,16,weekend
+fraud_Lockman Ltd,grocery_pos,101.64,F,62856,324,0,18105,7,weekend
+fraud_Schiller Ltd,personal_care,9.37,M,14711,1766,0,23230,23,weekend
+"fraud_Stroman, Hudson and Erdman",gas_transport,70.76,M,55046,5211,0,14227,0,weekend
+fraud_Watsica LLC,personal_care,69.36,M,5084,140,0,13222,17,weekday
+"fraud_Tillman, Fritsch and Schmitt",misc_net,2.73,F,76626,1563,0,17478,23,weekday
+fraud_Graham and Sons,health_fitness,83.09,F,53801,878,0,18678,12,weekend
+fraud_Kutch LLC,gas_transport,77.01,F,17058,1909,0,26073,3,weekday
+fraud_Padberg-Welch,grocery_pos,91.4,M,96727,4878,0,21587,1,weekday
+fraud_Stoltenberg-Beatty,shopping_pos,2753.89,M,21750,3766,0,15305,16,weekday
+"fraud_Lockman, West and Runte",grocery_pos,103.65,F,14816,520,0,12507,0,weekday
+"fraud_Runte, Green and Emard",health_fitness,22.31,F,94558,94014,0,14751,21,weekday
+"fraud_O'Connell, Botsford and Hand",home,22.14,F,70003,137067,0,27065,22,weekend
+fraud_Eichmann-Kilback,home,22.52,M,63533,805,0,20285,18,weekday
+fraud_Gaylord-Powlowski,home,52.94,M,28372,14783,0,25631,13,weekend
+fraud_Padberg-Welch,grocery_pos,120.66,M,8323,804,0,22205,5,weekend
+"fraud_Hagenes, Kohler and Hoppe",food_dining,1.93,M,55606,272,0,8954,15,weekend
+fraud_O'Keefe-Hudson,grocery_pos,142.27,M,21913,663,0,20814,0,weekday
+"fraud_Hauck, Dietrich and Funk",kids_pets,14.17,M,56029,744,0,21166,15,weekend
+"fraud_Welch, Rath and Koepp",entertainment,68.62,M,59710,286,0,13455,22,weekday
+fraud_Christiansen-Gusikowski,misc_pos,4.28,F,13342,165,0,29331,5,weekday
+"fraud_Stroman, Hudson and Erdman",gas_transport,61.14,M,75236,1263321,0,26767,1,weekday
+"fraud_Moore, Dibbert and Koepp",misc_net,19.09,F,27837,5903,0,11782,3,weekday
+fraud_Luettgen PLC,gas_transport,71.61,M,83643,129,0,21940,3,weekday
+fraud_Hills-Witting,shopping_net,14.31,F,98027,50489,0,15290,15,weekday
+fraud_Shanahan-Lehner,personal_care,179.59,F,54981,15426,0,32678,15,weekday
+fraud_Wilkinson PLC,kids_pets,146.6,M,68641,1063,0,35711,16,weekday
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,6.34,F,29061,13717,0,27813,9,weekday
+fraud_Cummings LLC,gas_transport,90.14,F,61530,6713,0,29363,0,weekend
+fraud_Hills-Boyer,personal_care,124.71,M,3818,3807,0,9573,18,weekday
+"fraud_Torp, Muller and Borer",health_fitness,71.62,M,64659,964,0,18645,20,weekday
+"fraud_Prosacco, Kreiger and Kovacek",home,78.78,M,45808,349,0,17182,16,weekend
+fraud_Koss and Sons,gas_transport,71.41,M,19017,348,0,29469,7,weekend
+fraud_Schumm PLC,shopping_net,5.25,F,13367,8830,0,12705,23,weekday
+"fraud_Hauck, Dietrich and Funk",kids_pets,5.46,F,42731,341,0,34019,16,weekday
+fraud_Gottlieb Group,kids_pets,59.22,M,78631,2395,0,11741,20,weekday
+fraud_Flatley Group,misc_pos,155.14,M,62668,1512,0,8283,19,weekend
+fraud_Prohaska-Murray,gas_transport,66.5,F,36532,27829,0,26105,0,weekday
+fraud_Dooley Inc,shopping_pos,4.28,F,43330,118,0,24895,5,weekend
+fraud_Shields Inc,grocery_net,34.68,F,76665,2526,0,20147,4,weekend
+fraud_Satterfield-Lowe,travel,2.52,F,4555,1643,0,18169,15,weekday
+"fraud_Reichert, Rowe and Mraz",shopping_net,31.93,F,18433,6508,0,16272,13,weekend
+fraud_Miller-Hauck,grocery_pos,65.52,M,78040,248858,0,20070,6,weekday
+"fraud_Johnston, Nikolaus and Maggio",grocery_net,115.79,F,52535,888,0,13804,10,weekday
+"fraud_O'Connell, Botsford and Hand",home,74.1,M,21865,470,0,22192,15,weekday
+fraud_Bednar PLC,kids_pets,38.45,F,66018,5760,0,17267,14,weekday
+fraud_Erdman-Kertzmann,gas_transport,43.46,F,13304,1684,0,11637,5,weekday
+fraud_Luettgen PLC,gas_transport,69.86,F,5733,5895,0,18443,1,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,47.89,F,25442,1925,0,21879,11,weekday
+fraud_Jast Ltd,shopping_net,712.75,M,49621,3096,0,18353,14,weekend
+"fraud_Turner, Ruecker and Parisian",misc_pos,50.57,M,66616,163415,0,18461,12,weekday
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,5.35,F,96776,1490,0,12690,13,weekday
+fraud_Wuckert-Walter,grocery_net,47.94,M,17088,823,0,15897,0,weekday
+"fraud_Douglas, Schneider and Turner",shopping_pos,7.65,F,76665,2526,0,20147,21,weekend
+fraud_Schulist Ltd,food_dining,3.11,F,64874,760,0,14741,17,weekday
+fraud_Brekke and Sons,gas_transport,107.32,M,28314,238602,0,11928,6,weekday
+"fraud_Stanton, Jakubowski and Baumbach",shopping_net,8.71,F,24970,4575,0,12498,19,weekend
+fraud_Connelly PLC,food_dining,4.19,F,46346,1423,0,9956,21,weekend
+fraud_Denesik and Sons,shopping_pos,4.09,F,54896,1478,0,22172,10,weekend
+fraud_Terry Ltd,home,35.08,F,29939,302,0,19243,12,weekend
+fraud_O'Keefe-Hudson,grocery_pos,50.91,M,35776,3395,0,17155,2,weekday
+fraud_Wuckert-Goldner,home,1.31,F,42731,341,0,34019,14,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,42.99,F,66941,242,0,14055,9,weekday
+fraud_Morissette PLC,shopping_pos,9.08,M,22311,321490,0,12516,21,weekday
+fraud_Kub PLC,personal_care,2.54,M,3753,2971,0,28397,13,weekday
+fraud_Upton PLC,entertainment,9.59,M,54654,153,0,23340,12,weekday
+"fraud_Heathcote, Yost and Kertzmann",shopping_net,5.02,M,48088,134056,0,16672,19,weekend
+fraud_Kilback LLC,food_dining,3.4,F,67020,1689,0,10279,12,weekday
+"fraud_Witting, Beer and Ernser",home,26.1,F,79759,23,0,20570,23,weekday
+fraud_Friesen-D'Amore,gas_transport,43.56,F,76857,1791,0,22082,1,weekday
+fraud_Kling-Grant,grocery_net,76.3,F,11796,4056,0,12982,1,weekday
+fraud_Graham and Sons,health_fitness,2.13,F,26292,836,0,16204,14,weekend
+fraud_Schaefer Ltd,kids_pets,57.89,F,76050,5875,0,12222,15,weekday
+fraud_Koepp-Parker,grocery_pos,238.54,F,77007,2906700,0,14999,9,weekend
+"fraud_Swaniawski, Lowe and Robel",shopping_pos,129.57,M,99033,895,0,9720,23,weekend
+fraud_McDermott-Weimann,grocery_pos,54.57,M,46322,23727,0,16041,3,weekday
+fraud_Brown-Greenholt,entertainment,1.21,F,23937,1970,0,14739,19,weekday
+fraud_Harris Inc,gas_transport,53.0,F,39769,1923,0,24100,2,weekday
+fraud_Lemke-Gutmann,shopping_net,85.65,M,79085,53,0,12257,3,weekday
+fraud_Huels-Hahn,gas_transport,46.44,F,97441,260,0,25332,3,weekend
+fraud_Kulas Group,health_fitness,34.81,F,31563,1324,0,36341,18,weekday
+"fraud_Larkin, Stracke and Greenfelder",entertainment,13.81,M,22311,321490,0,12516,12,weekday
+"fraud_Bernhard, Grant and Langworth",shopping_pos,206.46,F,12986,6120,0,17989,23,weekday
+"fraud_Okuneva, Schneider and Rau",shopping_pos,226.57,M,30257,4138,0,20692,9,weekday
+fraud_Medhurst Inc,home,10.66,M,35776,3395,0,17155,22,weekday
+fraud_Shanahan-Lehner,personal_care,24.77,M,73719,83,0,24637,18,weekday
+"fraud_Schaefer, Fay and Hilll",entertainment,35.28,M,21750,3766,0,15305,12,weekday
+fraud_Kutch LLC,gas_transport,48.69,F,76578,1766,0,18270,9,weekday
+fraud_Johns Inc,entertainment,88.86,M,39572,1414,0,24798,16,weekday
+fraud_Sporer Inc,gas_transport,46.31,F,55080,2607,0,10994,10,weekend
+"fraud_Osinski, Ledner and Leuschke",grocery_pos,145.85,F,75858,43,0,27856,6,weekday
+fraud_Murray-Smitham,grocery_pos,80.29,F,97403,191096,0,22558,7,weekend
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,116.64,M,15077,198,0,17242,11,weekday
+"fraud_Rutherford, Homenick and Bergstrom",grocery_net,70.36,M,84532,9772,0,13195,9,weekday
+"fraud_Hagenes, Hermann and Stroman",travel,35.62,M,19017,348,0,29469,16,weekday
+fraud_Jakubowski Group,food_dining,86.12,F,74131,413574,0,19854,20,weekend
+fraud_Heller-Langosh,gas_transport,57.83,F,4680,1131,0,24351,7,weekday
+"fraud_Schultz, Simonis and Little",grocery_pos,112.28,F,15920,922,0,19455,11,weekday
+fraud_Barton Inc,grocery_pos,103.51,F,14586,10256,0,21018,5,weekday
+"fraud_Schmeler, Bashirian and Price",shopping_net,6.19,F,91321,34882,0,19983,23,weekend
+fraud_Frami Group,entertainment,86.27,M,70531,1261,0,19550,13,weekday
+"fraud_Schumm, McLaughlin and Carter",food_dining,58.0,M,42634,1565,0,20988,19,weekend
+fraud_Rutherford-Mertz,grocery_pos,24.74,M,51632,7297,0,12964,0,weekday
+"fraud_Rodriguez, Yost and Jenkins",misc_net,4.48,F,56546,346,0,17923,6,weekday
+fraud_McGlynn-Jaskolski,misc_pos,202.5,F,15484,328,0,15509,17,weekend
+fraud_Huels-Nolan,gas_transport,76.6,F,72583,1679,0,14497,4,weekday
+fraud_Roob LLC,grocery_net,23.22,M,33040,32891,0,14210,6,weekday
+"fraud_Rippin, Kub and Mann",misc_net,3.79,F,7060,71485,0,18802,1,weekday
+fraud_Rolfson-Kunde,personal_care,10.32,F,82221,635,0,19173,19,weekend
+fraud_Bernhard Inc,gas_transport,71.85,M,72165,111,0,9341,10,weekday
+fraud_Erdman-Kertzmann,gas_transport,60.92,F,97441,260,0,25332,1,weekend
+"fraud_Dare, Casper and Bartoletti",kids_pets,1.13,F,62262,1810,0,18644,19,weekend
+fraud_DuBuque LLC,grocery_pos,67.81,M,10463,1382480,0,12845,0,weekday
+fraud_Torp-Labadie,gas_transport,85.62,F,62067,2401,0,19730,2,weekday
+fraud_Runolfsson and Sons,grocery_net,30.69,F,76626,1563,0,17478,3,weekday
+fraud_Prohaska-Murray,gas_transport,51.4,F,29819,1523,0,15195,3,weekend
+fraud_Hills-Boyer,personal_care,54.16,F,67556,320,0,23638,23,weekend
+"fraud_Wuckert, Wintheiser and Friesen",home,8.2,F,58765,248,0,21060,15,weekday
+fraud_Sawayn PLC,shopping_pos,2.16,F,20687,313,0,18186,12,weekday
+fraud_Predovic Inc,shopping_net,966.11,M,99783,145,1,31473,15,weekday
+fraud_Herman Inc,misc_pos,34.93,M,14778,1453,0,18956,3,weekday
+fraud_Gleason-Macejkovic,shopping_net,47.79,F,92585,54287,0,19467,18,weekday
+"fraud_Weber, Thiel and Hammes",kids_pets,58.65,M,7764,8097,0,22606,23,weekend
+fraud_Jakubowski Inc,home,109.41,M,79413,254282,0,27009,19,weekday
+fraud_Kilback LLC,food_dining,30.28,F,76578,1766,0,18270,20,weekday
+fraud_McDermott-Rice,misc_pos,34.45,M,24433,99,0,14532,0,weekday
+fraud_Nienow PLC,entertainment,50.06,M,7747,30770,0,11943,16,weekend
+"fraud_Roob, Conn and Tremblay",shopping_pos,9.32,F,92882,233717,0,21782,7,weekday
+"fraud_Streich, Dietrich and Barton",shopping_net,366.26,M,62424,2092,0,23265,10,weekend
+"fraud_Walter, Hettinger and Kessler",personal_care,7.99,F,35901,67082,0,22980,22,weekday
+fraud_Gaylord-Powlowski,home,38.72,F,76050,5875,0,12222,20,weekday
+fraud_Kris-Kertzmann,travel,7.6,F,2630,1850,0,22657,21,weekday
+"fraud_Nienow, Barrows and Romaguera",personal_care,14.16,M,76366,2317,0,22419,19,weekday
+fraud_Cummerata-Hilpert,entertainment,168.96,M,28901,5354,0,22186,8,weekday
+fraud_Ernser-Lynch,food_dining,63.37,F,10970,9993,0,23096,8,weekend
+fraud_Volkman-Predovic,shopping_net,7.98,M,44804,1202,0,33917,0,weekend
+fraud_Johns-Hoeger,entertainment,69.83,M,30803,741,0,14501,20,weekday
+"fraud_Robel, Cummerata and Prosacco",gas_transport,73.25,M,95827,757530,0,17056,2,weekday
+fraud_Medhurst Inc,home,95.71,M,5084,140,0,13222,22,weekend
+fraud_Bernhard-Lesch,food_dining,52.67,F,67038,602,0,24547,12,weekday
+fraud_Smitham-Schiller,grocery_net,65.45,F,82901,27971,0,15136,1,weekday
+"fraud_Daugherty, Pouros and Beahan",shopping_pos,145.15,M,12455,1988,0,17398,3,weekday
+fraud_Renner Ltd,home,71.28,M,82711,110,0,19231,20,weekday
+fraud_Bode-Schuster,kids_pets,34.38,F,95148,973849,0,10583,16,weekday
+fraud_Torp-Labadie,gas_transport,52.92,M,35651,1312,0,25910,11,weekday
+"fraud_Schiller, Blanda and Johnson",home,79.76,M,47515,965,0,16039,23,weekday
+"fraud_Hermiston, Russel and Price",food_dining,5.32,M,74875,1165,0,29644,14,weekday
+fraud_Barrows PLC,shopping_pos,7.9,M,90650,105549,0,19102,17,weekday
+"fraud_Lind, Huel and McClure",gas_transport,74.12,F,36758,1412,0,20139,8,weekend
+fraud_Tromp Group,travel,3.35,F,39073,19685,0,14991,18,weekday
+fraud_VonRueden Group,grocery_net,18.48,F,92561,1661,0,13626,7,weekend
+fraud_Cummings LLC,gas_transport,73.64,M,48636,864,0,30566,9,weekday
+fraud_Cormier LLC,shopping_net,7.36,F,14120,45100,0,11764,20,weekend
+"fraud_Ledner, Hartmann and Feest",health_fitness,4.04,F,91321,34882,0,19983,12,weekday
+fraud_Cummerata-Hilpert,entertainment,12.08,M,83643,129,0,21940,15,weekend
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,30.21,F,64470,1631,0,26652,13,weekday
+"fraud_Greenholt, O'Hara and Balistreri",shopping_net,94.29,M,80436,565,0,17302,5,weekend
+fraud_Streich Ltd,home,279.98,F,99160,149,0,17369,15,weekend
+"fraud_Streich, Hansen and Veum",gas_transport,68.76,M,28423,2290,0,29253,9,weekend
+fraud_Stracke-Lemke,grocery_pos,131.82,F,25106,642,0,28987,9,weekday
+fraud_Strosin-Cruickshank,grocery_pos,225.68,F,76665,2526,0,20147,0,weekday
+fraud_O'Keefe-Hudson,grocery_pos,101.67,M,76445,407,0,17321,0,weekend
+"fraud_Bernier, Volkman and Hoeger",misc_net,6.61,M,65354,628,0,23398,2,weekday
+fraud_Bednar PLC,kids_pets,84.92,F,37932,391389,0,11585,14,weekday
+fraud_Eichmann-Russel,misc_pos,8.19,M,7208,124967,0,16455,18,weekday
+fraud_Kertzmann LLC,health_fitness,11.64,F,8014,504,0,16581,20,weekend
+fraud_Kunze Inc,grocery_pos,149.42,M,16878,1762,0,23261,3,weekday
+fraud_O'Hara-Wilderman,food_dining,97.29,F,95537,276,0,35312,14,weekday
+fraud_Kulas Group,health_fitness,51.9,F,55128,753116,0,19880,15,weekday
+fraud_Satterfield-Lowe,travel,90.81,M,76366,2317,0,22419,22,weekday
+fraud_Botsford PLC,home,51.12,F,72011,4074,0,18283,21,weekend
+fraud_Shields Inc,grocery_net,43.84,F,6024,647,0,13985,1,weekend
+fraud_Upton PLC,entertainment,28.99,M,8323,804,0,22205,22,weekend
+"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,190.14,F,91702,59705,0,15541,5,weekday
+fraud_Bogisich Inc,grocery_pos,149.09,M,68626,614,0,21388,1,weekend
+"fraud_O'Connell, Botsford and Hand",home,56.89,M,11768,21902,0,18135,22,weekend
+fraud_Donnelly LLC,entertainment,45.74,M,8323,804,0,22205,12,weekday
+fraud_Kerluke-Abshire,shopping_net,526.67,M,21524,626,0,23768,3,weekday
+fraud_Bernier and Sons,kids_pets,74.62,F,76626,1563,0,17478,15,weekday
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,90.54,M,89084,214518,0,24100,8,weekend
+"fraud_Wiza, Schaden and Stark",misc_pos,451.52,F,55080,2607,0,10994,12,weekend
+fraud_Harris Group,food_dining,37.48,M,74633,471,0,30966,16,weekend
+"fraud_Denesik, Powlowski and Pouros",home,37.15,M,27258,6006,0,15148,19,weekday
+"fraud_Schaefer, Fay and Hilll",entertainment,74.79,M,45808,349,0,17182,21,weekend
+fraud_Bashirian Group,shopping_net,8.11,M,62360,1656,0,20612,7,weekday
+"fraud_Reichert, Rowe and Mraz",shopping_net,2.81,F,20776,3289,0,33903,11,weekday
+fraud_Fritsch and Sons,health_fitness,75.49,M,82711,110,0,19231,18,weekend
+"fraud_Larkin, Stracke and Greenfelder",entertainment,141.63,F,61530,6713,0,29363,5,weekday
+fraud_Crona and Sons,kids_pets,21.57,M,96727,4878,0,21587,18,weekday
+fraud_Howe PLC,entertainment,11.56,F,49259,2523,0,13808,21,weekend
+fraud_Hackett-Lueilwitz,grocery_pos,79.37,M,94619,381459,0,18999,9,weekend
+fraud_Marvin-Lind,personal_care,61.05,M,87533,18408,0,19533,12,weekday
+fraud_Corwin-Gorczany,misc_net,3.35,F,51521,2036,0,19866,1,weekday
+fraud_Powlowski-Weimann,food_dining,80.77,F,85173,2872,0,13953,17,weekday
+fraud_Runte-Mohr,food_dining,5.42,F,51006,1075,0,10599,17,weekend
+"fraud_Herman, Treutel and Dickens",misc_net,8.25,F,13615,1271,0,24620,8,weekday
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,77.21,F,73754,1078,0,26850,16,weekday
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,4.79,F,58579,1190,0,28317,9,weekend
+fraud_Friesen-Stamm,gas_transport,59.2,M,96038,589,0,29239,8,weekday
+"fraud_Okuneva, Schneider and Rau",shopping_pos,2.09,F,49259,2523,0,13808,17,weekday
+fraud_Stark-Batz,entertainment,17.17,M,31771,5666,0,8153,20,weekend
+"fraud_Romaguera, Wehner and Tromp",kids_pets,43.38,M,8323,804,0,22205,23,weekday
+fraud_Kling-Grant,grocery_net,41.58,M,33956,3776,0,18016,8,weekend
+fraud_Volkman Ltd,misc_net,840.76,M,65354,628,0,23398,3,weekend
+fraud_Cole PLC,grocery_pos,124.81,F,72059,37,0,24845,8,weekend
+fraud_Huels-Hahn,gas_transport,67.32,F,50312,222785,0,25553,10,weekday
+"fraud_Baumbach, Hodkiewicz and Walsh",shopping_pos,169.13,M,65354,628,0,23398,10,weekday
+fraud_Beer-Jast,kids_pets,46.64,M,97813,1302,0,17980,19,weekday
+fraud_Gerhold LLC,home,91.47,M,97813,1302,0,17980,17,weekday
+fraud_Pacocha-Bauch,shopping_pos,145.08,M,16362,1102,0,13334,2,weekday
+"fraud_Heller, Gutmann and Zieme",grocery_pos,101.22,F,64019,2368,0,13325,8,weekend
+"fraud_Bernier, Volkman and Hoeger",misc_net,6.99,F,30009,165556,0,10240,22,weekday
+fraud_Dibbert-Green,entertainment,13.88,M,14707,239,0,25454,13,weekday
+"fraud_Schmeler, Bashirian and Price",shopping_net,1.3,M,28423,2290,0,29253,1,weekday
+fraud_Bauch-Raynor,grocery_pos,153.77,F,7980,2307,0,20574,2,weekend
+fraud_Thompson-Gleason,health_fitness,57.89,F,4680,1131,0,24351,14,weekday
+fraud_Boyer-Reichert,shopping_net,5.69,M,3774,1966,0,28564,7,weekday
+fraud_Dooley Inc,shopping_pos,8.59,F,97014,1288,0,32760,0,weekday
+"fraud_Schultz, Simonis and Little",grocery_pos,44.71,M,7208,124967,0,16455,0,weekday
+fraud_Terry-Huel,shopping_net,110.98,M,70531,1261,0,19550,9,weekday
+fraud_Ziemann-Waters,health_fitness,13.5,M,46702,2304,0,25736,12,weekday
+fraud_Stark-Koss,home,6.4,M,49621,3096,0,18353,13,weekday
+"fraud_Bernhard, Grant and Langworth",shopping_pos,7.15,F,46254,910148,0,18303,13,weekend
+fraud_Lynch-Wisozk,home,41.94,M,52768,1426,0,25146,23,weekday
+"fraud_Streich, Hansen and Veum",gas_transport,70.26,M,16239,4172,0,23306,11,weekday
+fraud_Stracke-Lemke,grocery_pos,206.13,F,18433,6508,0,16272,10,weekday
+fraud_Lind-Buckridge,entertainment,5.76,M,97132,28278,0,17708,19,weekday
+fraud_Schiller Ltd,personal_care,11.79,F,33470,26551,0,17902,22,weekday
+fraud_Hudson-Grady,shopping_pos,2.56,F,76626,1563,0,17478,19,weekday
+fraud_Torphy-Kertzmann,health_fitness,11.24,F,70732,1178,0,27239,16,weekday
+fraud_Kiehn Inc,grocery_pos,230.22,F,76050,5875,0,12222,4,weekend
+fraud_Rau and Sons,grocery_pos,146.26,M,35651,1312,0,25910,6,weekend
+fraud_Gaylord-Powlowski,home,46.14,F,6441,5438,0,22333,23,weekday
+fraud_Kris-Padberg,shopping_pos,66.21,F,65066,6703,0,10096,13,weekday
+fraud_Homenick LLC,personal_care,109.57,F,33967,224256,0,14743,18,weekday
+fraud_Leffler-Goldner,personal_care,23.9,F,14537,207,0,23115,17,weekday
+fraud_Harber Inc,gas_transport,56.79,F,11955,3285,0,13771,4,weekday
+fraud_Bernhard-Lesch,food_dining,7.81,F,56668,136,0,9455,19,weekend
+fraud_Gottlieb-Hansen,personal_care,12.94,M,83120,471,0,21345,15,weekend
+"fraud_Osinski, Ledner and Leuschke",grocery_pos,211.06,F,26041,16183,0,17682,11,weekday
+fraud_Dare-Marvin,entertainment,17.6,F,99160,149,0,17369,17,weekday
+fraud_Halvorson Group,misc_pos,4.52,F,21872,718,0,14906,15,weekday
+fraud_Effertz LLC,entertainment,10.45,F,95567,1930,0,15551,13,weekend
+"fraud_Tillman, Fritsch and Schmitt",misc_net,7.23,F,29911,1725,0,18663,14,weekday
+fraud_Corwin-Gorczany,misc_net,14.49,F,67556,320,0,23638,10,weekend
+fraud_Brown PLC,misc_net,4.32,F,33811,237282,0,16992,8,weekday
+"fraud_Zieme, Bode and Dooley",gas_transport,45.22,M,78214,1595797,0,11042,7,weekday
+"fraud_Kihn, Brakus and Goyette",personal_care,71.63,F,98233,14871,0,18933,22,weekday
+"fraud_Bahringer, Bergnaum and Quitzon",home,100.24,M,84735,258,0,23422,23,weekday
+fraud_Conroy Ltd,shopping_pos,7.73,F,29939,302,0,19243,15,weekend
+fraud_Gleason-Macejkovic,shopping_net,1.13,F,72583,1679,0,14497,13,weekday
+"fraud_Rowe, Batz and Goodwin",grocery_pos,136.55,M,5155,828,0,24969,2,weekday
+"fraud_Little, Gutmann and Lynch",shopping_net,2.57,F,99113,761,0,30144,3,weekday
+"fraud_Boehm, Predovic and Reinger",misc_pos,945.02,M,34668,42619,0,18357,17,weekend
+"fraud_Tillman, Dickinson and Labadie",gas_transport,73.79,F,68950,331,0,27537,9,weekday
+fraud_Torp-Lemke,misc_pos,3.32,M,97210,841711,0,22926,2,weekday
+fraud_Boyer PLC,shopping_net,6.06,F,85020,1312922,0,16148,17,weekday
+"fraud_Greenholt, Jacobi and Gleason",gas_transport,49.47,F,95148,973849,0,25779,8,weekday
+fraud_Prohaska-Murray,gas_transport,62.02,F,99113,761,0,30144,7,weekend
+fraud_Wuckert-Goldner,home,25.54,F,44233,7646,0,13630,22,weekend
+"fraud_Casper, Hand and Zulauf",grocery_pos,103.06,F,64874,760,0,14741,7,weekday
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,8.0,F,63867,1019,0,17150,17,weekday
+fraud_Harris Group,food_dining,45.38,F,47863,205,0,24110,19,weekday
+fraud_Bruen-Yost,misc_pos,8.1,F,69165,1789,0,16038,23,weekend
+fraud_Kerluke Inc,misc_net,520.24,M,37132,158701,0,17476,20,weekday
+fraud_Treutel-King,travel,456.68,M,82711,110,0,19231,16,weekday
+fraud_Pacocha-O'Reilly,grocery_pos,41.44,F,11217,2504700,0,9627,0,weekday
+fraud_Eichmann-Russel,misc_pos,8.61,F,36507,19090,0,35288,4,weekday
+fraud_Skiles-Ankunding,grocery_net,34.84,F,17041,213,0,19687,1,weekday
+fraud_Kuhic Inc,grocery_pos,184.84,F,49259,2523,0,13808,5,weekend
+fraud_Donnelly LLC,entertainment,188.25,M,83252,4154,0,23366,5,weekend
+"fraud_Heller, Gutmann and Zieme",grocery_pos,123.07,M,12575,2258,0,32440,4,weekend
+"fraud_Reichert, Shanahan and Hayes",shopping_net,2.74,M,49705,937,0,24750,2,weekday
+"fraud_Kihn, Abernathy and Douglas",shopping_net,1.19,M,76366,2317,0,22419,5,weekday
+fraud_Luettgen PLC,gas_transport,70.61,M,22968,9815,0,18449,10,weekend
+"fraud_Swaniawski, Bahringer and Ledner",grocery_net,46.83,M,80436,565,0,17302,4,weekend
+fraud_O'Hara-Wilderman,food_dining,36.79,F,2630,1850,0,22657,20,weekday
+"fraud_Hyatt, Russel and Gleichner",health_fitness,73.72,M,49826,137,0,12933,14,weekday
+"fraud_Kihn, Abernathy and Douglas",shopping_net,5.73,M,39665,1196,0,24684,6,weekend
+fraud_Homenick LLC,personal_care,54.11,M,4047,1892,0,25515,20,weekday
+fraud_Dooley Inc,shopping_pos,6.98,F,10962,5950,0,19915,13,weekend
+"fraud_Mosciski, Ziemann and Farrell",shopping_net,5.84,M,82501,19408,0,11808,16,weekday
+fraud_Pollich LLC,home,45.7,F,45307,338,0,13679,12,weekday
+fraud_Pacocha-Weissnat,kids_pets,120.39,F,16048,139,0,26162,16,weekday
+fraud_Abbott-Steuber,personal_care,100.33,F,95528,1139,0,27388,23,weekday
+fraud_Lynch Ltd,shopping_pos,126.63,M,61272,1504,0,11784,8,weekend
+"fraud_Kuhic, Bins and Pfeffer",shopping_net,5.32,M,16314,5507,0,19158,12,weekend
+fraud_Gibson-Deckow,entertainment,18.85,M,55403,1022298,0,17999,13,weekday
+fraud_Parker-Kunde,personal_care,22.46,M,73134,640470,0,21749,21,weekday
+fraud_Gottlieb-Hansen,personal_care,37.66,F,76578,1766,0,18270,17,weekend
+fraud_Schaefer Ltd,kids_pets,113.24,M,70062,68211,0,30942,23,weekend
+"fraud_Medhurst, Cartwright and Ebert",personal_care,4.77,M,49621,3096,0,18353,14,weekday
+fraud_Haley Group,misc_pos,18.43,M,35229,493806,0,16617,19,weekday
+fraud_Jakubowski Inc,home,24.95,M,34112,276002,0,17174,17,weekday
+fraud_Botsford PLC,home,67.9,M,31567,782,0,16064,13,weekend
+fraud_Rutherford-Mertz,grocery_pos,203.31,M,19017,348,0,29469,6,weekday
+"fraud_Witting, Beer and Ernser",home,65.45,F,44483,75903,0,25116,15,weekday
+"fraud_Schneider, Hayes and Nikolaus",food_dining,56.27,M,11964,1858,0,15287,12,weekday
+fraud_Little Ltd,kids_pets,21.13,F,27522,12335,0,13992,15,weekday
+fraud_White and Sons,home,52.93,M,61335,532,0,25568,15,weekend
+fraud_Kilback and Sons,entertainment,88.24,M,12460,277,0,19752,20,weekend
+fraud_Kulas Group,health_fitness,3.25,M,48636,864,0,30566,21,weekend
+"fraud_Effertz, Welch and Schowalter",entertainment,91.98,F,31563,1324,0,36341,13,weekday
+fraud_Rutherford-Mertz,grocery_pos,88.67,F,29661,5648,0,33333,2,weekday
+fraud_Murray Ltd,grocery_net,42.79,F,13304,1684,0,11637,0,weekday
+fraud_Jaskolski-Dibbert,grocery_net,102.68,F,62262,1810,0,18644,6,weekend
+"fraud_Gottlieb, Considine and Schultz",shopping_net,8.36,F,10162,1577385,0,24848,11,weekend
+"fraud_Nicolas, Hills and McGlynn",entertainment,1.42,M,43985,128,0,29136,12,weekday
+"fraud_Mosciski, Gislason and Mertz",grocery_pos,195.23,F,33470,26551,0,17902,6,weekday
+fraud_Berge-Hills,kids_pets,56.05,M,56152,1507,0,11777,13,weekday
+"fraud_Douglas, DuBuque and McKenzie",travel,2.48,F,38778,1686,0,14309,23,weekday
+fraud_Doyle Ltd,grocery_pos,129.57,M,12410,397,0,34453,5,weekend
+fraud_Gleason and Sons,kids_pets,191.18,F,53153,2328,0,30684,16,weekday
+"fraud_Kuhic, Bins and Pfeffer",shopping_net,5.96,F,4680,1131,0,24351,11,weekday
+"fraud_Schuppe, Nolan and Hoeger",shopping_pos,227.69,F,18433,6508,0,16272,21,weekday
+fraud_Kling Inc,gas_transport,32.76,M,64017,464,0,24333,5,weekend
+fraud_Little Ltd,kids_pets,77.96,F,27249,12486,0,33572,21,weekend
+fraud_Haley Group,misc_pos,29.53,M,79085,53,0,12257,9,weekday
+fraud_Brown PLC,misc_net,229.3,F,16114,606,0,10336,19,weekday
+fraud_Medhurst PLC,shopping_net,1.85,F,10280,1577385,0,23617,8,weekday
+fraud_Hills-Witting,shopping_net,2.27,M,7750,3279,0,17263,21,weekday
+"fraud_Lowe, Dietrich and Erdman",kids_pets,77.77,M,37754,4729,0,15971,20,weekday
+fraud_Ernser-Lynch,food_dining,37.23,M,44223,47772,0,21920,3,weekday
+fraud_Kozey-Kuhlman,personal_care,4.06,F,5461,4542,0,10158,18,weekday
+fraud_Botsford PLC,home,49.39,M,97132,28278,0,17708,22,weekday
+fraud_White and Sons,home,21.08,M,53120,9679,0,12692,15,weekday
+fraud_Hills-Witting,shopping_net,8.24,F,15432,427,0,27367,10,weekday
+fraud_Champlin and Sons,home,18.4,F,69165,1789,0,16038,16,weekday
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,143.1,M,17088,823,0,15897,5,weekend
+fraud_Cruickshank-Mills,entertainment,31.61,M,35651,1312,0,25910,15,weekend
+fraud_Medhurst PLC,shopping_net,1.22,F,62856,324,0,18105,17,weekday
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,3.46,M,96037,308,0,24583,2,weekend
+fraud_Barrows PLC,shopping_pos,113.83,F,81642,61,0,31478,9,weekend
+fraud_Gerhold LLC,home,19.03,M,93529,633,0,35917,22,weekday
+"fraud_Nicolas, Hills and McGlynn",entertainment,1.93,M,4047,1892,0,25515,20,weekend
+fraud_Stracke-Lemke,grocery_pos,98.22,F,18103,166081,0,9962,8,weekday
+fraud_Buckridge PLC,misc_pos,39.43,M,78631,2395,0,11741,8,weekday
+fraud_Kris-Padberg,shopping_pos,132.22,M,14778,1453,0,18956,9,weekday
+fraud_Rolfson-Kunde,personal_care,19.66,F,50312,222785,0,25553,15,weekday
+"fraud_Rippin, Kub and Mann",misc_net,6.0,F,82227,241,0,16460,4,weekday
+"fraud_Quitzon, Green and Bashirian",shopping_pos,5.62,M,87533,18408,0,19533,21,weekday
+fraud_Romaguera Ltd,health_fitness,45.61,F,43160,22305,0,31718,12,weekday
+fraud_Friesen Ltd,health_fitness,73.34,M,64659,964,0,18645,21,weekday
+"fraud_Becker, Harris and Harvey",personal_care,270.87,F,15665,1472,0,30989,14,weekend
+fraud_Hudson-Ratke,grocery_pos,207.93,F,85173,2872,0,13953,4,weekend
+fraud_Rau and Sons,grocery_pos,54.54,M,70726,71335,0,11546,10,weekday
+fraud_Greenholt Ltd,health_fitness,74.62,M,49775,95,0,11657,15,weekday
+"fraud_Ritchie, Oberbrunner and Cremin",travel,5.62,M,84532,9772,0,13195,22,weekend
+fraud_Terry Ltd,home,42.72,M,66070,2661,0,28180,14,weekend
+fraud_Dibbert-Green,entertainment,2.57,F,64019,2368,0,13325,15,weekday
+fraud_McGlynn-Jaskolski,misc_pos,7.46,F,76665,2526,0,20147,4,weekend
+"fraud_Ferry, Reichel and DuBuque",grocery_net,25.31,F,70732,1178,0,27239,2,weekday
+fraud_Daugherty LLC,kids_pets,34.79,F,82514,1645,0,14571,12,weekday
+fraud_Kuphal-Predovic,misc_net,3.23,F,53801,878,0,18678,4,weekend
+fraud_Schmitt Inc,gas_transport,62.03,F,49854,6469,0,17074,9,weekday
+"fraud_Raynor, Reinger and Hagenes",gas_transport,69.21,M,97813,1302,0,17980,5,weekend
+fraud_Cormier LLC,health_fitness,24.75,M,14425,10717,0,26751,17,weekday
+fraud_Hills-Boyer,personal_care,200.49,F,10039,1577385,0,16204,14,weekday
+fraud_Leannon-Ward,food_dining,61.32,F,40170,344,0,21470,14,weekend
+fraud_Pollich LLC,home,60.88,F,28405,186140,0,15676,13,weekend
+"fraud_Hagenes, Kohler and Hoppe",food_dining,181.55,F,49854,6469,0,17074,16,weekday
+"fraud_Monahan, Hermann and Johns",travel,6.6,M,43321,267,0,7650,21,weekend
+fraud_Ledner-Pfannerstill,gas_transport,84.25,F,15920,922,0,19455,2,weekend
+fraud_Roob LLC,grocery_net,117.95,F,75218,1263321,0,18531,6,weekday
+fraud_Schuppe-Schuppe,food_dining,24.25,F,30426,1100,0,27673,17,weekday
+fraud_Pacocha-O'Reilly,grocery_pos,40.8,M,60091,27020,0,14415,9,weekday
+"fraud_Schumm, Bauch and Ondricka",grocery_pos,50.18,M,37302,3730,0,12765,6,weekday
+fraud_Mosciski Group,travel,2.57,M,38922,3451,0,15210,13,weekday
+"fraud_Effertz, Welch and Schowalter",entertainment,119.2,F,52535,888,0,13804,22,weekend
+"fraud_Cormier, Stracke and Thiel",entertainment,124.42,M,77971,911,0,20445,7,weekend
+"fraud_Kihn, Abernathy and Douglas",shopping_net,6.02,M,35049,3996,0,17741,16,weekend
+fraud_Maggio-Fahey,misc_pos,2.76,F,33620,717255,0,21665,11,weekend
+fraud_Streich Ltd,home,26.34,F,25832,3994,0,32572,17,weekend
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,8.3,F,52760,533,0,13145,22,weekday
+fraud_Pollich LLC,home,33.93,M,57732,1979,0,20391,12,weekend
+fraud_Herman Inc,misc_pos,108.19,F,64114,545147,0,13932,1,weekday
+fraud_Kuhic LLC,shopping_net,37.32,F,67851,2691,0,11834,17,weekday
+fraud_Bogisich-Weimann,kids_pets,129.43,M,48202,673342,0,20504,15,weekend
+"fraud_Kling, Howe and Schneider",home,153.91,F,79842,498,0,12831,17,weekday
+fraud_Durgan-Auer,misc_net,3.47,M,39572,1414,0,24798,9,weekday
+fraud_Schuppe LLC,entertainment,367.8,F,35901,67082,0,22980,11,weekend
+fraud_Block-Parisian,misc_net,2.54,M,78214,1595797,0,11042,18,weekend
+fraud_Cassin-Harvey,grocery_net,85.72,F,83646,84106,0,20056,8,weekend
+fraud_Wisozk and Sons,misc_pos,1.28,M,48706,67858,0,11260,21,weekday
+fraud_Trantow PLC,grocery_net,38.41,M,35049,3996,0,17741,9,weekday
+fraud_Kautzer and Sons,personal_care,5.28,M,79413,254282,0,27009,19,weekend
+fraud_Beer-Jast,kids_pets,149.21,F,57717,8007,0,31160,14,weekday
+fraud_Kuphal-Predovic,misc_net,30.76,F,37932,391389,0,11585,1,weekday
+"fraud_Zboncak, Rowe and Murazik",shopping_net,6.85,M,14733,3833,0,20181,12,weekend
+"fraud_Dare, Casper and Bartoletti",kids_pets,119.18,F,54487,9594,0,10274,18,weekend
+fraud_Cartwright-Harris,grocery_pos,87.23,M,53061,5196,0,17519,9,weekday
+fraud_Auer LLC,personal_care,46.8,F,25442,1925,0,21879,22,weekday
+fraud_Abshire PLC,entertainment,15.25,F,91321,34882,0,19983,18,weekday
+fraud_Prohaska-Murray,gas_transport,39.03,F,63665,241,0,18702,2,weekday
+fraud_Mayert Group,shopping_pos,1.76,M,11768,21902,0,18135,15,weekend
+fraud_Nader-Maggio,personal_care,1.8,F,7711,1533,0,33142,19,weekend
+fraud_Flatley-Durgan,misc_net,53.65,F,92585,54287,0,19467,0,weekend
+fraud_Schmitt Ltd,misc_net,29.19,F,94971,337,0,26121,2,weekday
+fraud_Collier Inc,grocery_net,64.67,F,99160,149,0,17369,8,weekend
+"fraud_Graham, Hegmann and Hammes",food_dining,1.08,F,59448,743,0,19608,12,weekend
+"fraud_Boehm, Block and Jakubowski",misc_pos,1.6,M,4287,3224,0,10367,12,weekday
+fraud_Eichmann-Russel,misc_pos,35.0,M,95629,832,0,14115,4,weekday
+fraud_Boyer-Reichert,shopping_net,973.92,F,44233,7646,0,13630,12,weekday
+fraud_Crona and Sons,kids_pets,14.08,F,97014,1288,0,32760,20,weekend
+fraud_Nader-Maggio,personal_care,89.2,M,49440,128715,0,11187,17,weekday
+fraud_Corwin-Gorczany,misc_net,8.34,M,37849,25459,0,20775,4,weekday
+fraud_Bogisich Inc,grocery_pos,43.96,M,55606,272,0,8954,23,weekend
+"fraud_Dare, Fritsch and Zboncak",health_fitness,125.15,F,4555,1643,0,18169,22,weekday
+"fraud_Nienow, Ankunding and Collier",misc_pos,8.74,F,22810,863,0,19511,16,weekday
+fraud_Rowe-Vandervort,grocery_net,47.01,F,72042,5161,0,11964,10,weekend
+fraud_Kerluke Inc,misc_net,193.9,F,53153,2328,0,30684,2,weekday
+fraud_Waters-Cruickshank,health_fitness,20.73,M,12534,17867,0,10026,23,weekend
+"fraud_Swaniawski, Lowe and Robel",shopping_pos,6.77,F,37663,87124,0,14209,17,weekday
+fraud_Kihn-Fritsch,food_dining,47.17,F,45415,479994,0,20150,16,weekday
+"fraud_Medhurst, Labadie and Gottlieb",travel,512.46,F,94558,94014,0,14751,23,weekday
+fraud_Welch Inc,misc_net,9.05,F,12419,722,0,12866,20,weekday
+fraud_Langworth LLC,personal_care,9.88,F,25526,21902,0,16549,16,weekend
+fraud_Volkman PLC,food_dining,54.53,M,23303,741,0,14390,21,weekday
+"fraud_Gutmann, McLaughlin and Wiza",home,47.49,M,35229,493806,0,16617,20,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,59.71,F,33417,459921,0,23950,5,weekend
+"fraud_Prosacco, Kreiger and Kovacek",home,66.65,M,16314,5507,0,19158,16,weekday
+fraud_Kutch-Ferry,home,42.8,F,97492,597,0,23611,20,weekday
+fraud_Gottlieb Group,kids_pets,3.75,F,24070,1363,0,31185,15,weekday
+fraud_Dickinson Ltd,personal_care,31.9,M,28314,238602,0,11928,23,weekend
+fraud_Pagac LLC,shopping_pos,4.49,F,38315,3876,0,23792,9,weekday
+fraud_Leffler-Goldner,personal_care,14.39,F,19310,3066,0,35607,16,weekend
+"fraud_Zieme, Bode and Dooley",gas_transport,59.39,F,15010,28425,0,9345,11,weekday
+"fraud_Brown, Homenick and Lesch",health_fitness,166.88,F,19007,21125,0,14839,15,weekend
+"fraud_Reinger, Weissnat and Strosin",food_dining,71.36,M,4287,3224,0,10367,14,weekday
+fraud_Bins-Rice,gas_transport,66.49,F,82221,635,0,19173,1,weekday
+fraud_McDermott-Weimann,grocery_pos,43.47,M,21208,33917,0,17743,9,weekday
+fraud_Heidenreich PLC,grocery_pos,124.88,F,6024,647,0,13985,1,weekend
+"fraud_Hayes, Marquardt and Dibbert",misc_net,1.33,F,13615,1271,0,24620,7,weekend
+fraud_Berge-Ullrich,home,7.61,M,22311,321490,0,12516,15,weekend
+fraud_Heller PLC,health_fitness,9.69,M,8323,804,0,22205,14,weekday
+fraud_Wuckert-Goldner,home,27.84,M,13811,4354,0,11650,16,weekday
+fraud_Cormier LLC,health_fitness,73.83,M,15324,632,0,13425,18,weekday
+"fraud_Streich, Hansen and Veum",gas_transport,79.27,M,44223,47772,0,21920,5,weekday
+"fraud_Kilback, Nitzsche and Leffler",travel,494.38,M,40914,467,0,15194,17,weekday
+fraud_Pouros-Haag,shopping_pos,3.87,M,77379,316665,0,12903,15,weekday
+fraud_Kozey-McDermott,travel,7.81,F,45622,321,0,17001,23,weekday
+fraud_Gislason Group,misc_pos,74.08,F,10962,5950,0,19915,0,weekend
+"fraud_Turcotte, McKenzie and Koss",entertainment,16.97,F,23666,136895,0,31524,9,weekend
+fraud_Padberg-Welch,grocery_pos,126.27,F,95537,276,0,35312,0,weekday
+fraud_Dibbert-Green,entertainment,163.69,F,83646,84106,0,20056,14,weekend
+fraud_Romaguera Ltd,health_fitness,21.53,F,25106,642,0,28987,21,weekday
+fraud_Lesch Ltd,shopping_pos,111.46,M,40077,564,0,10866,12,weekday
+"fraud_Schultz, Simonis and Little",grocery_pos,80.66,F,48043,16305,0,36024,0,weekday
+fraud_Kuvalis Ltd,gas_transport,72.49,M,33710,341043,0,13464,3,weekday
+"fraud_Becker, Harris and Harvey",personal_care,80.33,F,14510,4895,0,24544,20,weekday
+"fraud_Durgan, Gislason and Spencer",home,20.6,F,55065,1201,0,16815,19,weekday
+"fraud_Zemlak, Tillman and Cremin",personal_care,86.7,M,58015,291,0,12672,20,weekday
+fraud_Gottlieb Group,kids_pets,70.31,F,19149,1526206,0,14983,18,weekday
+fraud_Kuhic LLC,shopping_net,32.96,F,19149,1526206,0,14983,15,weekday
+fraud_Eichmann-Russel,misc_pos,78.03,F,72341,222,0,22881,9,weekday
+fraud_Abshire PLC,entertainment,295.59,F,28405,186140,0,15676,18,weekday
+fraud_Stark-Koss,home,79.72,M,64659,964,0,18645,16,weekend
+"fraud_Nicolas, Hills and McGlynn",entertainment,8.34,M,95827,757530,0,17056,21,weekday
+"fraud_Welch, Rath and Koepp",entertainment,117.26,F,22046,116155,0,15524,18,weekday
+"fraud_Monahan, Hermann and Johns",travel,5.55,M,7640,4664,0,22108,12,weekend
+fraud_Fadel-Hilpert,health_fitness,80.5,M,37849,25459,0,20775,21,weekend
+"fraud_Altenwerth, Cartwright and Koss",shopping_net,6.36,M,63453,519,0,21880,3,weekend
+fraud_Dare-Marvin,entertainment,68.17,M,48636,864,0,30566,12,weekend
+"fraud_Hagenes, Kohler and Hoppe",food_dining,187.2,M,21208,33917,0,17743,17,weekend
+fraud_Jacobi and Sons,shopping_pos,9.63,M,75238,1263321,0,24302,6,weekend
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,94.02,F,80120,320420,0,18425,16,weekend
+fraud_Fadel Inc,health_fitness,51.66,F,31632,10295,0,10241,23,weekday
+fraud_Boyer-Haley,travel,163.07,F,43160,22305,0,31718,12,weekend
+fraud_Stoltenberg-Beatty,shopping_pos,2.44,M,75980,2836,0,14647,21,weekday
+fraud_Trantow PLC,grocery_net,50.77,F,36749,1089,0,19792,1,weekend
+"fraud_Bahringer, Bergnaum and Quitzon",home,41.35,M,34112,276002,0,17174,23,weekday
+"fraud_Conroy, Balistreri and Gorczany",health_fitness,115.45,F,22810,863,0,19511,21,weekday
+fraud_Harber Inc,gas_transport,56.14,M,78248,1595797,0,18275,0,weekday
+fraud_Collier LLC,home,7.3,M,4287,3224,0,10367,17,weekend
+"fraud_Wiza, Schaden and Stark",misc_pos,320.61,F,41056,14228,0,20013,9,weekday
+fraud_Reynolds-Schinner,misc_pos,30.46,M,39113,595,0,16930,9,weekday
+"fraud_Reichert, Shanahan and Hayes",shopping_net,78.56,M,82711,110,0,19231,4,weekday
+fraud_Langworth LLC,personal_care,64.05,M,35764,653,0,21754,15,weekend
+"fraud_Wintheiser, Dietrich and Schimmel",misc_pos,57.03,F,96776,1490,0,12690,14,weekday
+fraud_Hirthe-Beier,health_fitness,123.28,M,86018,759,0,25124,16,weekend
+fraud_Nader-Heller,misc_net,35.38,M,28372,14783,0,25631,9,weekend
+fraud_Kuvalis Ltd,gas_transport,69.82,F,76834,5908,0,23290,7,weekend
+fraud_Howe PLC,entertainment,114.86,F,37663,87124,0,14209,23,weekday
+fraud_Doyle Ltd,grocery_pos,92.7,M,35811,190178,0,19276,8,weekday
+fraud_Dooley Inc,shopping_pos,7.04,F,64874,760,0,14741,19,weekday
+"fraud_Streich, Rolfson and Wilderman",kids_pets,1.83,F,44412,2644,0,15478,12,weekday
+"fraud_Kutch, Hermiston and Farrell",gas_transport,63.15,M,24983,2443,0,30766,5,weekday
+"fraud_Jenkins, Hauck and Friesen",gas_transport,84.3,M,26237,571,0,21300,9,weekend
+fraud_Miller-Harris,misc_net,63.75,F,29911,1725,0,18663,18,weekday
+fraud_Koelpin and Sons,misc_net,88.7,F,98238,85,0,15105,22,weekday
+fraud_Schmeler-Howe,personal_care,39.7,F,15920,922,0,19455,15,weekday
+fraud_Cormier LLC,health_fitness,104.17,M,60091,27020,0,14415,22,weekend
+fraud_Padberg-Sauer,home,64.23,M,52576,568,0,20623,21,weekday
+"fraud_Greenholt, O'Hara and Balistreri",shopping_net,2.57,M,53061,5196,0,17519,14,weekday
+"fraud_Lind, Huel and McClure",gas_transport,57.91,F,98238,85,0,15105,7,weekday
+"fraud_Hoppe, Harris and Bednar",entertainment,71.73,F,39073,19685,0,14991,21,weekend
+fraud_Abbott-Steuber,personal_care,140.48,M,16878,1762,0,23261,14,weekday
+fraud_Kuhic LLC,shopping_net,9.14,F,61454,725,0,19400,20,weekend
+fraud_Ratke and Sons,health_fitness,74.02,M,39113,595,0,16930,16,weekend
+fraud_Cartwright PLC,kids_pets,50.31,F,67545,215,0,20867,15,weekday
+"fraud_Turner, Ruecker and Parisian",misc_pos,6.34,M,14425,10717,0,26751,5,weekday
+"fraud_Kling, Howe and Schneider",home,96.1,F,21872,718,0,14906,22,weekend
+"fraud_Lockman, West and Runte",grocery_pos,92.25,F,56138,899,0,11317,3,weekday
+"fraud_Streich, Rolfson and Wilderman",kids_pets,45.12,M,5486,1654,0,12762,22,weekday
+fraud_Bednar Group,misc_net,217.59,F,73754,1078,0,26850,5,weekday
+fraud_Mayert Group,shopping_pos,1.28,F,68932,493,0,31164,8,weekday
+fraud_Wolf Inc,grocery_pos,180.69,F,80120,320420,0,18425,5,weekend
+"fraud_Rowe, Batz and Goodwin",grocery_pos,46.36,M,1535,4680,0,14526,0,weekday
+fraud_Donnelly PLC,misc_net,8.34,M,37132,158701,0,17476,1,weekend
+fraud_Mayert Group,shopping_pos,65.94,F,49895,765,0,19569,19,weekday
+"fraud_Becker, Harris and Harvey",personal_care,59.0,F,76665,2526,0,20147,13,weekday
+fraud_Monahan-Morar,personal_care,26.74,F,82514,1645,0,14571,21,weekday
+fraud_Torp-Lemke,misc_pos,133.52,M,79906,749635,0,19346,13,weekday
+fraud_Johns-Hoeger,entertainment,26.95,M,87035,7268,0,13672,13,weekday
+"fraud_Zieme, Bode and Dooley",gas_transport,37.08,F,79842,498,0,12831,7,weekday
+fraud_Sawayn PLC,shopping_pos,113.41,M,73754,1078,0,13244,7,weekday
+fraud_Auer LLC,personal_care,32.62,M,59542,192,0,22651,16,weekday
+"fraud_Schumm, McLaughlin and Carter",food_dining,18.66,M,35747,5901,0,19526,13,weekend
+"fraud_Quitzon, Green and Bashirian",shopping_pos,123.04,M,64659,964,0,18645,5,weekend
+"fraud_Kutch, Steuber and Gerhold",food_dining,51.7,M,78631,2395,0,11741,16,weekday
+fraud_Fahey Inc,kids_pets,15.19,F,27522,12335,0,13992,15,weekend
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,76.27,M,7022,13835,0,21411,8,weekday
+fraud_Kiehn-Emmerich,grocery_pos,67.98,M,45879,6284,0,32795,7,weekday
+fraud_Dooley Inc,shopping_pos,9.5,M,63453,519,0,21880,2,weekend
+fraud_McGlynn-Heathcote,misc_net,1636.87,F,31563,1324,0,36341,6,weekday
+fraud_Terry Ltd,home,139.14,F,43330,118,0,24895,18,weekday
+fraud_Kling Inc,gas_transport,48.04,M,43985,128,0,29136,6,weekend
+fraud_Hilpert-Conroy,kids_pets,47.67,F,14037,1166,0,15552,12,weekday
+fraud_Hermann-Gaylord,misc_pos,6.19,M,79413,254282,0,27009,5,weekend
+"fraud_Lesch, D'Amore and Brown",food_dining,54.4,M,86018,759,0,25124,13,weekend
+"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,107.0,M,42211,13422,0,23504,11,weekend
+fraud_White and Sons,home,5.27,F,21102,11751,0,22609,20,weekday
+fraud_Stoltenberg-Beatty,shopping_pos,32.77,M,33956,3776,0,18016,14,weekend
+fraud_Pouros-Conroy,shopping_pos,6.44,F,48438,6951,0,14815,22,weekday
+fraud_Auer LLC,personal_care,23.91,F,32784,11432,0,14529,16,weekend
+fraud_Gulgowski LLC,home,73.4,M,37754,4729,0,15971,18,weekday
+fraud_Schuppe LLC,entertainment,95.82,M,12466,2471,0,21903,21,weekday
+fraud_Balistreri-Nader,misc_pos,1.4,M,89704,4290,0,13179,12,weekend
+"fraud_Romaguera, Wehner and Tromp",kids_pets,147.59,F,6365,4720,0,17768,22,weekday
+fraud_Zboncak LLC,food_dining,6.39,M,56019,914,0,29752,18,weekday
+"fraud_Ledner, Hartmann and Feest",health_fitness,65.59,F,13615,1271,0,24620,22,weekday
+fraud_Kihn-Fritsch,food_dining,58.59,F,44483,75903,0,25116,7,weekend
+fraud_Pouros-Conroy,shopping_pos,8.35,M,28314,238602,0,11928,13,weekday
+fraud_Pacocha-Bauch,shopping_pos,3.22,M,7747,30770,0,11943,17,weekday
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,115.24,M,61272,1504,0,11784,2,weekday
+fraud_Friesen Inc,shopping_pos,21.28,F,11796,4056,0,12982,12,weekday
+"fraud_Altenwerth, Cartwright and Koss",shopping_net,9.62,F,84540,46,0,14141,14,weekday
+"fraud_Hauck, Dietrich and Funk",kids_pets,38.11,F,10280,1577385,0,23617,19,weekday
+fraud_Kilback LLC,grocery_pos,97.38,F,68859,509,0,16552,4,weekend
+"fraud_Schumm, McLaughlin and Carter",food_dining,28.54,M,27258,6006,0,15148,21,weekday
+fraud_Kihn Inc,shopping_pos,1.84,F,63336,1146,0,35341,5,weekend
+fraud_Morissette PLC,shopping_pos,6.41,F,85020,1312922,0,16148,17,weekend
+"fraud_Brown, Homenick and Lesch",health_fitness,31.15,F,29939,302,0,19243,20,weekend
+"fraud_Greenfelder, Bartoletti and Davis",misc_net,94.67,F,53153,2328,0,30684,11,weekday
+fraud_Ratke and Sons,health_fitness,30.4,F,15484,328,0,15509,22,weekday
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,5.48,F,92585,54287,0,19467,20,weekend
+fraud_Smitham-Schiller,grocery_net,56.31,M,76008,13602,0,15163,5,weekday
+"fraud_Altenwerth, Cartwright and Koss",shopping_net,4.7,M,79252,3202,0,10159,22,weekday
+fraud_Friesen-D'Amore,gas_transport,51.0,F,92637,45303,0,20472,1,weekend
+fraud_Beier and Sons,home,22.9,F,46254,910148,0,18303,18,weekend
+fraud_McKenzie-Huels,food_dining,16.81,M,62360,1656,0,20612,20,weekday
+fraud_Stamm-Witting,shopping_net,54.76,M,52576,568,0,20623,3,weekday
+fraud_Kozey-McDermott,travel,5.22,F,68859,509,0,16552,22,weekday
+"fraud_Hermiston, Russel and Price",food_dining,7.62,M,43321,267,0,7650,15,weekday
+fraud_Schmidt and Sons,shopping_net,9.61,M,12410,397,0,34453,6,weekend
+fraud_Fritsch and Sons,health_fitness,49.91,M,75238,1263321,0,24302,13,weekday
+"fraud_Bahringer, Schoen and Corkery",shopping_pos,2.77,F,64058,123373,0,12096,15,weekday
+"fraud_Swift, Bradtke and Marquardt",grocery_net,30.6,M,78248,1595797,0,18275,1,weekend
+fraud_Stark-Koss,home,12.28,M,33844,33804,0,12792,16,weekday
+"fraud_Turner, Ziemann and Lehner",food_dining,27.54,M,21750,3766,0,15305,17,weekday
+fraud_Kulas Group,health_fitness,21.2,F,15829,1274,0,28054,20,weekday
+fraud_Kessler Inc,travel,1.5,M,40062,301,0,21483,15,weekday
+fraud_Spinka-Welch,grocery_net,50.45,M,50073,1195,0,18930,0,weekday
+"fraud_Moore, Williamson and Emmerich",home,21.32,F,61454,725,0,19400,23,weekday
+fraud_Altenwerth-Kilback,home,50.45,F,97492,597,0,23611,16,weekend
+"fraud_Cole, Hills and Jewess",home,75.9,M,55001,2916,0,33067,22,weekday
+fraud_Swift PLC,kids_pets,45.89,F,95528,1139,0,27388,20,weekend
+fraud_McGlynn-Jaskolski,misc_pos,239.64,M,35747,5901,0,19526,19,weekday
+fraud_Skiles-Ankunding,grocery_net,36.52,F,71291,54185,0,12103,9,weekday
+"fraud_Hauck, Dietrich and Funk",kids_pets,78.05,F,35901,67082,0,22980,18,weekend
+fraud_Gottlieb-Hansen,personal_care,7.43,M,49621,3096,0,18353,18,weekday
+"fraud_Kling, Howe and Schneider",home,89.39,M,47515,965,0,16039,13,weekday
+fraud_Bauch-Raynor,grocery_pos,129.44,M,21865,470,0,22192,4,weekend
+fraud_Bednar Inc,travel,3.57,M,54654,153,0,23340,13,weekend
+"fraud_Little, Gutmann and Lynch",shopping_net,6.45,F,67038,602,0,24547,8,weekday
+fraud_Boyer PLC,misc_pos,5.91,F,73754,1078,0,26850,1,weekday
+fraud_Koss and Sons,gas_transport,68.36,M,59871,218,0,11104,2,weekday
+fraud_Turner and Sons,shopping_pos,5.17,F,72042,5161,0,11964,23,weekday
+fraud_Kihn-Fritsch,food_dining,3.88,M,67232,409656,0,14623,22,weekend
+"fraud_Olson, Becker and Koch",gas_transport,55.79,M,37754,4729,0,15971,8,weekday
+"fraud_Moen, Reinger and Murphy",grocery_pos,81.08,M,35776,3395,0,17155,0,weekday
+fraud_Kiehn Inc,grocery_pos,86.18,M,44857,23805,0,20410,9,weekday
+fraud_Bahringer Group,health_fitness,22.34,M,52572,1132,0,23705,23,weekday
+fraud_Huels-Hahn,gas_transport,50.05,F,22810,863,0,19511,2,weekday
+fraud_Brekke and Sons,gas_transport,85.05,M,51632,7297,0,12964,3,weekend
+"fraud_Prosacco, Kreiger and Kovacek",home,14.89,F,29819,1523,0,15195,14,weekday
+fraud_McGlynn-Jaskolski,misc_pos,1.89,F,61530,6713,0,29363,10,weekday
+"fraud_Olson, Becker and Koch",gas_transport,64.71,F,7060,71485,0,18802,10,weekday
+"fraud_Witting, Beer and Ernser",home,8.52,F,73754,1078,0,26850,19,weekday
+fraud_Brekke and Sons,gas_transport,81.04,M,24927,365,0,20390,5,weekday
+fraud_Labadie LLC,personal_care,11.54,F,6024,647,0,13985,16,weekend
+fraud_Schimmel-Olson,kids_pets,2.6,M,33873,14742,0,12005,22,weekend
+"fraud_Weber, Thiel and Hammes",kids_pets,15.72,M,70726,71335,0,11546,14,weekday
+fraud_Schiller Ltd,personal_care,2.51,M,44412,2644,0,16439,22,weekday
+fraud_Rau-Grant,kids_pets,37.17,M,93529,633,0,35917,17,weekend
+"fraud_Bernhard, Grant and Langworth",shopping_pos,78.13,M,45879,6284,0,32795,1,weekday
+fraud_Fritsch and Sons,health_fitness,105.95,F,65072,1847,0,13589,23,weekend
+"fraud_Baumbach, Feeney and Morar",shopping_net,23.93,F,38079,5577,0,22290,0,weekday
+fraud_Simonis-Prohaska,misc_pos,15.85,M,39825,1461,0,32996,4,weekend
+"fraud_Lockman, West and Runte",grocery_pos,114.89,F,97014,1288,0,32760,0,weekday
+fraud_Sporer-Keebler,personal_care,69.43,F,75452,4090,0,17824,22,weekend
+fraud_Ratke and Sons,health_fitness,79.56,M,12455,1988,0,17398,14,weekday
+"fraud_Graham, Hegmann and Hammes",food_dining,61.27,M,45808,349,0,17182,14,weekday
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,3.62,M,70056,55581,0,19477,19,weekend
+fraud_Mohr Inc,shopping_pos,7.82,F,62262,1810,0,18644,22,weekday
+fraud_Rau-Grant,kids_pets,21.39,M,88325,899,0,21317,22,weekday
+fraud_Ziemann-Waters,health_fitness,105.46,F,25526,21902,0,16549,12,weekday
+fraud_Jakubowski Group,food_dining,33.89,F,77412,106,0,15510,13,weekend
+fraud_Beier and Sons,home,173.49,F,33811,237282,0,16992,23,weekday
+fraud_Morissette LLC,entertainment,66.28,M,31042,1841,0,18485,12,weekend
+fraud_Erdman-Durgan,health_fitness,43.6,F,92128,1241364,0,24055,23,weekday
+fraud_Harris Group,food_dining,1.15,F,13755,1228,0,13102,13,weekday
+"fraud_Reilly, Heaney and Cole",gas_transport,48.89,F,66618,163415,0,7680,0,weekend
+fraud_Murray-Smitham,grocery_pos,218.2,F,94015,107941,0,12516,8,weekday
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,5.4,F,36758,1412,0,20139,19,weekday
+"fraud_Watsica, Haag and Considine",shopping_pos,3.13,F,62939,3119,0,30583,9,weekday
+"fraud_Schiller, Blanda and Johnson",home,55.84,F,57717,8007,0,31160,21,weekday
+fraud_Stark-Batz,entertainment,303.48,F,48438,6951,0,14815,15,weekday
+fraud_Turner and Sons,shopping_pos,2.02,M,66070,2661,0,28180,9,weekday
+"fraud_Zemlak, Tillman and Cremin",personal_care,12.8,M,4074,18760,0,33885,16,weekend
+"fraud_Terry, Johns and Bins",misc_pos,1.16,M,59632,1939,0,21547,10,weekday
+fraud_Ullrich Ltd,kids_pets,19.66,M,77971,911,0,20445,14,weekday
+"fraud_Yost, Schamberger and Windler",kids_pets,65.96,F,15484,328,0,15509,13,weekday
+fraud_Block-Hauck,travel,9.7,F,54487,9594,0,10274,15,weekday
+fraud_Padberg-Sauer,home,79.08,F,61454,725,0,19400,13,weekday
+fraud_Howe Ltd,misc_pos,138.38,F,25832,3994,0,32572,6,weekday
+fraud_Pacocha-Weissnat,kids_pets,5.44,F,69165,1789,0,16038,13,weekday
+"fraud_Kling, Howe and Schneider",home,44.29,F,11217,2504700,0,9627,21,weekday
+fraud_Lockman Ltd,grocery_pos,110.07,M,62424,2092,0,23265,7,weekday
+fraud_Cole PLC,grocery_pos,92.93,F,96776,1490,0,12690,1,weekend
+"fraud_Cole, Hills and Jewess",home,74.9,M,79063,686,0,16599,17,weekday
+fraud_Torp-Labadie,gas_transport,67.04,M,29455,20478,0,10446,6,weekend
+fraud_Jast Ltd,shopping_net,6.04,F,16048,139,0,26162,10,weekday
+fraud_Fritsch LLC,travel,6.32,F,45307,338,0,13679,19,weekday
+fraud_Predovic Inc,shopping_net,666.41,M,39665,1196,0,24684,4,weekday
+fraud_Mraz-Herzog,gas_transport,60.09,F,16034,2054,0,22804,4,weekend
+"fraud_Mueller, Gerhold and Mueller",health_fitness,8.23,F,58579,1190,0,28317,16,weekend
+"fraud_Cremin, Hamill and Reichel",misc_pos,35.77,F,24266,9521,0,17614,10,weekday
+fraud_Kilback LLC,grocery_pos,102.25,M,56152,1507,0,11777,5,weekend
+fraud_Pacocha-O'Reilly,grocery_pos,311.92,M,99783,145,1,31473,23,weekend
+fraud_Kiehn Inc,grocery_pos,62.01,F,61530,6713,0,29363,3,weekday
+fraud_Sporer Inc,gas_transport,55.15,F,25106,642,0,28987,5,weekend
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,153.52,M,37132,158701,0,17476,12,weekend
+fraud_Reynolds-Schinner,misc_pos,1.84,M,91206,172817,0,15869,22,weekend
+"fraud_Lockman, West and Runte",grocery_pos,143.04,F,39769,1923,0,24100,5,weekday
+fraud_Kertzmann LLC,health_fitness,148.51,F,76050,5875,0,12222,21,weekend
+fraud_Gottlieb Group,kids_pets,21.23,F,68031,1745,0,19007,23,weekday
+fraud_Bauch-Raynor,grocery_pos,57.34,M,1844,47249,0,16484,0,weekday
+fraud_Denesik and Sons,shopping_pos,5.92,F,79539,178,0,15550,19,weekday
+fraud_Thiel PLC,misc_pos,3.0,F,15432,427,0,27367,9,weekend
+fraud_Connelly PLC,food_dining,24.59,F,18433,6508,0,16272,22,weekday
+fraud_Reilly LLC,home,33.78,F,15486,2303,0,14026,20,weekday
+"fraud_Tromp, Kerluke and Glover",grocery_net,41.85,M,93627,123,0,19329,9,weekend
+"fraud_Monahan, Hermann and Johns",travel,7.36,M,80736,648,0,20564,15,weekday
+"fraud_Moen, Reinger and Murphy",grocery_pos,128.33,M,83643,129,0,21940,5,weekday
+fraud_Block-Parisian,misc_net,76.86,M,31630,419,0,12857,7,weekday
+"fraud_Pouros, Walker and Spencer",kids_pets,25.48,M,79252,3202,0,10159,15,weekday
+"fraud_Lockman, West and Runte",grocery_pos,79.96,M,22015,43102,0,27437,2,weekday
+"fraud_O'Connell, Botsford and Hand",home,93.05,F,29809,2206,0,14254,15,weekday
+"fraud_Quitzon, Green and Bashirian",shopping_pos,40.37,F,77358,4993,0,28164,0,weekend
+"fraud_Monahan, Bogisich and Ledner",misc_pos,2.49,F,69165,1789,0,16038,18,weekday
+fraud_Lockman Ltd,grocery_pos,94.37,M,15324,632,0,13425,10,weekday
+fraud_Schimmel-Olson,kids_pets,77.7,F,36009,2566,0,24669,18,weekday
+"fraud_Gutmann, McLaughlin and Wiza",home,81.21,F,20687,313,0,18186,18,weekend
+fraud_Kuphal-Toy,food_dining,43.95,F,68932,493,0,31164,22,weekday
+fraud_Gottlieb-Hansen,personal_care,23.01,F,52535,888,0,13804,20,weekday
+"fraud_Lehner, Reichert and Mills",misc_pos,11.64,M,4364,6025,0,11220,18,weekday
+"fraud_Gutmann, McLaughlin and Wiza",home,54.47,M,76566,258,0,29976,17,weekday
+"fraud_Graham, Hegmann and Hammes",food_dining,45.84,F,34112,276002,0,33438,5,weekend
+fraud_Schamberger-O'Keefe,grocery_pos,231.45,F,76665,2526,0,20147,3,weekday
+fraud_Terry Ltd,home,27.34,F,33620,717255,0,21665,12,weekday
+"fraud_Kihn, Brakus and Goyette",personal_care,27.7,F,19149,1526206,0,14983,22,weekday
+"fraud_Raynor, Reinger and Hagenes",gas_transport,72.18,F,84540,46,0,14141,9,weekday
+fraud_Klein Group,entertainment,64.03,M,80436,565,0,17302,15,weekend
+"fraud_Durgan, Gislason and Spencer",home,33.12,F,21872,718,0,14906,18,weekday
+fraud_Ortiz Group,grocery_net,57.22,F,82072,35371,0,13643,10,weekend
+"fraud_Cronin, Kshlerin and Weber",health_fitness,36.2,F,57374,343,0,19668,23,weekday
+"fraud_Schultz, Simonis and Little",grocery_pos,136.76,M,49632,1126,0,25755,0,weekday
+"fraud_Lind, Huel and McClure",gas_transport,60.29,M,35776,3395,0,17155,2,weekday
+"fraud_Little, Gutmann and Lynch",shopping_net,2.77,M,16239,4172,0,23306,5,weekday
+"fraud_Moen, Reinger and Murphy",grocery_pos,185.51,F,79772,12747,0,14129,2,weekday
+fraud_Cummerata-Jones,gas_transport,73.5,M,76240,26120,0,26301,6,weekday
+fraud_Wilkinson Ltd,entertainment,16.75,M,50598,912,0,21057,17,weekday
+"fraud_Moore, Dibbert and Koepp",misc_net,209.67,F,19149,1526206,0,14983,11,weekend
+fraud_Luettgen PLC,gas_transport,71.35,M,99783,145,0,31473,4,weekend
+fraud_Goodwin-Nitzsche,grocery_pos,123.14,M,70531,1261,0,19550,1,weekday
+"fraud_Goldner, Kovacek and Abbott",grocery_pos,179.4,F,16839,489,0,25318,10,weekday
+fraud_Brown Inc,kids_pets,80.08,M,20895,19054,0,18020,22,weekend
+"fraud_Labadie, Treutel and Bode",shopping_net,17.68,F,14537,207,0,23115,7,weekday
+fraud_Kilback LLC,grocery_pos,78.43,F,51521,2036,0,19866,2,weekday
+fraud_Zboncak Ltd,food_dining,3.64,M,39825,1461,0,32996,12,weekday
+fraud_Schmidt-Larkin,home,38.08,F,68859,509,0,16552,22,weekend
+"fraud_Heathcote, Yost and Kertzmann",shopping_net,4.01,F,29911,1725,0,18663,19,weekend
+"fraud_Yost, Block and Koepp",misc_pos,7.38,F,72042,5161,0,11964,5,weekday
+fraud_Dickinson Ltd,personal_care,16.14,F,85020,1312922,0,16148,23,weekday
+fraud_Brown-Greenholt,entertainment,91.01,F,18433,6508,0,16272,18,weekend
+fraud_Windler LLC,kids_pets,47.08,M,79085,53,0,12257,12,weekend
+fraud_Schaefer Ltd,kids_pets,95.4,M,77379,316665,0,12903,19,weekend
+fraud_Pouros-Conroy,shopping_pos,190.68,M,99783,145,0,31473,1,weekday
+fraud_Jewess LLC,shopping_pos,8.03,F,58569,77,0,13172,23,weekend
+fraud_Effertz LLC,entertainment,106.21,M,72165,111,0,9341,22,weekend
+fraud_Koepp-Parker,grocery_pos,104.98,F,66941,242,0,14055,6,weekend
+"fraud_Turcotte, Batz and Buckridge",health_fitness,24.04,M,50527,223,0,31682,14,weekday
+fraud_Dare-Gibson,health_fitness,104.44,M,56019,914,0,29752,17,weekday
+fraud_Waelchi Inc,kids_pets,12.06,F,64114,545147,0,13932,22,weekday
+fraud_Huel-Langworth,misc_net,177.57,F,84540,46,0,14141,0,weekday
+fraud_Friesen-Stamm,gas_transport,65.81,F,74536,1760,0,19713,2,weekend
+"fraud_Schoen, Nienow and Bauch",personal_care,7.49,M,63453,519,0,21880,13,weekday
+fraud_Swift PLC,kids_pets,74.32,F,29320,530,0,13389,15,weekday
+fraud_Lesch Ltd,shopping_pos,7.86,F,77327,34153,0,11078,17,weekday
+fraud_Breitenberg-Hermiston,kids_pets,56.67,F,29939,302,0,19243,15,weekday
+fraud_Labadie LLC,personal_care,7.28,M,55001,2916,0,33067,21,weekday
+fraud_Harber Inc,gas_transport,54.01,M,7022,13835,0,21411,9,weekend
+fraud_Bahringer Group,health_fitness,106.22,M,13484,176,0,22658,21,weekday
+fraud_Koss and Sons,gas_transport,42.35,F,66941,242,0,14055,0,weekday
+fraud_Erdman-Schaden,personal_care,10.59,F,80120,320420,0,18425,12,weekend
+fraud_Dickinson-Rempel,misc_pos,9.93,F,62661,1213,0,12681,23,weekend
+fraud_Hilpert-Conroy,kids_pets,7.29,F,62023,91,0,23063,14,weekday
+"fraud_Durgan, Gislason and Spencer",home,10.47,M,71960,1383,0,21704,22,weekend
+fraud_Schumm PLC,health_fitness,10.22,M,76366,2317,0,22419,19,weekday
+"fraud_Schiller, Blanda and Johnson",home,10.22,F,62262,1810,0,18644,16,weekday
+"fraud_Hagenes, Kohler and Hoppe",food_dining,4.07,M,7208,124967,0,16455,12,weekday
+"fraud_Yost, Block and Koepp",misc_pos,44.06,M,70531,1261,0,19550,5,weekday
+fraud_Brown Inc,kids_pets,10.79,M,29105,1514,0,21575,19,weekend
+"fraud_Roberts, Ryan and Smith",personal_care,6.96,M,47434,76,0,25816,22,weekend
+"fraud_Labadie, Treutel and Bode",shopping_net,8.08,F,39840,5726,0,28638,9,weekday
+fraud_Friesen-Stamm,gas_transport,88.58,F,76678,263,0,25426,8,weekday
+fraud_Dooley Inc,shopping_pos,40.4,F,12986,6120,0,17989,17,weekday
+"fraud_Raynor, Feest and Miller",gas_transport,31.61,M,38761,2870,0,9807,3,weekday
+"fraud_O'Connell, Botsford and Hand",home,41.0,M,99783,145,0,31473,16,weekday
+fraud_Pfeffer and Sons,shopping_pos,107.02,M,90650,105549,0,19102,19,weekday
+fraud_Volkman PLC,food_dining,115.02,F,7980,2307,0,20574,23,weekend
+fraud_McKenzie-Huels,food_dining,1.57,F,16114,606,0,10336,14,weekday
+fraud_Fritsch and Sons,health_fitness,4.13,F,69165,1789,0,16038,17,weekend
+fraud_Ledner-Pfannerstill,gas_transport,69.41,M,55046,5211,0,14227,11,weekday
+"fraud_Walter, Hettinger and Kessler",personal_care,77.11,M,57756,1126,0,16580,18,weekend
+fraud_Kuhn LLC,misc_net,39.02,F,75452,4090,0,17824,2,weekday
+fraud_Fisher-Schowalter,shopping_net,244.65,F,97452,1420,0,21974,11,weekday
+fraud_Collier LLC,home,28.13,M,88325,899,0,21317,17,weekday
+fraud_Will Ltd,food_dining,31.98,F,72476,7155,0,17824,13,weekday
+"fraud_Tillman, Dickinson and Labadie",gas_transport,75.21,M,35811,190178,0,19276,3,weekend
+fraud_Roob LLC,grocery_net,41.83,M,5155,828,0,24969,2,weekday
+"fraud_Haley, Jewess and Bechtelar",shopping_pos,4.6,M,70726,71335,0,11546,17,weekday
+"fraud_Stroman, Hudson and Erdman",gas_transport,76.35,M,37849,25459,0,20775,11,weekday
+"fraud_Kutch, Steuber and Gerhold",food_dining,65.13,M,79413,254282,0,27009,3,weekday
+"fraud_Kihn, Abernathy and Douglas",shopping_net,8.64,M,83120,471,0,21345,0,weekday
+fraud_Schamberger-O'Keefe,grocery_pos,151.76,F,17058,1909,0,26073,4,weekend
+fraud_McCullough LLC,misc_pos,39.92,M,59014,1446,0,17526,2,weekday
+fraud_Ziemann-Waters,health_fitness,1.8,M,68403,206,0,21282,22,weekday
+"fraud_Labadie, Treutel and Bode",shopping_net,120.88,F,19154,1526206,0,19589,23,weekday
+fraud_Rutherford-Mertz,grocery_pos,198.03,F,75452,4090,0,17824,4,weekday
+fraud_Collier LLC,home,11.95,F,53153,2328,0,30684,20,weekday
+"fraud_Watsica, Haag and Considine",shopping_pos,117.58,M,14778,1453,0,18956,1,weekday
+fraud_Schaefer Ltd,kids_pets,42.13,F,98304,759,0,25319,21,weekday
+"fraud_Douglas, Schneider and Turner",shopping_pos,6.27,F,72011,4074,0,18283,15,weekday
+fraud_Strosin-Cruickshank,grocery_pos,85.88,F,34112,276002,0,33438,6,weekday
+fraud_Beier and Sons,home,84.5,M,29209,333497,0,21115,13,weekday
+fraud_Thompson-Gleason,health_fitness,1.25,F,46143,78968,0,21153,20,weekday
+fraud_Volkman PLC,food_dining,186.03,M,53186,95015,0,29227,3,weekend
+fraud_Labadie LLC,personal_care,55.77,F,82227,241,0,16460,13,weekend
+"fraud_Greenholt, Jacobi and Gleason",gas_transport,55.78,M,67584,269,0,23070,9,weekday
+fraud_Bradtke PLC,grocery_pos,44.68,M,35747,5901,0,19526,4,weekend
+fraud_Schoen Ltd,kids_pets,7.2,F,13755,1228,0,13102,18,weekend
+fraud_Koss and Sons,gas_transport,61.04,F,15432,427,0,27367,0,weekend
+fraud_Schuppe LLC,entertainment,60.09,F,29911,1725,0,18663,13,weekend
+fraud_Larson-Moen,entertainment,78.51,M,96038,589,0,29239,15,weekday
+fraud_Kuhn Group,food_dining,27.41,F,17060,1334,0,14268,23,weekday
+fraud_Torphy-Kertzmann,health_fitness,159.44,F,69165,1789,0,16038,20,weekday
+fraud_Kutch-Wilderman,home,7.19,M,73034,116001,0,11932,16,weekend
+fraud_Dare-Marvin,entertainment,2.13,F,44483,75903,0,25116,3,weekday
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,48.93,F,26292,836,0,16204,11,weekday
+fraud_Lockman Ltd,grocery_pos,71.22,M,33710,341043,0,13464,0,weekday
+fraud_Beer-Jast,kids_pets,58.55,F,36617,270712,0,19728,13,weekend
+fraud_Rutherford-Mertz,grocery_pos,186.68,F,64114,545147,0,13932,4,weekend
+fraud_Renner Ltd,home,18.25,M,42701,48194,0,13035,16,weekday
+"fraud_Wintheiser, Dietrich and Schimmel",misc_pos,21.19,M,50421,3032,0,22434,9,weekday
+fraud_Parisian and Sons,gas_transport,40.81,F,87543,247,0,23453,11,weekday
+fraud_Erdman-Durgan,health_fitness,29.37,F,94971,337,0,26121,13,weekend
+fraud_Brekke and Sons,gas_transport,102.45,M,15217,687276,0,19075,5,weekday
+"fraud_Parker, Nolan and Trantow",entertainment,52.17,F,6024,647,0,13985,17,weekday
+fraud_McKenzie-Huels,food_dining,48.31,M,11419,47211,0,32484,11,weekday
+fraud_Smitham-Schiller,grocery_net,50.38,M,64659,964,0,18645,10,weekend
+fraud_Kilback LLC,grocery_pos,94.33,F,68881,73,0,33206,9,weekend
+fraud_Mohr Inc,shopping_pos,138.44,M,62668,1512,0,8283,14,weekend
+"fraud_Lockman, West and Runte",grocery_pos,215.17,F,19149,1526206,0,14983,5,weekend
+fraud_Halvorson Group,misc_pos,181.35,F,39073,19685,0,14991,0,weekday
+fraud_White and Sons,home,75.41,M,54441,828,0,12562,18,weekday
+fraud_Denesik and Sons,shopping_pos,2.85,M,41836,798,0,36357,3,weekday
+"fraud_Armstrong, Walter and Gottlieb",food_dining,68.3,M,17850,645,0,18864,23,weekend
+fraud_Dooley Inc,shopping_pos,5.71,M,68403,206,0,21282,3,weekday
+fraud_Padberg-Rogahn,entertainment,145.37,F,7711,1533,0,33142,21,weekend
+fraud_Kuvalis Ltd,gas_transport,55.46,F,36749,1089,0,19792,11,weekday
+fraud_Heller PLC,health_fitness,138.18,F,53153,2328,0,30684,18,weekday
+"fraud_Prosacco, Kreiger and Kovacek",home,19.69,M,63021,92608,0,8933,22,weekday
+fraud_Mohr Inc,shopping_pos,5.77,F,25832,3994,0,32572,7,weekend
+"fraud_Reichert, Huels and Hoppe",shopping_net,93.94,M,39113,595,0,16930,7,weekday
+fraud_Shanahan-Lehner,personal_care,61.06,M,93529,633,0,35917,17,weekday
+"fraud_Graham, Hegmann and Hammes",food_dining,15.98,M,22968,9815,0,18449,15,weekday
+fraud_Kiehn Inc,grocery_pos,99.96,F,32323,217,0,13134,3,weekend
+fraud_Barton Inc,grocery_pos,126.75,M,24927,365,0,20390,9,weekday
+fraud_Friesen-D'Amore,gas_transport,68.73,F,42171,6841,0,9714,7,weekday
+fraud_Reilly LLC,home,93.51,F,74536,1760,0,19713,20,weekday
+"fraud_Armstrong, Walter and Gottlieb",food_dining,50.81,M,54559,795,0,14514,15,weekday
+"fraud_Runte, Green and Emard",health_fitness,125.91,M,33710,341043,0,13464,15,weekday
+"fraud_McLaughlin, Armstrong and Koepp",travel,9.12,M,74875,1165,0,29644,12,weekday
+fraud_Renner Ltd,home,86.36,M,15557,3684,0,18262,15,weekend
+"fraud_Yost, Schamberger and Windler",kids_pets,106.64,F,31605,94325,0,14003,15,weekday
+fraud_Lubowitz-Walter,kids_pets,17.28,F,91321,34882,0,19983,14,weekday
+fraud_Kassulke Inc,entertainment,7.18,M,19017,348,0,29469,18,weekend
+fraud_Friesen Inc,shopping_pos,5.0,M,33956,3776,0,18016,14,weekday
+fraud_Kunze Inc,grocery_pos,49.3,M,33873,14742,0,12005,7,weekday
+fraud_Fisher-Schowalter,shopping_net,186.75,F,52563,1583,0,9692,12,weekday
+"fraud_Lind, Huel and McClure",gas_transport,81.2,F,51006,1075,0,10599,7,weekend
+fraud_Herzog Ltd,misc_pos,39.18,M,40914,467,0,15194,0,weekend
+"fraud_Nitzsche, Kessler and Wolff",shopping_pos,8.62,F,37932,391389,0,11585,21,weekday
+fraud_Weber and Sons,food_dining,80.86,F,75092,46563,0,20209,19,weekday
+fraud_Medhurst PLC,shopping_net,27.79,M,48174,31515,0,19789,19,weekend
+fraud_Ruecker Group,misc_net,8.31,F,74130,413574,0,21024,11,weekday
+fraud_Marvin-Lind,personal_care,51.0,F,85020,1312922,0,16148,22,weekday
+fraud_Beier and Sons,home,27.18,F,82514,1645,0,14571,13,weekday
+fraud_Sporer Inc,gas_transport,66.75,M,84735,258,0,23422,8,weekend
+"fraud_Osinski, Ledner and Leuschke",grocery_pos,197.15,F,28073,5621,0,19049,2,weekday
+fraud_Erdman-Kertzmann,gas_transport,92.65,F,13367,8830,0,12705,0,weekend
+fraud_Huels-Nolan,gas_transport,61.88,F,17327,7565,0,26970,7,weekday
+"fraud_Hills, Hegmann and Schaefer",health_fitness,3.13,M,88325,899,0,21317,12,weekday
+fraud_Renner Ltd,home,51.19,M,54654,153,0,23340,17,weekday
+"fraud_Hermiston, Russel and Price",food_dining,54.7,M,65680,1201,0,16733,12,weekend
+"fraud_Cremin, Hamill and Reichel",misc_pos,49.22,F,49101,3104,0,16357,1,weekend
+fraud_Price Inc,shopping_net,5.14,M,7208,124967,0,16455,16,weekend
+fraud_Kutch-Ferry,home,16.99,F,75662,24536,0,15428,20,weekend
+"fraud_Medhurst, Cartwright and Ebert",personal_care,77.05,M,60072,928,0,14851,18,weekday
+fraud_Waelchi-Wolf,kids_pets,59.61,F,11217,2504700,0,9627,13,weekday
+fraud_Dare-Marvin,entertainment,70.95,F,17041,213,0,19687,21,weekday
+"fraud_Lubowitz, Terry and Stracke",personal_care,22.27,F,85253,17047,0,33218,16,weekday
+fraud_Gaylord-Powlowski,home,45.44,M,40062,301,0,21483,21,weekday
+fraud_Dickinson Ltd,personal_care,2.22,M,35811,190178,0,19276,12,weekday
+fraud_Corwin-Romaguera,travel,3.97,M,19017,348,0,29469,13,weekend
+fraud_McKenzie-Huels,food_dining,1.88,M,16314,5507,0,19158,19,weekday
+"fraud_Cormier, Stracke and Thiel",entertainment,13.1,F,97452,1420,0,21974,15,weekday
+"fraud_Turcotte, Batz and Buckridge",health_fitness,11.67,F,82227,241,0,16460,23,weekday
+fraud_Reichel LLC,personal_care,26.27,M,73134,640470,0,21749,17,weekend
+fraud_Fisher-Schowalter,shopping_net,81.24,M,15077,198,0,17242,5,weekend
+"fraud_Casper, Hand and Zulauf",grocery_pos,133.27,F,4680,1131,0,24351,2,weekday
+fraud_Ortiz Group,grocery_net,83.51,M,21750,3766,0,15305,6,weekend
+fraud_Barton Inc,grocery_pos,83.32,M,13752,782,0,9265,3,weekend
+fraud_Pagac LLC,shopping_pos,3.71,M,15217,687276,0,19075,23,weekday
+fraud_Rodriguez Group,gas_transport,66.89,M,45801,86954,0,12223,3,weekend
+"fraud_Lehner, Reichert and Mills",misc_pos,2.78,M,52572,1132,0,23705,2,weekend
+"fraud_Roob, Conn and Tremblay",shopping_pos,4.61,M,41836,798,0,36357,1,weekend
+fraud_Hamill-D'Amore,health_fitness,100.77,M,61335,532,0,25568,14,weekday
+"fraud_Goyette, Howell and Collier",shopping_pos,1.28,F,21102,11751,0,22609,0,weekend
+fraud_Gleason and Sons,kids_pets,33.37,F,45150,31394,0,10650,22,weekend
+"fraud_Dare, Casper and Bartoletti",kids_pets,40.31,F,28405,186140,0,15676,21,weekend
+fraud_Torphy-Goyette,shopping_pos,1.03,M,51632,7297,0,12964,16,weekday
+fraud_Abernathy and Sons,food_dining,4.8,F,15486,2303,0,14026,23,weekday
+fraud_O'Keefe-Hudson,grocery_pos,109.02,F,94971,337,0,26121,4,weekday
+fraud_Emmerich-Rau,personal_care,91.57,F,64470,1631,0,26652,23,weekend
+fraud_McKenzie-Huels,food_dining,86.47,F,41810,502,0,24084,17,weekday
+"fraud_Swaniawski, Lowe and Robel",shopping_pos,2.85,F,72059,37,0,24845,11,weekend
+"fraud_Lowe, Dietrich and Erdman",kids_pets,102.59,M,48706,67858,0,11260,15,weekday
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,77.14,M,53924,1360,0,15039,16,weekend
+"fraud_Weimann, Kuhic and Beahan",shopping_pos,6.01,F,28654,3495,0,13820,16,weekend
+fraud_Frami Group,entertainment,12.42,M,89319,450,0,28993,16,weekday
+"fraud_Streich, Hansen and Veum",gas_transport,49.31,M,12534,17867,0,10026,6,weekend
+fraud_Dickinson Ltd,misc_pos,248.54,M,78040,248858,0,20070,18,weekday
+fraud_Harris Inc,gas_transport,91.34,M,77971,911,0,20445,0,weekday
+fraud_Bode-Rempel,kids_pets,35.29,F,12419,722,0,12866,22,weekend
+"fraud_Cronin, Kshlerin and Weber",health_fitness,2.04,F,51006,1075,0,10599,14,weekend
+"fraud_Roberts, Daniel and Macejkovic",kids_pets,65.29,M,40077,564,0,10866,22,weekday
+"fraud_Turner, Ziemann and Lehner",food_dining,18.53,F,61454,725,0,19400,22,weekend
+fraud_Leannon-Ward,food_dining,49.47,M,35764,653,0,21754,13,weekday
+fraud_Kilback LLC,food_dining,70.5,F,37932,391389,0,11585,22,weekday
+fraud_Powlowski-Weimann,food_dining,59.02,M,11964,1858,0,15287,14,weekday
+fraud_Schmidt and Sons,shopping_net,93.84,M,59710,286,0,13455,10,weekday
+fraud_Pagac LLC,shopping_pos,122.1,M,82936,49,0,16259,5,weekend
+"fraud_Daugherty, Pouros and Beahan",shopping_pos,192.65,F,53801,878,0,18678,14,weekday
+fraud_Rutherford-Mertz,grocery_pos,63.96,M,27258,6006,0,15148,1,weekend
+fraud_Morissette LLC,entertainment,39.73,F,67556,320,0,23638,21,weekday
+fraud_Graham and Sons,health_fitness,8.12,F,69165,1789,0,16038,12,weekday
+fraud_Jast-McDermott,shopping_pos,14.63,F,17058,1909,0,26073,6,weekday
+fraud_Schimmel-Olson,kids_pets,73.81,F,26339,255,0,19754,15,weekend
+"fraud_Parker, Nolan and Trantow",entertainment,78.81,M,12455,1988,0,17398,20,weekday
+fraud_Fadel Inc,health_fitness,41.05,M,59871,218,0,11104,17,weekday
+fraud_Spencer PLC,entertainment,106.85,M,48034,75830,0,18640,19,weekday
+fraud_Shields-Wunsch,health_fitness,85.06,F,21872,718,0,14906,23,weekday
+"fraud_Lakin, Ferry and Beatty",food_dining,25.95,F,30009,165556,0,10240,17,weekend
+"fraud_Pouros, Walker and Spencer",kids_pets,54.76,M,12460,277,0,19752,18,weekend
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,170.65,F,27522,12335,0,13992,13,weekend
+"fraud_Kling, Howe and Schneider",home,16.52,F,49895,765,0,19569,14,weekend
+fraud_Breitenberg-Hermiston,kids_pets,1.23,F,76578,1766,0,18270,18,weekend
+"fraud_Reichert, Huels and Hoppe",shopping_net,52.57,F,76050,5875,0,12222,19,weekday
+fraud_Schoen-Quigley,kids_pets,316.87,F,21102,11751,0,22609,14,weekday
+fraud_Volkman-Predovic,shopping_net,2.43,F,17327,7565,0,26970,4,weekend
+"fraud_Parisian, Schiller and Altenwerth",misc_net,183.21,M,99033,895,0,9720,16,weekend
+fraud_Shanahan-Lehner,personal_care,3.19,F,62926,2263,0,15093,13,weekday
+fraud_Heller-Langosh,gas_transport,61.19,F,68859,509,0,16552,2,weekend
+fraud_Padberg-Sauer,home,33.18,F,84003,42384,0,12064,15,weekday
+fraud_Connelly-Carter,home,64.13,M,70531,1261,0,19550,16,weekend
+fraud_Kunze Inc,grocery_pos,128.84,M,52576,568,0,20623,2,weekday
+fraud_Schumm PLC,health_fitness,5.96,F,59448,743,0,19608,20,weekday
+fraud_Marks Inc,gas_transport,60.61,M,68961,732,0,25229,8,weekday
+fraud_Hills-Witting,shopping_net,21.08,F,27522,12335,0,13992,22,weekday
+fraud_Lockman Ltd,grocery_pos,64.98,M,16858,3688,0,19220,3,weekend
+fraud_Schumm PLC,health_fitness,68.01,M,32780,54767,0,14048,13,weekday
+fraud_Kilback LLC,grocery_pos,81.89,M,33809,237282,0,27847,0,weekday
+"fraud_Boehm, Block and Jakubowski",misc_pos,8.09,F,97014,1288,0,32760,1,weekend
+fraud_Reilly and Sons,health_fitness,110.0,F,58651,475,0,25628,15,weekday
+fraud_Bartoletti-Wunsch,gas_transport,68.07,M,24340,5657,0,14135,0,weekday
+"fraud_Lockman, West and Runte",grocery_pos,50.67,M,73034,116001,0,11932,3,weekend
+fraud_Roob LLC,grocery_net,88.29,F,92585,54287,0,19467,2,weekday
+fraud_Schuppe LLC,entertainment,4.86,F,33417,459921,0,23950,11,weekday
+"fraud_Feil, Hilpert and Koss",food_dining,22.14,M,1330,1506,0,24022,22,weekday
+fraud_Abbott-Rogahn,entertainment,208.96,F,72476,7155,0,17824,21,weekday
+fraud_Will Ltd,food_dining,124.5,F,36507,19090,0,35288,2,weekday
+fraud_Huel Ltd,misc_net,7.73,M,89512,276896,0,10530,22,weekday
+"fraud_Cremin, Hamill and Reichel",misc_pos,32.44,M,53924,1360,0,15039,7,weekday
+fraud_McDermott-Weimann,grocery_pos,110.32,F,62856,324,0,18105,4,weekend
+fraud_Durgan-Auer,misc_net,4.01,M,7005,15269,0,11876,9,weekday
+"fraud_Kovacek, Dibbert and Ondricka",grocery_pos,196.14,F,46254,910148,0,18303,1,weekday
+fraud_Cummerata-Jones,gas_transport,76.92,F,75858,43,0,27856,1,weekday
+fraud_Hilpert-Conroy,kids_pets,73.65,M,92128,1241364,0,24264,16,weekday
+"fraud_Quitzon, Green and Bashirian",shopping_pos,7.98,F,45150,31394,0,10650,20,weekday
+fraud_Kozey-McDermott,travel,6.41,F,12419,722,0,12866,15,weekday
+fraud_Prohaska-Murray,gas_transport,60.81,F,87117,310,0,17268,0,weekday
+"fraud_Mosciski, Ziemann and Farrell",shopping_net,238.44,F,79548,932,0,25963,0,weekend
+fraud_Leffler-Goldner,personal_care,5.89,F,15484,328,0,15509,13,weekday
+fraud_Pacocha-Bauch,shopping_pos,776.98,F,26292,836,0,16204,15,weekday
+fraud_Strosin-Cruickshank,grocery_pos,168.42,F,73754,1078,0,26850,6,weekday
+"fraud_McCullough, Hudson and Schuster",food_dining,21.77,F,48438,6951,0,14815,21,weekday
+"fraud_Cormier, Stracke and Thiel",entertainment,7.88,M,28372,14783,0,25631,3,weekday
+"fraud_Reilly, Heaney and Cole",gas_transport,68.84,M,49632,1126,0,25755,9,weekday
+fraud_Kemmer-Reinger,grocery_net,112.11,F,38079,5577,0,22290,10,weekday
+fraud_Metz-Boehm,shopping_pos,166.63,M,57756,1126,0,16580,16,weekday
+fraud_Erdman-Durgan,health_fitness,113.84,M,99033,895,0,9720,21,weekday
+fraud_Bode-Schuster,kids_pets,109.06,F,97753,2016,0,26313,12,weekday
+fraud_Jewess LLC,shopping_pos,157.26,F,14120,45100,0,11764,15,weekend
+fraud_Mohr Inc,shopping_pos,9.86,M,53120,9679,0,12692,22,weekend
+fraud_Boyer-Reichert,shopping_net,2.11,M,94619,381459,0,18999,15,weekday
+"fraud_Becker, Harris and Harvey",personal_care,16.67,F,30009,165556,0,10240,13,weekday
+fraud_Kutch-Ferry,home,16.71,M,99783,145,0,31473,12,weekend
+fraud_Dietrich-Fadel,health_fitness,70.0,F,95453,11256,0,19441,13,weekend
+"fraud_Gottlieb, Considine and Schultz",shopping_net,6.7,F,72583,1679,0,14497,19,weekend
+fraud_Harris Inc,gas_transport,67.87,M,28611,885,0,13630,1,weekend
+"fraud_Okuneva, Schneider and Rau",shopping_pos,120.31,F,23937,1970,0,14739,21,weekday
+fraud_Trantow PLC,grocery_net,40.57,F,11796,4056,0,12982,9,weekday
+fraud_Zboncak LLC,food_dining,67.11,M,82936,49,0,16259,21,weekday
+"fraud_Zboncak, Rowe and Murazik",shopping_net,3.84,M,56019,914,0,29752,1,weekday
+fraud_Runte-Mohr,food_dining,11.64,M,20634,5927,0,19207,16,weekday
+fraud_Bailey-Morar,grocery_pos,94.52,F,29817,4913,0,21610,10,weekend
+fraud_Ernser-Feest,home,23.05,M,16421,2518,0,29196,18,weekday
+fraud_Kilback LLC,grocery_pos,88.85,F,35901,67082,0,22980,9,weekend
+fraud_Bode-Schuster,kids_pets,51.68,F,2630,1850,0,22657,20,weekend
+fraud_Jewess LLC,shopping_pos,64.0,F,32784,11432,0,14529,18,weekend
+"fraud_Connelly, Reichert and Fritsch",gas_transport,57.51,F,37932,391389,0,11585,9,weekday
+fraud_Huels-Nolan,gas_transport,107.52,F,77007,2906700,0,14999,9,weekend
+fraud_Lynch Ltd,shopping_pos,5.67,M,7208,124967,0,16455,18,weekday
+fraud_White and Sons,home,19.79,F,33967,224256,0,14743,16,weekend
+fraud_Gottlieb-Hansen,personal_care,11.51,M,44223,47772,0,21920,13,weekday
+fraud_Emmerich-Rau,personal_care,64.58,M,8323,804,0,22205,13,weekday
+fraud_Harris Group,food_dining,53.93,M,56019,914,0,29752,15,weekend
+"fraud_Bernier, Streich and Jewess",grocery_net,2.86,F,71960,1383,0,9617,8,weekend
+fraud_Kihn-Schuster,food_dining,50.64,M,59710,286,0,13455,23,weekday
+fraud_Beer-Jast,kids_pets,98.03,F,60958,2135,0,7916,20,weekend
+fraud_Prosacco LLC,personal_care,74.14,M,40914,467,0,15194,15,weekend
+fraud_Lockman Ltd,grocery_pos,84.26,M,91206,172817,0,15869,6,weekend
+"fraud_Schaefer, Maggio and Daugherty",gas_transport,65.79,F,13342,165,0,29331,10,weekday
+fraud_Runte-Mohr,food_dining,98.93,M,54154,5548,0,18383,22,weekday
+"fraud_Baumbach, Strosin and Nicolas",shopping_pos,9.55,F,99160,149,0,17369,15,weekday
+fraud_Heidenreich PLC,grocery_pos,141.87,M,24927,365,0,20390,1,weekend
+fraud_Cummings LLC,gas_transport,57.5,F,13316,6460,0,24211,1,weekday
+fraud_Little Ltd,kids_pets,6.75,F,75858,43,0,27856,21,weekend
+"fraud_Wuckert, Wintheiser and Friesen",home,12.02,F,66618,163415,0,7680,15,weekday
+fraud_Morissette LLC,entertainment,81.22,M,15923,1770,0,11355,14,weekday
+fraud_Cummerata-Jones,gas_transport,56.15,M,96037,308,0,24583,7,weekday
+fraud_Nolan-Williamson,kids_pets,10.17,M,47434,76,0,25816,15,weekday
+"fraud_Hyatt, Russel and Gleichner",health_fitness,4.44,F,28073,5621,0,19049,20,weekday
+fraud_DuBuque LLC,grocery_pos,176.63,F,33967,224256,0,14743,10,weekday
+fraud_Kihn-Schuster,food_dining,54.83,M,46765,5341,0,11369,18,weekend
+fraud_Hermann and Sons,shopping_pos,2.81,F,58569,77,0,13172,12,weekend
+fraud_Conroy-Cruickshank,gas_transport,34.54,M,21524,626,0,23768,0,weekday
+fraud_Pouros-Conroy,shopping_pos,483.77,M,7005,15269,0,11876,14,weekend
+fraud_Cummerata-Jones,gas_transport,54.57,F,60913,1617,0,13043,10,weekday
+"fraud_Reichert, Rowe and Mraz",shopping_net,2.75,M,21619,5848,0,16399,23,weekday
+"fraud_Hahn, Bahringer and McLaughlin",personal_care,1.67,M,67584,269,0,23070,12,weekend
+fraud_Stracke-Lemke,grocery_pos,75.36,M,67232,409656,0,14623,3,weekend
+"fraud_Kling, Howe and Schneider",home,66.3,M,48174,31515,0,19789,18,weekday
+fraud_Cartwright PLC,kids_pets,110.92,F,39157,24645,0,21775,13,weekend
+"fraud_Gottlieb, Considine and Schultz",shopping_net,93.9,M,23303,741,0,14390,6,weekend
+fraud_Kuhn Group,food_dining,8.08,M,46322,23727,0,16041,15,weekday
+"fraud_Becker, Harris and Harvey",personal_care,29.24,M,96038,589,0,29239,19,weekday
+fraud_Powlowski-Weimann,food_dining,111.61,F,44902,92985,0,21044,12,weekday
+"fraud_Reilly, Heaney and Cole",gas_transport,51.43,M,29105,1514,0,21575,2,weekday
+fraud_Wolf Inc,grocery_pos,118.43,F,58531,307,0,34848,1,weekday
+fraud_Gottlieb Group,kids_pets,141.66,F,20687,313,0,18186,22,weekday
+fraud_Schulist Ltd,food_dining,15.85,M,46702,2304,0,25736,21,weekday
+fraud_Conroy-Cruickshank,gas_transport,71.06,F,63665,241,0,18702,7,weekday
+fraud_Bruen-Yost,misc_pos,6.41,M,35776,3395,0,17155,18,weekday
+fraud_Murray-Smitham,grocery_pos,112.8,M,3601,477,0,13783,11,weekday
+"fraud_Kutch, Steuber and Gerhold",food_dining,81.48,F,25442,1925,0,21879,19,weekday
+"fraud_Mante, Luettgen and Hackett",health_fitness,33.7,F,43408,269,0,22031,19,weekend
+fraud_Kozey-Boehm,shopping_net,1.41,M,43985,128,0,29136,9,weekday
+fraud_Osinski Inc,personal_care,23.39,F,13615,1271,0,24620,15,weekday
+fraud_Mayert Group,shopping_pos,341.67,M,47838,4081,0,32077,0,weekday
+fraud_Schmeler-Howe,personal_care,26.54,F,45342,36784,0,30843,18,weekday
+"fraud_Runolfsdottir, Mueller and Hand",entertainment,46.28,M,60091,27020,0,14415,19,weekday
+fraud_Lubowitz-Walter,kids_pets,77.01,M,48174,31515,0,19789,21,weekday
+fraud_Wisozk and Sons,misc_pos,7.01,M,25213,5512,0,16727,17,weekday
+"fraud_Terry, Johns and Bins",misc_pos,44.19,M,82936,49,0,16259,3,weekend
+"fraud_Eichmann, Hayes and Treutel",travel,1.9,F,14120,45100,0,11764,14,weekday
+fraud_Brown Inc,kids_pets,44.93,F,78584,18128,0,12847,23,weekday
+fraud_Dooley-Thompson,misc_net,25.85,M,47434,76,0,25816,1,weekday
+fraud_Pacocha-O'Reilly,grocery_pos,78.49,F,52535,888,0,13804,6,weekday
+fraud_McDermott-Rice,misc_pos,9.07,M,12992,4778,0,26142,1,weekday
+"fraud_Schoen, Kuphal and Nitzsche",grocery_pos,132.74,F,75661,2807,0,34682,2,weekday
+fraud_Spinka Inc,grocery_net,10.64,M,78248,1595797,0,18275,11,weekend
+fraud_Jacobi Inc,health_fitness,19.03,F,80120,320420,0,18425,12,weekday
+fraud_Champlin and Sons,home,14.01,M,13484,176,0,22658,19,weekend
+"fraud_Ritchie, Oberbrunner and Cremin",travel,8.38,M,47434,76,0,25816,21,weekend
+fraud_Kiehn Inc,grocery_pos,115.86,F,75934,99,0,21964,9,weekend
+fraud_Pacocha-O'Reilly,grocery_pos,67.03,M,60091,27020,0,14415,2,weekend
+fraud_Goyette-Gerhold,kids_pets,47.51,M,82514,1645,0,18215,13,weekday
+fraud_Ziemann-Waters,health_fitness,43.72,M,76366,2317,0,22419,16,weekend
