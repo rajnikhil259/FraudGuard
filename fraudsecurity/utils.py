@@ -4,6 +4,7 @@ import sys
 import numpy as np 
 import pandas as pd
 import dill
+import pickle
 
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import recall_score, roc_auc_score
@@ -18,6 +19,17 @@ def save_object(file_path, obj):
 
         with open(file_path, "wb") as file_obj:
             dill.dump(obj, file_obj)
+
+    except Exception as e:
+        raise CustomException(e, sys)
+    
+def load_object(file_path):
+    try:
+        if not os.path.exists(file_path):
+            raise FileNotFoundError(f"File not found: {file_path}")
+
+        with open(file_path, "rb") as file_obj:
+            return pickle.load(file_obj)
 
     except Exception as e:
         raise CustomException(e, sys)

@@ -1,5 +1,16 @@
-python-dotenv
-pandas
 numpy
+pandas
+scikit-learn
+xgboost
+catboost
+imbalanced-learn
+pickle-mixin
+dill
+flask
+python-dateutil
+#-e .
+
+
+
 
 
